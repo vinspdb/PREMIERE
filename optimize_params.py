@@ -97,8 +97,8 @@ def fit_and_score(params):
             'time': end_time - start_time}
 
 
-logfile = "bpi13_complete.csv"  # sys.argv[1]
-output_file = "bpi13_complete_prem.log"  # sys.argv[2]
+logfile = "receipt.csv"  # change with the name of the dataset
+output_file = "receipt.log"  # change with the name of the dataset
 
 current_time = time.strftime("%d.%m.%y-%H.%M", time.localtime())
 outfile = open(output_file, 'w')
