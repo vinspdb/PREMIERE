@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d4621-6015-4a92-b957-2452fbaf83b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fold/receipt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/receipt/receipt_test_fold_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/receipt/receipt_test_fold_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/receipt/receipt_test_fold_2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/receipt/receipt_train_fold_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/receipt/receipt_train_fold_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/receipt/receipt_train_fold_2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kometa_fold/receiptfeature.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generate_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generate_kometa_feature.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_kometa_feature.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,9 +60,83 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="generate_image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PREMIERE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_kometa_feature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PREMIERE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_kometa_feature.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PREMIERE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.generate_image" />
+        <item itemvalue="Python.generate_kometa_feature" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -65,8 +170,26 @@
       <option name="project" value="LOCAL" />
       <updated>1592304752281</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update n.1">
+      <created>1592304860278</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592304860278</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -74,26 +197,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="update n.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1592304751881">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1592304859842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592304751881" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1592304653126">
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592304859842" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1592305237634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1592304653126" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1592305237634" />
+    <state width="1516" height="211" key="GridCell.Tab.0.bottom" timestamp="1592311122198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1516" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592311122198" />
+    <state width="1516" height="211" key="GridCell.Tab.0.center" timestamp="1592311122197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1516" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592311122197" />
+    <state width="1516" height="211" key="GridCell.Tab.0.left" timestamp="1592311122197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1516" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592311122197" />
+    <state width="1516" height="211" key="GridCell.Tab.0.right" timestamp="1592311122198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1516" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592311122198" />
     <state x="300" y="57" key="SettingsEditor" timestamp="1592304526939">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="300" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592304526939" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592304763814">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592306901161">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592304763814" />
-    <state x="536" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592304834068">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592306901161" />
+    <state x="536" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592306834562">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="536" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1592304834068" />
+    <state x="536" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1592306834562" />
     <state x="515" y="201" key="git4idea.merge.GitMergeDialog" timestamp="1592304461127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -137,6 +137,7 @@ X_2 = df[fold1:(fold1+fold2)]
 X_3 = df[(fold1+fold2):]
 
 f = 0
+
 for f in range(3):
     print("Fold n.", f)
     if f == 0:
