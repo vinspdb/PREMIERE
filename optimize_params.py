@@ -119,7 +119,7 @@ fold1, fold2, fold3 = ut.get_size_fold(namedataset)
 target = df[df.columns[-1]]
 df_labels = np.unique(list(target))
 
-img_size = get_image_size(num_col)
+img_size, pad = get_image_size(num_col)
 
 label_encoder = preprocessing.LabelEncoder()
 integer_encoded = label_encoder.fit_transform(df_labels)
