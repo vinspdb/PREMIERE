@@ -16,7 +16,7 @@ and Castellano, Giovanna
 and Malerba, Donato",
 editor="Fahland, Dirk
 and Ghidini, Chiara
-and Becker, J{\"o}rg
+and Becker, Jörg
 and Dumas, Marlon",
 title="Predictive Process Mining Meets Computer Vision",
 booktitle="Business Process Management Forum",
@@ -27,5 +27,3 @@ pages="176--192",
 isbn="978-3-030-58638-6"
 }
 ```
-
-Link to datasets: https://drive.google.com/file/d/1KVRHsn8G0LfLaUTmxPy9CpFyM9hf-mzi/view?usp=sharing
