@@ -1,6 +1,6 @@
 # Predictive Process Mining Meets Computer Vision
 
-**The repository contains code refered to the work:**
+**The repository contains code referred to the work:**
 
 *Vincenzo Pasquadibisceglie, Annalisa Appice, Giovanna Castellano, Donato Malerba*
 
