@@ -86,7 +86,7 @@ if __name__ == "__main__":
         target = ut.get_label(act, max_trace)
         premiere_feature = ut.premiere_feature(list_sequence_prefix, list_resource_prefix, flow_act, agg_time_feature, unique_events, unique_resources, target)
 
-        with open("kometa_fold/"+namedataset+"feature"+".csv", "w", newline='') as f:
+        with open("fold/"+namedataset+"feature"+".csv", "w", newline='') as f:
             writer = csv.writer(f, delimiter=',')
             for feature in premiere_feature:
                 writer.writerow(ut.output_list(feature))
