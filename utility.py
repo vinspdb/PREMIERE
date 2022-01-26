@@ -4,6 +4,7 @@ from datetime import datetime
 from nltk import ngrams
 import pandas as pd
 import time
+from itertools import tee
 
 def get_size_fold(namedataset):
     fold1 = pd.read_csv('fold/' + namedataset + '_premiereFold0' + '.txt', header=None)
@@ -96,17 +97,17 @@ def output_list(masterList):
     return output
 
 
-def get_time(prefix,max_trace):
+def get_time(trace,max_trace):
     i = 0
     s = (max_trace)
     list_seq = []
     datetimeFormat = '%Y/%m/%d %H:%M:%S.%f'
-    while i < len(prefix):
+    while i < len(trace):
         list_temp = []
         seq = np.zeros(s)
         j = 0
-        while j < (len(prefix.iat[i, 0]) - 1):
-            t = time.strptime(prefix.iat[i, 0][0 + j], datetimeFormat)
+        while j < (len(trace.iat[i, 0]) - 1):
+            t = time.strptime(trace.iat[i, 0][0 + j], datetimeFormat)
             list_temp.append(datetime.fromtimestamp(time.mktime(t)))
             new_seq = np.append(seq, list_temp)
             cut = len(list_temp)
@@ -137,3 +138,9 @@ def get_sequence(prefix,max_trace):
             j = j + 1
         i = i + 1
     return list_seq
+
+def pairwise(iterable):
+    "s -> (s0,s1), (s1,s2), (s2, s3), ..."
+    a, b = tee(iterable)
+    next(b, None)
+    return zip(a, b)
