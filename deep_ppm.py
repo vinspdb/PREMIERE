@@ -102,11 +102,11 @@ if __name__ == "__main__":
         output_file = namedataset
 
         current_time = time.strftime("%d.%m.%y-%H.%M", time.localtime())
-        outfile = open(output_file, 'w')
+        outfile = open(output_file+'.log', 'w')
 
         outfile.write("Starting time: %s\n" % current_time)
 
-        n_iter = 20
+        n_iter = 60
 
         f1, f2, f3 = 64, 128, 32
         decay = 0.0
@@ -146,7 +146,7 @@ if __name__ == "__main__":
                  'dropout1': hp.uniform("dropout1", 0, 1),
                  'dropout2': hp.uniform("dropout2", 0, 1),
                  'batch_size': hp.choice('batch_size', [4, 5, 6, 7]),
-                 'learning_rate': hp.uniform("learning_rate", 0.00001, 0.01),
+                 'learning_rate': hp.uniform("learning_rate", (0.00001), (0.01)),
                  'n_classes': n_classes}
 
         for f in range(3):
@@ -213,7 +213,7 @@ if __name__ == "__main__":
             preds_a = np.argmax(preds_a, axis=1)
             accuracy = accuracy_score(y_a_test, preds_a)
 
-            outfile.write(accuracy)
+            outfile.write("\n"+str(accuracy))
 
             outfile.flush()
 
