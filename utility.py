@@ -22,10 +22,6 @@ def get_size_fold(namedataset):
     len_fold2 = len(fold2)
     len_fold3 = len(fold3)
 
-    print("n_caseid1",n_caseid1)
-    print("n_caseid2",n_caseid2)
-    print("n_caseid3",n_caseid3)
-
     nos1 = len_fold1 - n_caseid1
     nos2 = len_fold2 - n_caseid2
     nos3 = len_fold3 - n_caseid3
@@ -81,10 +77,8 @@ def premiere_feature(list_sequence_prefix, list_resource_prefix, flow_act, agg_t
 
         flow_feature = []
         while k < len(flow_act):
-            # print("Sequence->",a[k]," find n. ", list_gram.count(a[k]))
             flow_feature.append(list_gram.count(flow_act[k]))
             k = k + 1
-
         list_flow_feature.append(flow_feature + activity_features + resource_features + agg_time_feature[j] + [target[j]])
         #list_flow_feature.append(activity_features + resource_features + agg_time_feature[j] + [target[j]])
 
@@ -102,17 +96,17 @@ def output_list(masterList):
     return output
 
 
-def get_time(prova,max_trace):
+def get_time(prefix,max_trace):
     i = 0
     s = (max_trace)
     list_seq = []
     datetimeFormat = '%Y/%m/%d %H:%M:%S.%f'
-    while i < len(prova):
+    while i < len(prefix):
         list_temp = []
         seq = np.zeros(s)
         j = 0
-        while j < (len(prova.iat[i, 0]) - 1):
-            t = time.strptime(prova.iat[i, 0][0 + j], datetimeFormat)
+        while j < (len(prefix.iat[i, 0]) - 1):
+            t = time.strptime(prefix.iat[i, 0][0 + j], datetimeFormat)
             list_temp.append(datetime.fromtimestamp(time.mktime(t)))
             new_seq = np.append(seq, list_temp)
             cut = len(list_temp)
