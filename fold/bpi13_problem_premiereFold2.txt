@@ -1,0 +1,2969 @@
+2134,Accepted-In Progress,612,2012/05/24 17:36:03.000
+1092,Accepted-In Progress,486,2012/02/17 15:39:29.000
+1092,Completed-Closed,486,2012/02/22 20:32:34.000
+1708,Accepted-In Progress,76,2011/12/09 08:13:39.000
+1708,Completed-Closed,76,2012/01/17 14:00:57.000
+1693,Accepted-In Progress,349,2011/11/29 04:12:33.000
+1693,Completed-Closed,349,2011/12/19 04:43:18.000
+1693,Accepted-In Progress,349,2012/01/18 12:05:10.000
+1693,Completed-Closed,349,2012/01/18 12:07:06.000
+1693,Accepted-In Progress,349,2012/02/14 09:15:07.000
+1693,Completed-Closed,349,2012/02/14 09:15:35.000
+1725,Accepted-In Progress,96,2011/12/21 15:43:03.000
+1725,Queued-Awaiting Assignment,96,2011/12/21 15:46:04.000
+1773,Accepted-In Progress,253,2012/01/26 16:50:33.000
+1773,Accepted-Wait,253,2012/01/26 16:52:01.000
+1773,Completed-Closed,253,2012/05/23 17:34:17.000
+1551,Accepted-In Progress,129,2010/11/03 08:04:02.000
+1551,Accepted-Wait,129,2010/11/03 09:52:09.000
+1551,Queued-Awaiting Assignment,129,2010/11/24 13:41:08.000
+1551,Queued-Awaiting Assignment,129,2010/11/24 14:08:53.000
+1551,Queued-Awaiting Assignment,129,2010/11/25 14:37:13.000
+1551,Accepted-In Progress,129,2010/11/25 14:38:42.000
+1551,Accepted-Wait,129,2010/11/25 14:40:20.000
+1987,Accepted-In Progress,20,2012/05/09 11:03:04.000
+1987,Queued-Awaiting Assignment,20,2012/05/09 11:07:02.000
+1987,Accepted-In Progress,594,2012/05/30 10:12:09.000
+1044,Accepted-In Progress,8,2012/02/12 21:01:32.000
+1044,Completed-Closed,8,2012/03/27 23:15:40.000
+1651,Accepted-In Progress,29,2011/10/11 16:57:41.000
+1651,Accepted-Assigned,29,2011/10/11 17:01:05.000
+618,Accepted-In Progress,256,2011/10/31 09:05:05.000
+618,Queued-Awaiting Assignment,256,2011/10/31 09:05:35.000
+618,Accepted-In Progress,256,2011/11/04 15:19:35.000
+618,Completed-Closed,256,2012/01/18 11:28:06.000
+2274,Accepted-In Progress,4,2012/06/12 16:00:53.000
+1828,Accepted-In Progress,151,2012/02/27 07:50:38.000
+1828,Accepted-Wait,151,2012/04/11 13:02:17.000
+1828,Queued-Awaiting Assignment,151,2012/04/12 06:16:41.000
+1828,Accepted-In Progress,151,2012/04/19 08:51:46.000
+1828,Accepted-Wait,151,2012/04/19 08:54:32.000
+1828,Accepted-In Progress,151,2012/04/19 09:10:47.000
+1828,Accepted-Wait,151,2012/04/19 09:17:17.000
+2104,Accepted-In Progress,114,2012/05/23 11:49:33.000
+278,Accepted-In Progress,46,2011/03/31 13:51:15.000
+278,Queued-Awaiting Assignment,46,2011/03/31 13:52:58.000
+278,Accepted-In Progress,74,2011/03/31 15:35:19.000
+278,Accepted-Assigned,46,2011/03/31 15:36:46.000
+278,Accepted-In Progress,43,2012/02/06 21:18:11.000
+278,Completed-Closed,43,2012/02/06 21:19:44.000
+1578,Accepted-In Progress,133,2011/04/05 08:39:04.000
+1578,Completed-Closed,133,2012/03/13 15:47:40.000
+1344,Accepted-In Progress,44,2012/04/10 14:13:57.000
+1344,Completed-Closed,44,2012/04/10 14:18:10.000
+1344,Accepted-In Progress,44,2012/04/13 10:32:19.000
+1344,Completed-Closed,44,2012/04/23 14:37:54.000
+311,Accepted-In Progress,180,2011/04/20 17:10:15.000
+311,Accepted-Wait,180,2011/09/14 21:29:16.000
+311,Queued-Awaiting Assignment,180,2011/10/03 21:47:28.000
+311,Accepted-In Progress,180,2011/10/04 20:03:49.000
+311,Completed-Closed,180,2011/10/04 20:04:39.000
+311,Accepted-In Progress,181,2011/10/06 14:59:22.000
+311,Queued-Awaiting Assignment,135,2011/10/06 15:24:07.000
+311,Accepted-In Progress,182,2011/10/06 15:45:21.000
+311,Queued-Awaiting Assignment,180,2011/10/06 15:51:34.000
+311,Accepted-In Progress,180,2011/10/18 18:29:33.000
+311,Completed-Closed,180,2011/10/18 18:29:38.000
+311,Accepted-In Progress,182,2011/10/25 18:18:09.000
+311,Accepted-Wait,182,2011/10/25 18:18:33.000
+311,Accepted-In Progress,182,2011/10/27 14:05:46.000
+311,Accepted-Wait,182,2011/10/27 14:11:51.000
+311,Accepted-In Progress,183,2011/12/21 12:35:46.000
+311,Accepted-Assigned,184,2012/02/01 12:48:08.000
+311,Accepted-In Progress,183,2012/02/01 12:49:15.000
+311,Completed-Closed,183,2012/02/01 12:49:50.000
+2071,Accepted-In Progress,29,2012/05/17 15:19:42.000
+2071,Accepted-Assigned,29,2012/05/17 15:46:59.000
+89,Accepted-In Progress,46,2010/05/10 14:01:38.000
+89,Queued-Awaiting Assignment,46,2010/05/10 14:07:54.000
+89,Accepted-In Progress,47,2010/05/10 20:36:38.000
+89,Accepted-Assigned,46,2010/05/10 20:41:50.000
+89,Accepted-In Progress,43,2012/02/02 22:52:05.000
+89,Completed-Closed,43,2012/02/04 08:56:49.000
+178,Accepted-In Progress,46,2010/11/08 11:27:05.000
+178,Queued-Awaiting Assignment,46,2010/11/08 11:30:20.000
+178,Accepted-In Progress,54,2010/11/08 11:55:05.000
+178,Accepted-Assigned,46,2010/11/08 11:55:14.000
+178,Accepted-In Progress,74,2010/11/11 15:18:11.000
+178,Accepted-In Progress,74,2010/11/11 15:20:41.000
+178,Queued-Awaiting Assignment,4,2010/11/11 15:20:54.000
+178,Accepted-Assigned,56,2010/11/11 15:21:28.000
+178,Accepted-In Progress,56,2010/11/16 08:54:16.000
+178,Accepted-Wait,56,2010/11/16 09:00:17.000
+178,Queued-Awaiting Assignment,46,2011/02/09 11:54:19.000
+178,Accepted-In Progress,78,2011/02/16 11:45:37.000
+178,Queued-Awaiting Assignment,72,2011/02/16 11:45:45.000
+178,Accepted-Assigned,56,2011/02/16 11:46:16.000
+178,Accepted-In Progress,78,2011/02/16 11:54:51.000
+178,Accepted-Assigned,46,2011/02/16 11:55:10.000
+178,Accepted-In Progress,43,2012/01/30 13:05:37.000
+178,Completed-Closed,43,2012/01/30 13:06:01.000
+2295,Accepted-In Progress,29,2012/06/14 13:52:07.000
+2295,Accepted-Assigned,29,2012/06/14 13:53:26.000
+1393,Accepted-In Progress,433,2012/04/23 18:15:33.000
+1393,Completed-Closed,433,2012/05/03 15:46:11.000
+1995,Accepted-In Progress,114,2012/05/09 16:54:37.000
+877,Accepted-In Progress,42,2012/01/12 13:18:09.000
+877,Queued-Awaiting Assignment,42,2012/01/12 13:19:07.000
+877,Accepted-In Progress,42,2012/01/16 12:32:48.000
+877,Completed-Closed,42,2012/01/16 12:34:09.000
+877,Accepted-In Progress,418,2012/02/22 14:36:49.000
+877,Queued-Awaiting Assignment,42,2012/02/22 14:37:26.000
+877,Accepted-In Progress,43,2012/02/22 15:33:48.000
+877,Completed-Closed,43,2012/02/22 15:36:00.000
+1827,Queued-Awaiting Assignment,151,2012/02/28 09:00:16.000
+1827,Accepted-In Progress,151,2012/03/05 09:35:59.000
+1827,Accepted-Wait,151,2012/03/05 09:36:52.000
+1827,Accepted-In Progress,151,2012/03/14 13:31:28.000
+1827,Completed-Closed,151,2012/03/14 13:33:47.000
+1676,Accepted-In Progress,13,2011/11/08 19:21:15.000
+1676,Queued-Awaiting Assignment,13,2011/11/08 19:30:30.000
+1676,Accepted-In Progress,13,2011/11/11 07:58:22.000
+1676,Queued-Awaiting Assignment,13,2012/01/04 16:45:39.000
+1914,Accepted-In Progress,474,2012/04/19 05:54:27.000
+1914,Queued-Awaiting Assignment,474,2012/04/19 07:58:07.000
+1914,Accepted-In Progress,474,2012/05/24 05:31:28.000
+1914,Completed-Closed,474,2012/05/24 05:31:54.000
+373,Accepted-In Progress,77,2011/06/22 11:24:31.000
+373,Completed-Closed,77,2012/01/03 15:57:21.000
+1688,Accepted-In Progress,4,2011/11/25 12:33:57.000
+1688,Accepted-Assigned,4,2012/01/05 11:31:53.000
+1688,Accepted-In Progress,4,2012/04/23 11:06:44.000
+1688,Completed-Closed,4,2012/04/23 11:07:42.000
+2165,Accepted-Wait,30,2012/05/29 15:42:20.000
+1850,Accepted-In Progress,88,2012/03/06 14:08:23.000
+1850,Accepted-Assigned,88,2012/03/07 09:06:13.000
+1850,Accepted-In Progress,88,2012/04/17 21:30:19.000
+1850,Completed-Closed,88,2012/04/17 21:30:21.000
+1260,Accepted-In Progress,358,2012/03/22 07:52:52.000
+1260,Queued-Awaiting Assignment,358,2012/03/22 07:53:55.000
+1260,Accepted-In Progress,220,2012/03/23 15:29:39.000
+1260,Accepted-Wait,220,2012/03/23 15:49:23.000
+1260,Accepted-In Progress,220,2012/03/23 15:59:09.000
+1260,Accepted-Wait,220,2012/03/30 09:32:53.000
+1260,Completed-Closed,220,2012/05/25 09:44:22.000
+967,Accepted-In Progress,7,2012/01/30 15:52:24.000
+967,Completed-Closed,7,2012/02/22 17:53:37.000
+1920,Accepted-In Progress,111,2012/04/20 18:13:58.000
+1920,Queued-Awaiting Assignment,111,2012/04/20 18:26:35.000
+1920,Accepted-In Progress,111,2012/04/23 20:26:56.000
+1920,Completed-Closed,111,2012/05/14 14:51:02.000
+843,Accepted-Assigned,259,2012/01/09 10:34:33.000
+843,Accepted-Assigned,160,2012/01/10 06:21:49.000
+843,Accepted-In Progress,160,2012/01/13 10:15:44.000
+843,Completed-Closed,160,2012/01/17 14:45:12.000
+103,Accepted-In Progress,48,2010/05/25 14:17:44.000
+103,Completed-Closed,48,2012/01/16 14:31:56.000
+1629,Accepted-In Progress,247,2011/09/08 11:39:42.000
+1629,Queued-Awaiting Assignment,247,2011/09/08 12:52:27.000
+1629,Accepted-In Progress,248,2011/09/12 11:50:43.000
+1834,Accepted-In Progress,114,2012/02/28 11:33:31.000
+1834,Completed-Closed,114,2012/05/29 14:53:55.000
+2191,Accepted-In Progress,628,2012/06/01 08:48:05.000
+1318,Accepted-In Progress,546,2012/04/03 13:25:45.000
+1318,Completed-Closed,546,2012/05/09 13:03:49.000
+319,Accepted-In Progress,25,2011/04/28 16:29:42.000
+319,Completed-Closed,25,2012/05/29 17:02:34.000
+72,Accepted-In Progress,61,2010/04/13 14:37:07.000
+72,Accepted-In Progress,61,2010/04/19 16:59:00.000
+72,Accepted-In Progress,62,2010/04/19 16:59:17.000
+72,Accepted-Wait,62,2010/12/13 10:28:11.000
+72,Accepted-Assigned,63,2011/06/27 11:33:46.000
+72,Accepted-Assigned,64,2011/06/27 12:29:07.000
+72,Accepted-In Progress,63,2011/10/24 10:01:34.000
+72,Accepted-Assigned,13,2011/10/24 10:03:31.000
+72,Accepted-In Progress,13,2012/01/12 13:11:40.000
+72,Completed-Closed,13,2012/01/12 13:11:59.000
+1802,Accepted-In Progress,150,2012/02/13 10:03:27.000
+1802,Accepted-Wait,150,2012/02/13 10:06:36.000
+1802,Queued-Awaiting Assignment,150,2012/02/28 17:17:05.000
+1942,Accepted-In Progress,77,2012/05/02 15:26:26.000
+1942,Queued-Awaiting Assignment,77,2012/05/02 15:27:51.000
+1942,Accepted-Assigned,167,2012/06/05 11:11:49.000
+2183,Accepted-In Progress,164,2012/05/31 10:54:47.000
+1436,Accepted-In Progress,88,2012/05/08 14:51:43.000
+1436,Accepted-Assigned,88,2012/05/08 14:58:54.000
+1436,Accepted-In Progress,88,2012/05/17 10:35:00.000
+1436,Completed-Closed,88,2012/05/17 10:35:01.000
+1838,Accepted-In Progress,68,2012/02/29 12:23:42.000
+1838,Completed-Closed,68,2012/03/02 13:30:31.000
+1838,Accepted-In Progress,68,2012/03/02 13:30:34.000
+1838,Completed-Closed,68,2012/03/02 13:30:40.000
+1727,Accepted-In Progress,58,2011/12/22 14:57:58.000
+1727,Accepted-Assigned,58,2012/02/02 12:54:54.000
+1970,Accepted-In Progress,577,2012/05/07 11:14:46.000
+899,Accepted-In Progress,6,2012/01/16 14:55:49.000
+899,Accepted-In Progress,6,2012/01/16 15:33:57.000
+899,Accepted-In Progress,6,2012/01/16 15:38:41.000
+899,Accepted-In Progress,5,2012/05/21 09:49:46.000
+899,Completed-Closed,5,2012/05/21 09:50:47.000
+1803,Accepted-In Progress,150,2012/02/13 14:06:44.000
+1803,Accepted-Wait,150,2012/02/13 14:10:57.000
+1803,Queued-Awaiting Assignment,150,2012/03/07 13:20:54.000
+1803,Accepted-In Progress,393,2012/03/12 19:32:08.000
+1803,Accepted-In Progress,276,2012/04/10 13:33:37.000
+1803,Completed-Closed,276,2012/04/10 13:36:46.000
+442,Accepted-In Progress,225,2011/08/16 16:50:16.000
+442,Accepted-Wait,225,2011/08/16 16:54:00.000
+442,Accepted-Wait,225,2011/08/16 16:54:13.000
+442,Accepted-In Progress,225,2012/01/05 07:41:25.000
+442,Completed-Closed,225,2012/01/05 07:43:17.000
+152,Accepted-In Progress,81,2010/09/17 14:45:48.000
+152,Queued-Awaiting Assignment,81,2010/09/17 14:55:43.000
+152,Accepted-In Progress,117,2010/09/18 18:06:57.000
+152,Accepted-Assigned,81,2010/09/20 21:02:20.000
+152,Accepted-Assigned,93,2010/09/21 11:31:31.000
+152,Accepted-In Progress,105,2011/10/03 09:16:32.000
+152,Accepted-Assigned,106,2011/11/09 13:25:48.000
+152,Accepted-In Progress,106,2011/11/17 09:06:16.000
+152,Accepted-Wait,106,2011/11/17 10:50:49.000
+152,Completed-Closed,106,2012/01/24 15:24:33.000
+747,Accepted-In Progress,43,2011/12/08 13:23:24.000
+747,Completed-Closed,43,2012/01/03 11:07:51.000
+1684,Accepted-In Progress,133,2011/11/21 09:34:45.000
+1684,Accepted-Wait,133,2011/11/28 16:12:09.000
+1684,Accepted-In Progress,133,2011/12/05 20:38:55.000
+1684,Completed-Closed,133,2012/02/08 21:42:42.000
+1456,Accepted-In Progress,578,2012/05/15 17:19:08.000
+1456,Completed-Closed,578,2012/05/15 17:27:51.000
+888,Accepted-In Progress,311,2012/01/13 12:00:21.000
+888,Queued-Awaiting Assignment,311,2012/01/13 12:01:04.000
+888,Accepted-In Progress,423,2012/01/13 12:17:28.000
+888,Queued-Awaiting Assignment,39,2012/01/13 12:18:05.000
+888,Accepted-Assigned,8,2012/01/13 16:10:30.000
+888,Accepted-In Progress,8,2012/01/16 13:06:28.000
+888,Completed-Closed,8,2012/01/19 10:36:02.000
+1471,Accepted-In Progress,375,2012/05/21 16:44:23.000
+1471,Completed-Closed,375,2012/05/23 15:40:55.000
+1166,Accepted-In Progress,393,2012/03/05 06:23:01.000
+1166,Completed-Closed,393,2012/05/28 11:57:12.000
+1797,Accepted-In Progress,96,2012/02/09 16:36:08.000
+1797,Completed-Closed,96,2012/03/01 10:40:26.000
+388,Accepted-In Progress,208,2011/06/30 20:50:49.000
+388,Accepted-Assigned,208,2011/08/11 13:58:58.000
+388,Accepted-Assigned,209,2011/08/16 11:33:12.000
+388,Accepted-Assigned,210,2011/08/16 11:33:56.000
+388,Accepted-In Progress,210,2011/12/14 16:02:20.000
+388,Accepted-In Progress,77,2012/01/17 15:39:10.000
+388,Completed-Closed,77,2012/01/17 15:39:21.000
+1184,Accepted-In Progress,298,2012/03/07 08:05:20.000
+1184,Completed-Closed,298,2012/04/12 09:17:37.000
+919,Accepted-In Progress,436,2012/01/20 06:38:35.000
+919,Completed-Closed,436,2012/01/20 06:40:35.000
+2014,Accepted-In Progress,28,2012/05/11 12:52:48.000
+2014,Accepted-Wait,28,2012/05/11 13:44:27.000
+455,Accepted-In Progress,46,2011/08/24 12:01:27.000
+455,Queued-Awaiting Assignment,46,2011/08/24 12:08:11.000
+455,Accepted-In Progress,78,2011/08/25 05:46:53.000
+455,Accepted-Assigned,46,2011/08/25 05:47:17.000
+455,Accepted-In Progress,43,2012/02/02 22:39:18.000
+455,Completed-Closed,43,2012/02/02 22:41:15.000
+1790,Accepted-In Progress,44,2012/02/07 17:09:58.000
+1790,Accepted-Wait,44,2012/02/21 13:49:07.000
+1790,Completed-Closed,44,2012/02/28 09:49:20.000
+2060,Accepted-In Progress,601,2012/05/16 14:31:17.000
+2060,Queued-Awaiting Assignment,601,2012/05/16 14:32:33.000
+1685,Queued-Awaiting Assignment,337,2012/02/21 11:11:30.000
+2122,Accepted-In Progress,469,2012/05/24 09:24:10.000
+2122,Accepted-Wait,469,2012/05/24 10:04:54.000
+1952,Accepted-In Progress,588,2012/05/03 11:38:08.000
+134,Accepted-In Progress,46,2010/07/30 09:46:42.000
+134,Queued-Awaiting Assignment,46,2010/07/30 09:50:43.000
+134,Accepted-In Progress,54,2010/07/30 14:43:09.000
+134,Accepted-Assigned,46,2010/07/30 14:43:18.000
+134,Accepted-In Progress,43,2012/01/30 15:48:15.000
+134,Completed-Closed,43,2012/01/30 15:48:48.000
+865,Accepted-In Progress,77,2012/01/10 19:56:40.000
+865,Completed-Closed,77,2012/01/13 15:46:25.000
+865,Accepted-In Progress,77,2012/01/13 16:55:17.000
+865,Accepted-Wait,77,2012/01/13 16:57:02.000
+865,Queued-Awaiting Assignment,77,2012/01/16 15:55:28.000
+865,Accepted-In Progress,413,2012/01/17 14:57:56.000
+865,Accepted-Assigned,77,2012/01/18 10:14:25.000
+865,Accepted-In Progress,77,2012/04/16 12:09:13.000
+865,Completed-Closed,77,2012/04/16 12:09:14.000
+92,Accepted-In Progress,46,2010/05/12 12:59:40.000
+92,Queued-Awaiting Assignment,46,2010/05/12 13:02:27.000
+92,Accepted-In Progress,47,2010/05/12 21:04:54.000
+92,Accepted-Assigned,46,2010/05/12 21:06:49.000
+92,Accepted-In Progress,43,2012/02/03 07:48:56.000
+92,Completed-Closed,43,2012/02/03 07:50:31.000
+1018,Accepted-In Progress,384,2012/02/08 12:38:49.000
+1018,Completed-Closed,384,2012/03/05 15:16:09.000
+1911,Accepted-In Progress,239,2012/04/17 07:46:35.000
+1911,Completed-Closed,239,2012/05/16 05:48:11.000
+874,Accepted-In Progress,77,2012/01/12 10:51:17.000
+874,Queued-Awaiting Assignment,77,2012/01/12 11:03:05.000
+874,Accepted-In Progress,416,2012/01/12 11:57:00.000
+874,Queued-Awaiting Assignment,77,2012/01/12 12:00:10.000
+874,Accepted-In Progress,209,2012/01/17 15:34:13.000
+874,Accepted-In Progress,416,2012/01/18 09:03:29.000
+874,Completed-Closed,416,2012/01/18 09:20:58.000
+409,Accepted-Wait,217,2011/07/13 11:38:58.000
+409,Accepted-Assigned,217,2011/07/13 11:39:36.000
+409,Accepted-In Progress,217,2011/09/19 15:08:35.000
+409,Completed-Closed,217,2012/02/29 12:13:57.000
+2011,Accepted-In Progress,20,2012/05/11 08:25:19.000
+2011,Queued-Awaiting Assignment,20,2012/06/13 23:04:04.000
+1675,Accepted-In Progress,267,2011/11/07 11:57:05.000
+1675,Completed-Closed,267,2012/05/23 13:07:40.000
+297,Accepted-In Progress,58,2011/04/12 14:24:13.000
+297,Queued-Awaiting Assignment,58,2011/04/12 14:24:29.000
+297,Accepted-In Progress,116,2012/01/23 15:42:08.000
+297,Queued-Awaiting Assignment,77,2012/01/23 16:04:38.000
+297,Accepted-In Progress,77,2012/01/27 16:01:45.000
+297,Completed-Closed,77,2012/01/27 16:01:47.000
+1363,Accepted-In Progress,561,2012/04/16 13:57:54.000
+1363,Accepted-In Progress,561,2012/04/20 16:05:40.000
+1363,Completed-Closed,561,2012/04/20 16:06:14.000
+1363,Accepted-In Progress,561,2012/05/16 17:30:33.000
+1363,Completed-Closed,561,2012/05/16 17:32:44.000
+1363,Accepted-In Progress,561,2012/05/16 17:32:48.000
+1363,Completed-Closed,561,2012/05/16 17:32:55.000
+1363,Accepted-In Progress,561,2012/05/17 13:33:38.000
+1363,Completed-Closed,561,2012/05/17 13:34:01.000
+46,Accepted-Wait,2,2010/02/16 11:04:37.000
+46,Accepted-In Progress,2,2011/09/02 00:16:15.000
+46,Accepted-In Progress,3,2012/02/01 10:16:03.000
+46,Completed-Closed,3,2012/02/01 10:16:53.000
+692,Accepted-In Progress,108,2011/11/24 07:34:09.000
+692,Accepted-Wait,108,2012/02/07 15:03:51.000
+692,Completed-Closed,108,2012/04/25 16:00:33.000
+1355,Accepted-In Progress,444,2012/04/13 12:19:48.000
+1355,Completed-Closed,444,2012/05/31 11:10:27.000
+1606,Accepted-In Progress,212,2012/01/25 19:46:19.000
+1606,Completed-Closed,212,2012/01/25 19:48:24.000
+1121,Accepted-In Progress,7,2012/02/24 15:06:27.000
+1121,Completed-Closed,7,2012/03/29 14:20:18.000
+1223,Accepted-In Progress,77,2012/03/14 14:59:11.000
+1223,Accepted-In Progress,77,2012/04/03 15:42:42.000
+1223,Completed-Closed,77,2012/05/03 11:32:22.000
+637,Accepted-In Progress,256,2011/11/04 08:41:14.000
+637,Accepted-Wait,256,2011/11/04 08:43:29.000
+637,Accepted-In Progress,256,2012/01/03 08:07:05.000
+637,Completed-Closed,256,2012/02/10 08:05:02.000
+635,Accepted-In Progress,39,2011/11/03 18:45:21.000
+635,Accepted-In Progress,39,2012/02/02 12:18:05.000
+635,Accepted-Assigned,176,2012/02/02 12:18:31.000
+635,Accepted-In Progress,177,2012/03/08 13:58:03.000
+635,Completed-Closed,177,2012/03/08 13:58:40.000
+385,Accepted-In Progress,57,2011/06/29 13:44:22.000
+385,Queued-Awaiting Assignment,57,2011/06/29 14:04:39.000
+385,Accepted-In Progress,57,2011/07/01 09:27:35.000
+385,Accepted-Wait,57,2012/04/04 17:27:27.000
+385,Completed-Closed,57,2012/05/21 15:05:06.000
+1462,Accepted-In Progress,192,2012/05/16 15:14:24.000
+1462,Queued-Awaiting Assignment,192,2012/05/16 15:25:43.000
+1462,Accepted-In Progress,192,2012/05/16 15:26:28.000
+1462,Accepted-Assigned,330,2012/05/16 15:26:48.000
+1462,Accepted-Wait,330,2012/05/16 18:11:06.000
+1462,Completed-Closed,330,2012/05/22 14:26:12.000
+2139,Accepted-In Progress,2,2012/05/25 10:04:05.000
+2139,Queued-Awaiting Assignment,2,2012/05/25 10:14:23.000
+2139,Accepted-In Progress,127,2012/05/30 08:48:13.000
+2139,Accepted-Assigned,2,2012/06/07 14:14:29.000
+2139,Accepted-In Progress,2,2012/06/07 14:22:30.000
+2057,Accepted-In Progress,285,2012/05/16 13:16:49.000
+1813,Queued-Awaiting Assignment,150,2012/03/07 08:24:27.000
+109,Accepted-In Progress,46,2010/06/04 17:57:53.000
+109,Queued-Awaiting Assignment,46,2010/06/04 17:59:45.000
+109,Accepted-In Progress,54,2010/06/04 18:08:12.000
+109,Accepted-Assigned,46,2010/06/04 18:08:18.000
+109,Accepted-In Progress,43,2012/01/30 12:50:40.000
+109,Completed-Closed,43,2012/01/30 12:51:51.000
+1164,Accepted-In Progress,505,2012/03/02 18:15:04.000
+1164,Queued-Awaiting Assignment,505,2012/03/02 18:20:46.000
+1164,Accepted-In Progress,506,2012/04/17 18:35:41.000
+1164,Completed-Closed,506,2012/04/19 11:31:58.000
+545,Accepted-In Progress,101,2011/10/05 12:06:55.000
+545,Completed-Closed,101,2012/03/05 15:49:56.000
+806,Accepted-In Progress,96,2011/12/21 15:43:03.000
+806,Queued-Awaiting Assignment,96,2011/12/21 15:46:04.000
+806,Accepted-In Progress,179,2011/12/23 09:36:20.000
+806,Completed-Closed,179,2012/01/10 13:49:48.000
+1165,Accepted-In Progress,345,2012/03/03 14:20:54.000
+1165,Queued-Awaiting Assignment,345,2012/03/03 14:35:06.000
+1165,Accepted-In Progress,232,2012/03/05 10:27:35.000
+1165,Accepted-Assigned,114,2012/03/05 10:27:48.000
+1165,Accepted-In Progress,114,2012/05/09 16:44:08.000
+1165,Completed-Closed,114,2012/05/09 16:44:09.000
+1620,Accepted-In Progress,94,2011/08/13 17:56:32.000
+1620,Queued-Awaiting Assignment,94,2011/08/13 18:00:02.000
+1879,Accepted-In Progress,76,2012/03/21 11:06:24.000
+1879,Completed-Closed,76,2012/03/23 17:21:13.000
+48,Accepted-In Progress,46,2010/02/26 13:39:44.000
+48,Queued-Awaiting Assignment,46,2010/02/26 13:45:58.000
+48,Accepted-In Progress,47,2010/02/26 18:04:51.000
+48,Accepted-In Progress,47,2010/02/26 18:08:30.000
+48,Accepted-In Progress,47,2010/02/26 18:09:05.000
+48,Accepted-In Progress,47,2010/02/26 18:09:42.000
+48,Accepted-In Progress,47,2010/02/26 18:11:57.000
+48,Accepted-Assigned,46,2010/02/26 18:12:06.000
+48,Accepted-In Progress,43,2012/01/19 10:01:46.000
+48,Completed-Closed,43,2012/01/19 10:02:07.000
+1789,Queued-Awaiting Assignment,176,2012/03/08 14:51:56.000
+1789,Accepted-In Progress,176,2012/03/15 12:38:48.000
+1789,Completed-Closed,176,2012/03/15 12:39:42.000
+1789,Accepted-In Progress,176,2012/03/15 14:01:24.000
+1789,Completed-Closed,176,2012/03/15 14:05:26.000
+625,Accepted-In Progress,46,2011/11/01 15:05:49.000
+625,Queued-Awaiting Assignment,46,2011/11/01 16:23:53.000
+625,Accepted-In Progress,43,2012/01/09 13:20:00.000
+625,Completed-Closed,43,2012/01/30 12:29:11.000
+1930,Accepted-In Progress,229,2012/04/30 05:27:00.000
+1930,Queued-Awaiting Assignment,229,2012/04/30 05:31:22.000
+1930,Queued-Awaiting Assignment,44,2012/04/30 06:15:21.000
+1930,Accepted-In Progress,44,2012/04/30 10:34:04.000
+1930,Queued-Awaiting Assignment,387,2012/04/30 10:34:14.000
+1930,Accepted-In Progress,558,2012/04/30 10:36:34.000
+1930,Queued-Awaiting Assignment,387,2012/05/07 13:14:50.000
+1930,Accepted-In Progress,558,2012/05/07 14:01:53.000
+1930,Completed-Closed,558,2012/05/07 15:40:13.000
+1592,Accepted-In Progress,43,2012/02/15 15:27:07.000
+1592,Completed-Closed,43,2012/02/15 15:27:34.000
+2010,Accepted-In Progress,31,2012/05/10 16:53:26.000
+2010,Completed-Closed,31,2012/05/31 16:19:08.000
+862,Accepted-In Progress,43,2012/01/10 15:19:55.000
+862,Completed-Closed,43,2012/01/10 15:28:56.000
+2167,Accepted-In Progress,84,2012/05/29 17:44:19.000
+1097,Accepted-In Progress,339,2012/02/20 07:40:54.000
+1097,Completed-Closed,339,2012/03/29 15:16:57.000
+2304,Accepted-In Progress,620,2012/06/15 11:20:18.000
+2304,Accepted-Wait,620,2012/06/15 11:21:56.000
+171,Accepted-In Progress,62,2010/10/25 13:53:47.000
+171,Accepted-In Progress,62,2011/10/05 23:07:51.000
+171,Queued-Awaiting Assignment,62,2011/10/05 23:07:59.000
+171,Accepted-In Progress,62,2011/10/06 20:05:33.000
+171,Accepted-Assigned,108,2011/12/06 21:31:33.000
+171,Completed-Closed,108,2012/01/04 13:52:57.000
+1644,Accepted-In Progress,133,2011/09/30 21:11:41.000
+1644,Completed-Closed,133,2012/01/26 11:38:12.000
+265,Accepted-Wait,143,2011/03/10 10:36:06.000
+265,Accepted-In Progress,143,2012/05/04 17:02:29.000
+265,Completed-Closed,143,2012/05/04 17:03:29.000
+854,Accepted-In Progress,150,2012/01/10 05:34:32.000
+854,Queued-Awaiting Assignment,150,2012/01/10 05:39:30.000
+854,Accepted-In Progress,411,2012/01/10 09:43:57.000
+854,Completed-Closed,411,2012/01/10 09:49:47.000
+1654,Accepted-In Progress,165,2011/10/17 19:46:10.000
+1654,Queued-Awaiting Assignment,165,2011/10/17 20:40:08.000
+1654,Queued-Awaiting Assignment,165,2011/10/17 20:40:09.000
+1654,Accepted-In Progress,165,2011/10/18 14:39:20.000
+1654,Accepted-Wait,165,2011/10/18 20:49:58.000
+1654,Completed-Closed,165,2012/01/06 15:50:17.000
+8,Accepted-In Progress,5,2008/11/13 09:43:32.000
+8,Accepted-In Progress,5,2012/01/30 10:56:24.000
+8,Accepted-In Progress,5,2012/01/30 11:12:05.000
+8,Queued-Awaiting Assignment,6,2012/02/16 14:52:16.000
+8,Accepted-In Progress,5,2012/02/16 15:09:17.000
+8,Queued-Awaiting Assignment,6,2012/02/16 15:09:43.000
+8,Accepted-In Progress,5,2012/02/16 15:10:10.000
+8,Completed-Closed,5,2012/03/19 09:26:32.000
+491,Accepted-In Progress,60,2011/09/12 16:27:08.000
+491,Completed-Closed,60,2012/02/21 15:44:10.000
+2144,Accepted-Wait,616,2012/05/25 11:59:41.000
+850,Accepted-In Progress,255,2012/01/09 14:43:27.000
+850,Accepted-In Progress,255,2012/01/09 14:44:50.000
+850,Queued-Awaiting Assignment,255,2012/01/09 14:51:23.000
+850,Accepted-In Progress,355,2012/01/09 14:59:22.000
+850,Completed-Closed,355,2012/01/09 15:01:12.000
+1720,Accepted-In Progress,76,2011/12/15 15:23:36.000
+1720,Accepted-Wait,76,2011/12/15 15:23:45.000
+1720,Completed-Closed,76,2012/03/30 14:07:57.000
+270,Accepted-In Progress,163,2011/03/18 14:50:57.000
+270,Completed-Closed,163,2012/01/12 11:47:22.000
+369,Accepted-In Progress,46,2011/06/20 19:30:19.000
+369,Queued-Awaiting Assignment,46,2011/06/20 19:31:39.000
+369,Accepted-In Progress,74,2011/06/21 08:33:31.000
+369,Accepted-Assigned,46,2011/06/21 08:38:54.000
+369,Accepted-In Progress,43,2012/01/30 13:09:17.000
+369,Completed-Closed,43,2012/01/30 13:10:08.000
+2244,Accepted-In Progress,550,2012/06/08 18:15:36.000
+734,Accepted-In Progress,367,2011/12/05 13:57:43.000
+734,Accepted-In Progress,367,2012/01/03 12:38:34.000
+734,Completed-Closed,367,2012/02/07 11:34:28.000
+2125,Accepted-In Progress,29,2012/05/24 11:31:30.000
+2125,Accepted-Assigned,29,2012/05/24 11:38:26.000
+903,Accepted-In Progress,431,2012/01/17 14:10:11.000
+903,Completed-Closed,431,2012/01/17 14:14:18.000
+903,Accepted-In Progress,431,2012/02/02 16:50:24.000
+903,Completed-Closed,431,2012/02/02 16:51:03.000
+2218,Accepted-In Progress,633,2012/06/05 10:42:00.000
+2218,Accepted-Wait,633,2012/06/05 15:35:33.000
+1707,Accepted-In Progress,373,2011/12/09 08:18:16.000
+1707,Completed-Closed,373,2011/12/09 08:22:15.000
+1707,Accepted-In Progress,373,2011/12/12 11:34:36.000
+1707,Accepted-In Progress,373,2011/12/12 11:38:44.000
+1707,Completed-Closed,373,2011/12/21 12:01:07.000
+1707,Accepted-In Progress,373,2012/01/06 11:08:42.000
+1707,Completed-Closed,373,2012/01/06 11:09:47.000
+1707,Accepted-In Progress,373,2012/01/06 13:35:53.000
+1707,Completed-Closed,373,2012/02/17 10:12:40.000
+1268,Accepted-In Progress,532,2012/03/26 04:39:33.000
+1268,Accepted-In Progress,532,2012/03/26 04:45:45.000
+1268,Completed-Closed,532,2012/03/26 04:45:53.000
+231,Accepted-In Progress,8,2011/01/26 10:09:40.000
+231,Accepted-Assigned,8,2011/05/03 09:37:30.000
+231,Accepted-In Progress,8,2011/06/30 11:05:09.000
+231,Completed-Closed,8,2011/06/30 11:05:10.000
+231,Accepted-In Progress,76,2011/12/07 15:57:44.000
+231,Accepted-Assigned,106,2011/12/07 15:59:59.000
+231,Accepted-In Progress,106,2011/12/08 09:23:44.000
+231,Accepted-Wait,106,2012/01/03 15:24:34.000
+231,Completed-Closed,106,2012/05/07 12:24:46.000
+191,Accepted-In Progress,46,2010/11/24 12:31:32.000
+191,Queued-Awaiting Assignment,46,2010/11/24 12:34:29.000
+191,Accepted-In Progress,74,2010/11/24 12:38:49.000
+191,Accepted-Assigned,46,2010/11/24 12:42:34.000
+191,Queued-Awaiting Assignment,72,2011/04/11 18:26:27.000
+191,Accepted-Assigned,56,2011/04/11 18:26:46.000
+191,Accepted-In Progress,56,2011/04/18 15:00:15.000
+191,Queued-Awaiting Assignment,46,2011/04/18 15:01:38.000
+191,Accepted-In Progress,78,2011/04/18 17:04:51.000
+191,Accepted-Assigned,46,2011/04/18 17:04:58.000
+191,Queued-Awaiting Assignment,72,2011/05/06 06:45:59.000
+191,Accepted-In Progress,78,2011/05/06 06:46:29.000
+191,Accepted-In Progress,72,2011/05/06 06:47:45.000
+191,Accepted-In Progress,78,2011/05/06 06:48:03.000
+191,Accepted-Assigned,73,2011/05/06 06:50:21.000
+191,Accepted-Assigned,56,2011/05/09 08:21:40.000
+191,Accepted-In Progress,56,2011/06/13 15:29:37.000
+191,Queued-Awaiting Assignment,46,2011/06/13 15:49:48.000
+191,Accepted-In Progress,74,2011/06/16 12:10:47.000
+191,Accepted-Assigned,46,2011/06/16 12:10:56.000
+191,Accepted-In Progress,43,2012/02/04 13:24:08.000
+191,Completed-Closed,43,2012/02/04 13:26:48.000
+1841,Accepted-In Progress,237,2012/03/01 14:10:13.000
+1841,Queued-Awaiting Assignment,237,2012/03/02 12:10:31.000
+1841,Accepted-In Progress,237,2012/03/02 13:50:24.000
+1841,Completed-Closed,237,2012/03/05 14:26:08.000
+1809,Accepted-In Progress,345,2012/02/14 12:50:22.000
+1809,Queued-Awaiting Assignment,345,2012/02/14 12:55:42.000
+1815,Accepted-In Progress,43,2012/02/16 12:01:43.000
+1815,Completed-Closed,43,2012/02/16 12:05:54.000
+631,Accepted-In Progress,313,2011/11/03 05:42:43.000
+631,Accepted-Assigned,313,2012/01/18 11:55:47.000
+631,Accepted-In Progress,313,2012/02/22 07:10:05.000
+631,Completed-Closed,313,2012/02/22 07:11:43.000
+1347,Accepted-In Progress,120,2012/04/10 17:46:49.000
+1347,Queued-Awaiting Assignment,120,2012/04/10 17:54:09.000
+1347,Accepted-In Progress,557,2012/04/11 10:36:14.000
+1347,Completed-Closed,557,2012/04/19 10:02:37.000
+1560,Accepted-In Progress,139,2010/12/16 11:55:48.000
+1560,Accepted-Wait,139,2011/03/21 17:11:52.000
+1560,Completed-Closed,139,2012/02/29 14:38:04.000
+1306,Accepted-In Progress,172,2012/04/02 11:07:49.000
+1306,Accepted-In Progress,172,2012/05/23 18:37:42.000
+1306,Completed-Closed,172,2012/05/23 18:38:37.000
+1640,Accepted-In Progress,150,2011/09/27 09:38:17.000
+1640,Queued-Awaiting Assignment,150,2011/09/27 09:41:46.000
+1640,Queued-Awaiting Assignment,150,2011/09/28 04:11:27.000
+1636,Accepted-In Progress,243,2011/09/19 15:44:47.000
+1636,Accepted-In Progress,243,2011/09/20 15:06:13.000
+1636,Accepted-In Progress,243,2011/09/21 10:44:31.000
+1636,Completed-Closed,243,2012/03/23 10:52:42.000
+2099,Accepted-In Progress,77,2012/05/22 17:14:50.000
+2099,Queued-Awaiting Assignment,77,2012/06/12 17:10:26.000
+675,Accepted-In Progress,309,2011/11/18 08:28:00.000
+675,Accepted-Wait,309,2011/12/27 14:47:10.000
+675,Completed-Closed,309,2012/01/03 10:49:38.000
+247,Accepted-In Progress,46,2011/02/18 06:16:59.000
+247,Queued-Awaiting Assignment,46,2011/02/18 06:21:17.000
+247,Accepted-In Progress,78,2011/02/18 10:35:13.000
+247,Accepted-Assigned,46,2011/02/18 10:35:20.000
+247,Accepted-In Progress,43,2012/01/30 13:02:57.000
+247,Completed-Closed,43,2012/01/30 13:03:12.000
+1095,Accepted-In Progress,332,2012/02/18 18:22:04.000
+1095,Accepted-Wait,332,2012/02/18 18:25:53.000
+1095,Completed-Closed,332,2012/03/21 00:13:04.000
+1364,Accepted-In Progress,43,2012/04/16 14:39:03.000
+1364,Completed-Closed,43,2012/04/16 14:47:43.000
+2228,Accepted-In Progress,611,2012/06/06 13:48:04.000
+1134,Accepted-In Progress,150,2012/02/27 19:50:43.000
+1134,Queued-Awaiting Assignment,150,2012/02/27 20:01:11.000
+1134,Accepted-In Progress,28,2012/03/05 15:15:46.000
+1134,Accepted-In Progress,28,2012/03/05 15:17:57.000
+1134,Queued-Awaiting Assignment,77,2012/03/05 15:19:35.000
+1134,Accepted-In Progress,496,2012/03/05 16:46:59.000
+1134,Completed-Closed,496,2012/04/04 00:53:58.000
+1622,Accepted-In Progress,229,2011/08/23 06:23:57.000
+1622,Queued-Awaiting Assignment,229,2011/08/23 06:29:58.000
+1622,Queued-Awaiting Assignment,44,2011/08/23 08:53:33.000
+1622,Accepted-In Progress,231,2011/08/23 11:17:21.000
+1622,Accepted-Wait,231,2011/08/23 14:19:04.000
+1622,Accepted-In Progress,8,2011/12/15 13:51:36.000
+1622,Accepted-In Progress,76,2011/12/15 17:13:32.000
+1622,Queued-Awaiting Assignment,76,2011/12/16 10:22:44.000
+1063,Accepted-Assigned,476,2012/02/14 12:37:01.000
+1063,Accepted-Wait,476,2012/02/14 12:39:35.000
+1063,Completed-Closed,476,2012/02/16 15:44:17.000
+532,Accepted-In Progress,46,2011/09/29 17:45:39.000
+532,Queued-Awaiting Assignment,46,2011/09/29 17:55:24.000
+532,Accepted-In Progress,54,2011/09/29 19:58:45.000
+532,Accepted-Assigned,46,2011/09/29 19:58:55.000
+532,Accepted-In Progress,43,2012/01/30 13:57:31.000
+532,Completed-Closed,43,2012/01/30 14:17:14.000
+1271,Accepted-In Progress,175,2012/03/26 12:03:07.000
+1271,Completed-Closed,175,2012/05/09 13:54:38.000
+189,Accepted-In Progress,46,2010/11/24 10:01:08.000
+189,Queued-Awaiting Assignment,46,2010/11/24 10:14:44.000
+189,Accepted-In Progress,74,2010/11/24 12:45:45.000
+189,Accepted-Assigned,46,2010/11/24 12:47:40.000
+189,Accepted-In Progress,43,2012/01/04 16:51:02.000
+189,Completed-Closed,43,2012/01/04 16:51:12.000
+841,Accepted-In Progress,209,2012/01/09 07:56:13.000
+841,Completed-Closed,209,2012/02/20 08:57:45.000
+2106,Accepted-In Progress,114,2012/05/23 13:47:18.000
+1767,Accepted-In Progress,133,2012/01/23 13:22:40.000
+1767,Accepted-Assigned,133,2012/01/23 13:23:00.000
+1767,Accepted-In Progress,133,2012/01/24 08:47:44.000
+1767,Completed-Closed,133,2012/03/19 21:37:49.000
+2031,Accepted-In Progress,360,2012/05/14 16:05:22.000
+521,Accepted-In Progress,266,2011/09/26 14:50:49.000
+521,Accepted-Assigned,266,2011/09/26 14:52:27.000
+521,Completed-Closed,266,2012/02/29 15:36:55.000
+116,Accepted-In Progress,46,2010/06/15 16:37:49.000
+116,Queued-Awaiting Assignment,46,2010/06/15 16:46:08.000
+116,Accepted-In Progress,54,2010/06/15 16:50:16.000
+116,Accepted-Assigned,46,2010/06/15 16:50:22.000
+116,Accepted-In Progress,54,2010/08/27 19:14:48.000
+116,Accepted-Assigned,56,2010/08/27 19:14:57.000
+116,Accepted-Wait,56,2010/09/02 10:36:22.000
+116,Queued-Awaiting Assignment,46,2011/02/09 12:05:52.000
+116,Accepted-In Progress,78,2011/02/16 11:53:01.000
+116,Accepted-Assigned,46,2011/02/16 11:53:25.000
+116,Accepted-In Progress,43,2012/02/04 09:20:39.000
+116,Completed-Closed,43,2012/02/04 10:19:57.000
+739,Accepted-In Progress,151,2011/12/07 05:38:29.000
+739,Queued-Awaiting Assignment,151,2011/12/07 05:39:00.000
+739,Accepted-In Progress,151,2011/12/12 14:51:36.000
+739,Accepted-Wait,151,2011/12/12 14:51:48.000
+739,Accepted-In Progress,151,2012/01/19 15:53:52.000
+739,Completed-Closed,151,2012/01/19 16:05:09.000
+1941,Accepted-In Progress,77,2012/05/02 15:14:31.000
+1941,Queued-Awaiting Assignment,77,2012/05/02 15:16:08.000
+1941,Accepted-Assigned,167,2012/06/05 11:11:33.000
+248,Accepted-In Progress,46,2011/02/18 11:21:02.000
+248,Queued-Awaiting Assignment,46,2011/02/18 11:25:40.000
+248,Accepted-In Progress,78,2011/02/18 11:38:02.000
+248,Accepted-Assigned,46,2011/02/18 11:39:05.000
+248,Queued-Awaiting Assignment,72,2011/10/14 20:21:36.000
+248,Accepted-In Progress,78,2011/10/14 20:21:55.000
+248,Accepted-Assigned,79,2011/10/14 20:22:02.000
+248,Accepted-Wait,79,2011/10/21 14:19:58.000
+248,Queued-Awaiting Assignment,46,2011/11/11 11:33:54.000
+248,Accepted-In Progress,43,2012/02/06 20:31:31.000
+248,Completed-Closed,43,2012/02/06 20:34:44.000
+2293,Accepted-In Progress,373,2012/06/14 12:45:20.000
+207,Accepted-In Progress,138,2010/12/16 11:11:54.000
+207,Accepted-Wait,138,2010/12/16 11:12:33.000
+207,Completed-Closed,138,2012/01/06 10:27:49.000
+2258,Accepted-In Progress,29,2012/06/12 10:43:36.000
+2258,Accepted-Assigned,29,2012/06/14 09:38:57.000
+2258,Queued-Awaiting Assignment,58,2012/06/14 17:18:38.000
+1463,Accepted-In Progress,43,2012/05/16 17:58:10.000
+1463,Completed-Closed,43,2012/05/17 16:46:59.000
+279,Accepted-In Progress,29,2011/04/04 12:48:35.000
+279,Accepted-Assigned,29,2011/04/04 12:49:23.000
+279,Accepted-Assigned,143,2011/08/18 14:05:34.000
+279,Accepted-In Progress,143,2011/08/19 16:27:15.000
+279,Accepted-Wait,143,2011/11/01 14:29:18.000
+279,Completed-Closed,143,2012/02/15 12:12:58.000
+206,Accepted-In Progress,115,2010/12/16 09:28:03.000
+206,Completed-Closed,115,2012/01/24 14:01:49.000
+1924,Accepted-In Progress,345,2012/04/24 01:05:25.000
+1924,Queued-Awaiting Assignment,345,2012/04/24 01:06:50.000
+748,Accepted-In Progress,43,2011/12/08 12:59:55.000
+748,Completed-Closed,43,2012/01/04 16:43:32.000
+394,Accepted-In Progress,139,2011/07/05 14:33:46.000
+394,Accepted-Assigned,139,2012/02/15 17:33:28.000
+394,Completed-Closed,139,2012/05/23 18:00:04.000
+1597,Accepted-In Progress,43,2012/02/02 21:51:10.000
+1597,Completed-Closed,43,2012/02/02 21:52:46.000
+330,Accepted-In Progress,103,2011/05/09 15:23:45.000
+330,Accepted-In Progress,103,2011/05/09 15:29:28.000
+330,Accepted-In Progress,103,2011/05/09 15:50:50.000
+330,Queued-Awaiting Assignment,103,2011/05/09 15:56:50.000
+330,Queued-Awaiting Assignment,77,2011/05/09 16:02:06.000
+330,Accepted-In Progress,77,2011/05/11 10:39:36.000
+330,Accepted-Assigned,2,2011/05/11 10:39:46.000
+330,Accepted-Wait,2,2011/10/20 14:32:45.000
+330,Accepted-Wait,2,2011/10/20 14:58:09.000
+330,Completed-Closed,2,2012/01/30 12:35:20.000
+1377,Accepted-In Progress,229,2012/04/18 21:54:43.000
+1377,Queued-Awaiting Assignment,229,2012/04/18 22:00:28.000
+1377,Accepted-In Progress,563,2012/04/18 23:21:45.000
+1377,Queued-Awaiting Assignment,86,2012/04/18 23:45:24.000
+1377,Queued-Awaiting Assignment,229,2012/04/19 08:51:30.000
+1377,Accepted-In Progress,188,2012/04/25 17:54:42.000
+1377,Queued-Awaiting Assignment,44,2012/04/25 17:58:49.000
+1377,Accepted-Assigned,111,2012/05/07 14:13:40.000
+1377,Queued-Awaiting Assignment,478,2012/05/07 14:45:40.000
+1377,Accepted-Assigned,354,2012/05/07 16:26:17.000
+1377,Accepted-In Progress,354,2012/05/08 10:16:03.000
+1377,Completed-Closed,354,2012/05/08 10:19:49.000
+1280,Accepted-In Progress,204,2012/03/27 08:18:48.000
+1280,Accepted-Wait,204,2012/03/27 08:24:17.000
+1280,Completed-Closed,204,2012/04/17 10:26:36.000
+1565,Accepted-In Progress,58,2011/01/18 10:35:34.000
+1565,Queued-Awaiting Assignment,58,2011/01/18 10:46:33.000
+63,Accepted-In Progress,55,2010/03/30 18:13:33.000
+63,Accepted-In Progress,55,2010/03/31 11:41:00.000
+63,Queued-Awaiting Assignment,55,2010/03/31 11:43:06.000
+63,Accepted-In Progress,55,2010/03/31 11:43:07.000
+63,Accepted-In Progress,55,2010/03/31 11:46:20.000
+63,Accepted-In Progress,55,2010/10/07 16:45:29.000
+63,Completed-Closed,55,2012/04/24 18:18:24.000
+1492,Accepted-In Progress,2,2008/05/07 18:58:51.000
+1492,Accepted-In Progress,2,2008/10/06 16:44:37.000
+1492,Accepted-Wait,2,2009/12/02 14:24:34.000
+1492,Accepted-In Progress,2,2011/09/02 00:27:50.000
+1492,Accepted-In Progress,2,2011/09/02 00:27:55.000
+533,Accepted-In Progress,276,2011/09/30 04:22:34.000
+533,Accepted-Wait,276,2012/01/05 21:58:23.000
+533,Completed-Closed,276,2012/04/12 14:37:07.000
+54,Accepted-In Progress,49,2010/03/11 10:02:02.000
+54,Completed-Closed,49,2012/03/15 14:27:03.000
+793,Accepted-In Progress,20,2011/12/19 17:02:25.000
+793,Accepted-Wait,20,2012/01/04 11:26:26.000
+793,Accepted-In Progress,20,2012/02/20 10:32:17.000
+793,Completed-Closed,20,2012/02/20 10:35:33.000
+334,Accepted-In Progress,100,2011/05/12 11:42:03.000
+334,Accepted-In Progress,100,2011/05/16 15:43:50.000
+334,Accepted-Assigned,194,2012/03/30 17:15:20.000
+334,Accepted-In Progress,194,2012/03/30 17:16:51.000
+334,Completed-Closed,194,2012/05/10 17:14:28.000
+1115,Accepted-In Progress,213,2012/02/23 09:07:54.000
+1115,Completed-Closed,213,2012/02/23 09:34:57.000
+1132,Accepted-In Progress,123,2012/02/27 12:55:39.000
+1132,Completed-Closed,123,2012/02/27 13:05:54.000
+1338,Accepted-In Progress,43,2012/04/08 22:25:23.000
+1338,Completed-Closed,43,2012/04/08 22:26:15.000
+580,Accepted-In Progress,13,2011/10/19 15:02:57.000
+580,Completed-Closed,13,2012/02/22 10:50:42.000
+984,Accepted-In Progress,164,2012/02/02 14:53:09.000
+984,Completed-Closed,164,2012/03/13 08:19:47.000
+1593,Accepted-Assigned,192,2011/10/05 08:38:35.000
+1593,Accepted-Assigned,193,2011/10/05 09:03:00.000
+1593,Accepted-In Progress,193,2011/11/08 14:44:51.000
+1593,Completed-Closed,193,2012/04/10 17:19:54.000
+875,Accepted-In Progress,417,2012/01/12 11:16:10.000
+875,Accepted-Wait,417,2012/02/07 11:40:16.000
+875,Accepted-In Progress,417,2012/02/15 15:16:52.000
+875,Completed-Closed,417,2012/02/15 15:51:00.000
+733,Accepted-In Progress,237,2011/12/05 12:35:14.000
+733,Queued-Awaiting Assignment,237,2011/12/05 13:02:06.000
+733,Queued-Awaiting Assignment,113,2011/12/06 08:23:22.000
+733,Accepted-In Progress,113,2011/12/08 07:48:30.000
+733,Queued-Awaiting Assignment,237,2011/12/09 12:59:13.000
+733,Accepted-In Progress,237,2011/12/09 13:00:14.000
+733,Completed-Closed,237,2012/03/22 08:54:05.000
+1479,Accepted-In Progress,81,2012/05/25 10:32:26.000
+1479,Accepted-Assigned,81,2012/05/25 10:42:34.000
+1479,Accepted-In Progress,68,2012/05/30 11:16:02.000
+1479,Completed-Closed,68,2012/05/30 11:17:28.000
+420,Accepted-In Progress,208,2011/07/27 00:10:10.000
+420,Accepted-Assigned,208,2011/08/11 13:59:08.000
+420,Accepted-Wait,208,2011/08/19 11:17:19.000
+420,Accepted-Wait,208,2011/09/02 15:50:00.000
+420,Accepted-Assigned,117,2011/09/02 15:50:16.000
+420,Accepted-In Progress,117,2011/12/14 16:02:37.000
+420,Completed-Closed,117,2012/02/07 13:10:40.000
+392,Accepted-In Progress,156,2011/07/02 00:15:10.000
+392,Queued-Awaiting Assignment,156,2011/07/02 00:18:22.000
+392,Accepted-Assigned,23,2011/07/04 07:29:46.000
+392,Accepted-In Progress,212,2012/01/25 19:46:19.000
+392,Completed-Closed,212,2012/01/25 19:48:24.000
+144,Accepted-In Progress,46,2010/09/01 12:17:52.000
+144,Queued-Awaiting Assignment,46,2010/09/01 12:22:26.000
+144,Accepted-In Progress,54,2010/09/01 13:29:56.000
+144,Accepted-Assigned,46,2010/09/01 13:30:04.000
+144,Accepted-In Progress,43,2012/01/31 09:01:21.000
+144,Completed-Closed,43,2012/01/31 09:02:46.000
+1389,Accepted-In Progress,567,2012/04/23 09:29:47.000
+1389,Completed-Closed,567,2012/04/25 11:20:11.000
+1300,Accepted-In Progress,360,2012/03/30 14:30:47.000
+1300,Completed-Closed,360,2012/03/30 14:37:12.000
+2127,Accepted-In Progress,483,2012/05/24 15:59:07.000
+2127,Accepted-Wait,483,2012/05/28 10:02:06.000
+2127,Accepted-In Progress,483,2012/06/05 13:21:29.000
+2127,Accepted-Wait,483,2012/06/11 09:17:57.000
+406,Accepted-In Progress,46,2011/07/12 21:58:20.000
+406,Queued-Awaiting Assignment,46,2011/07/12 21:59:15.000
+406,Accepted-In Progress,78,2011/07/13 03:59:15.000
+406,Accepted-Assigned,46,2011/07/13 04:00:29.000
+406,Accepted-In Progress,43,2012/01/18 10:42:57.000
+406,Completed-Closed,43,2012/01/18 10:43:34.000
+1093,Accepted-In Progress,98,2012/02/17 17:51:32.000
+1093,Queued-Awaiting Assignment,98,2012/02/17 17:56:15.000
+1093,Accepted-In Progress,165,2012/03/23 14:46:14.000
+1093,Completed-Closed,165,2012/03/23 14:52:53.000
+1526,Accepted-In Progress,43,2011/12/30 11:09:26.000
+1526,Completed-Closed,43,2012/01/30 12:31:24.000
+1221,Accepted-In Progress,276,2012/03/13 19:07:43.000
+1221,Accepted-Wait,276,2012/03/13 21:32:35.000
+1221,Completed-Closed,276,2012/03/13 21:33:09.000
+1221,Accepted-In Progress,276,2012/03/28 13:23:16.000
+1221,Completed-Closed,276,2012/03/28 13:40:14.000
+1502,Queued-Awaiting Assignment,2,2010/08/25 11:04:56.000
+1502,Accepted-In Progress,2,2011/09/03 07:49:00.000
+1502,Accepted-Assigned,4,2011/11/14 16:10:03.000
+1502,Accepted-Wait,4,2012/01/12 09:23:04.000
+2101,Accepted-In Progress,503,2012/05/22 19:11:09.000
+910,Accepted-In Progress,187,2012/01/17 17:26:02.000
+910,Queued-Awaiting Assignment,187,2012/01/19 14:04:39.000
+910,Accepted-In Progress,432,2012/02/29 12:03:46.000
+910,Accepted-Wait,432,2012/02/29 13:48:49.000
+910,Accepted-Assigned,432,2012/02/29 14:41:18.000
+910,Queued-Awaiting Assignment,187,2012/02/29 14:41:49.000
+910,Accepted-Assigned,232,2012/03/29 09:34:23.000
+910,Accepted-In Progress,232,2012/03/29 09:54:00.000
+910,Completed-Closed,232,2012/03/29 09:54:07.000
+666,Accepted-In Progress,149,2011/11/14 14:38:06.000
+666,Accepted-In Progress,149,2011/11/14 14:38:49.000
+666,Queued-Awaiting Assignment,129,2011/11/17 13:32:14.000
+666,Accepted-In Progress,48,2011/12/13 10:08:38.000
+666,Completed-Closed,48,2012/03/06 14:55:15.000
+2268,Accepted-Wait,30,2012/06/12 16:00:03.000
+376,Accepted-In Progress,77,2011/06/22 11:34:30.000
+376,Completed-Closed,77,2012/01/03 15:58:00.000
+1473,Accepted-In Progress,522,2012/05/22 10:53:45.000
+1473,Completed-Closed,522,2012/05/22 10:54:00.000
+775,Accepted-In Progress,15,2011/12/14 16:06:21.000
+775,Completed-Closed,15,2012/03/05 10:33:07.000
+163,Accepted-In Progress,128,2010/10/07 15:39:55.000
+163,Accepted-In Progress,128,2011/10/12 17:49:01.000
+163,Completed-Closed,128,2012/01/11 17:15:59.000
+602,Accepted-In Progress,8,2011/10/25 15:30:47.000
+602,Completed-Closed,8,2012/04/20 09:21:40.000
+1324,Accepted-In Progress,325,2012/04/04 11:36:19.000
+1324,Accepted-Assigned,325,2012/04/04 13:03:23.000
+1324,Accepted-Assigned,104,2012/04/04 13:04:25.000
+1324,Accepted-In Progress,104,2012/05/09 16:47:25.000
+1324,Completed-Closed,104,2012/05/09 16:47:26.000
+5,Accepted-In Progress,4,2007/07/25 14:21:05.000
+5,Accepted-Wait,4,2009/12/02 14:24:32.000
+5,Queued-Awaiting Assignment,4,2010/08/25 11:13:01.000
+5,Accepted-In Progress,4,2011/09/05 09:24:13.000
+5,Accepted-Assigned,4,2011/11/14 16:10:25.000
+5,Accepted-In Progress,4,2012/01/03 11:30:35.000
+5,Completed-Closed,4,2012/01/03 11:31:53.000
+1554,Accepted-In Progress,43,2012/02/04 12:32:39.000
+1554,Completed-Closed,43,2012/02/04 12:36:16.000
+1037,Accepted-In Progress,438,2012/02/09 16:39:02.000
+1037,Accepted-Assigned,438,2012/02/10 13:50:20.000
+1037,Accepted-In Progress,438,2012/02/10 17:42:31.000
+1037,Accepted-Wait,438,2012/02/17 15:58:54.000
+1037,Completed-Closed,438,2012/03/19 16:19:14.000
+717,Accepted-In Progress,86,2011/12/01 17:34:34.000
+717,Queued-Awaiting Assignment,86,2011/12/01 17:35:30.000
+717,Accepted-In Progress,87,2011/12/01 17:44:11.000
+717,Accepted-Wait,87,2011/12/01 17:50:49.000
+717,Queued-Awaiting Assignment,248,2011/12/05 14:44:20.000
+717,Accepted-In Progress,248,2011/12/12 15:29:04.000
+717,Completed-Closed,248,2012/01/19 09:11:19.000
+717,Accepted-In Progress,248,2012/01/19 09:11:24.000
+717,Completed-Closed,248,2012/01/19 09:11:34.000
+1639,Accepted-In Progress,58,2011/09/27 04:53:16.000
+1639,Queued-Awaiting Assignment,58,2011/10/06 13:46:24.000
+1639,Queued-Awaiting Assignment,58,2011/10/18 16:00:00.000
+1639,Queued-Awaiting Assignment,77,2011/12/16 18:27:10.000
+1639,Queued-Awaiting Assignment,77,2012/01/17 15:31:59.000
+1639,Accepted-In Progress,267,2012/05/23 13:26:26.000
+1639,Completed-Closed,267,2012/05/23 13:26:40.000
+2288,Accepted-In Progress,68,2012/06/14 10:41:28.000
+2097,Accepted-In Progress,43,2012/05/22 11:57:53.000
+2097,Completed-Closed,43,2012/05/22 12:03:02.000
+1413,Accepted-In Progress,570,2012/04/29 10:41:28.000
+1413,Accepted-Assigned,570,2012/04/29 10:42:46.000
+1413,Accepted-In Progress,571,2012/05/23 13:18:57.000
+1413,Accepted-In Progress,570,2012/05/23 13:20:38.000
+1413,Completed-Closed,570,2012/05/23 13:21:04.000
+641,Accepted-Wait,256,2011/11/04 08:46:53.000
+641,Completed-Closed,256,2012/02/10 08:02:42.000
+2083,Accepted-In Progress,375,2012/05/18 20:21:35.000
+592,Accepted-In Progress,132,2011/10/23 10:39:49.000
+592,Completed-Closed,132,2012/01/09 10:21:47.000
+1234,Accepted-In Progress,43,2012/03/15 17:34:01.000
+1234,Completed-Closed,43,2012/03/15 17:37:07.000
+68,Accepted-In Progress,46,2010/04/08 12:07:36.000
+68,Queued-Awaiting Assignment,46,2010/04/08 12:09:05.000
+68,Accepted-In Progress,54,2010/04/08 19:33:49.000
+68,Accepted-Assigned,46,2010/04/08 19:33:54.000
+68,Accepted-In Progress,43,2011/12/30 10:00:16.000
+68,Completed-Closed,43,2012/01/04 16:49:12.000
+853,Accepted-In Progress,410,2012/01/09 19:10:00.000
+853,Completed-Closed,410,2012/03/14 12:50:13.000
+1733,Accepted-In Progress,281,2012/01/04 12:36:18.000
+1733,Completed-Closed,281,2012/01/04 12:53:35.000
+266,Accepted-In Progress,139,2011/03/14 15:04:30.000
+266,Completed-Closed,139,2012/02/01 16:12:52.000
+1282,Queued-Awaiting Assignment,511,2012/03/27 19:50:15.000
+1282,Accepted-In Progress,540,2012/03/29 12:17:30.000
+1282,Completed-Closed,540,2012/03/29 12:18:50.000
+759,Accepted-In Progress,381,2011/12/13 06:47:00.000
+759,Accepted-Wait,381,2011/12/20 02:43:10.000
+759,Completed-Closed,381,2012/05/23 04:53:03.000
+753,Accepted-In Progress,77,2011/12/09 11:38:35.000
+753,Queued-Awaiting Assignment,77,2011/12/09 12:33:04.000
+753,Queued-Awaiting Assignment,77,2011/12/09 12:44:12.000
+753,Accepted-Assigned,167,2011/12/09 13:31:39.000
+753,Accepted-Assigned,374,2011/12/13 10:10:00.000
+753,Queued-Awaiting Assignment,23,2011/12/15 09:43:58.000
+753,Accepted-In Progress,212,2012/04/20 17:34:45.000
+753,Completed-Closed,212,2012/04/20 17:34:51.000
+1137,Accepted-In Progress,116,2012/02/28 09:57:37.000
+1137,Accepted-Wait,116,2012/02/28 13:39:08.000
+1137,Completed-Closed,116,2012/03/30 12:00:46.000
+861,Accepted-In Progress,289,2012/01/10 14:05:54.000
+861,Accepted-Assigned,289,2012/01/27 15:52:26.000
+861,Accepted-In Progress,289,2012/03/12 16:22:26.000
+861,Completed-Closed,289,2012/03/12 16:22:39.000
+539,Accepted-In Progress,281,2011/10/03 13:33:11.000
+539,Accepted-Assigned,281,2011/10/03 13:34:09.000
+539,Accepted-In Progress,63,2012/01/10 12:56:18.000
+539,Completed-Closed,63,2012/01/10 12:56:57.000
+1112,Queued-Awaiting Assignment,283,2012/02/22 15:23:03.000
+1112,Accepted-In Progress,490,2012/02/22 15:35:11.000
+1112,Accepted-In Progress,60,2012/02/22 15:57:15.000
+1112,Accepted-Assigned,88,2012/03/07 09:06:58.000
+1112,Accepted-Assigned,60,2012/04/23 14:30:03.000
+1112,Accepted-In Progress,88,2012/04/23 14:30:08.000
+1112,Completed-Closed,88,2012/04/23 14:31:53.000
+1747,Accepted-In Progress,417,2012/01/12 11:16:10.000
+1747,Accepted-Wait,417,2012/02/07 11:40:16.000
+1747,Accepted-In Progress,417,2012/02/15 15:16:52.000
+1747,Completed-Closed,417,2012/02/15 15:51:00.000
+1760,Accepted-In Progress,299,2012/01/17 13:09:37.000
+1760,Completed-Closed,299,2012/02/23 09:11:36.000
+1312,Accepted-In Progress,119,2012/04/02 23:34:44.000
+1312,Completed-Closed,119,2012/05/02 15:23:07.000
+1571,Accepted-In Progress,108,2011/02/23 17:45:04.000
+1571,Accepted-In Progress,108,2011/02/23 17:52:29.000
+1571,Accepted-Wait,108,2011/05/04 10:05:50.000
+1571,Queued-Awaiting Assignment,108,2011/09/05 10:10:57.000
+1238,Accepted-In Progress,525,2012/03/16 09:22:37.000
+1238,Accepted-Wait,525,2012/03/16 09:25:02.000
+1238,Completed-Closed,525,2012/04/13 16:33:52.000
+1808,Accepted-In Progress,106,2012/02/14 10:46:27.000
+1808,Completed-Closed,106,2012/02/14 15:19:06.000
+2206,Accepted-In Progress,503,2012/06/01 17:43:38.000
+2206,Accepted-Wait,503,2012/06/08 15:48:56.000
+1623,Accepted-In Progress,29,2011/08/29 18:33:51.000
+1623,Accepted-Assigned,29,2011/08/29 18:38:53.000
+1623,Accepted-In Progress,29,2011/09/09 13:16:42.000
+1623,Accepted-Wait,29,2011/09/21 11:38:15.000
+1976,Accepted-In Progress,561,2012/05/08 09:11:39.000
+2204,Accepted-In Progress,62,2012/06/01 14:56:50.000
+480,Accepted-In Progress,46,2011/09/05 17:07:57.000
+480,Queued-Awaiting Assignment,46,2011/09/05 17:16:24.000
+480,Accepted-In Progress,238,2011/09/05 18:20:33.000
+480,Accepted-Assigned,46,2011/09/05 18:21:02.000
+480,Accepted-In Progress,43,2012/02/02 22:34:29.000
+480,Completed-Closed,43,2012/02/02 22:38:54.000
+2181,Accepted-In Progress,589,2012/05/31 10:50:47.000
+511,Accepted-In Progress,244,2011/09/22 13:44:06.000
+511,Accepted-In Progress,244,2011/09/22 14:16:09.000
+511,Completed-Closed,244,2012/02/01 13:11:49.000
+225,Accepted-In Progress,144,2011/01/17 11:12:41.000
+225,Completed-Closed,144,2012/01/06 17:48:18.000
+132,Accepted-In Progress,46,2010/07/26 10:55:31.000
+132,Queued-Awaiting Assignment,46,2010/07/26 11:00:53.000
+132,Accepted-In Progress,47,2010/07/27 01:50:41.000
+132,Accepted-Assigned,46,2010/07/27 01:53:16.000
+132,Queued-Awaiting Assignment,72,2011/04/12 16:00:23.000
+132,Accepted-Assigned,73,2011/04/12 16:00:40.000
+132,Accepted-Wait,73,2011/04/19 12:57:10.000
+132,Queued-Awaiting Assignment,46,2011/05/18 11:32:01.000
+132,Accepted-In Progress,78,2011/05/18 12:27:24.000
+132,Accepted-Assigned,46,2011/05/18 12:27:30.000
+132,Accepted-In Progress,43,2012/01/30 14:39:11.000
+132,Completed-Closed,43,2012/01/30 15:45:01.000
+2058,Accepted-In Progress,253,2012/05/16 13:33:40.000
+2058,Queued-Awaiting Assignment,253,2012/05/16 13:34:34.000
+118,Accepted-In Progress,88,2010/06/16 16:09:45.000
+118,Queued-Awaiting Assignment,88,2010/08/16 12:24:39.000
+118,Accepted-In Progress,62,2010/08/17 17:19:11.000
+118,Accepted-Wait,62,2010/12/13 10:31:55.000
+118,Accepted-Assigned,63,2011/06/27 12:22:34.000
+118,Accepted-Wait,62,2011/06/27 12:31:34.000
+118,Accepted-In Progress,62,2012/01/12 13:16:07.000
+118,Completed-Closed,62,2012/01/12 13:17:41.000
+124,Accepted-In Progress,101,2010/07/01 12:20:33.000
+124,Completed-Closed,101,2012/01/09 15:31:04.000
+2303,Accepted-In Progress,71,2012/06/15 09:07:27.000
+468,Accepted-In Progress,240,2011/08/31 13:50:43.000
+468,Completed-Closed,240,2012/01/26 08:17:14.000
+1611,Accepted-In Progress,29,2011/07/18 15:45:13.000
+1611,Accepted-In Progress,29,2011/07/18 15:48:49.000
+1611,Accepted-Assigned,29,2011/07/18 15:55:27.000
+1611,Accepted-In Progress,29,2011/09/09 13:17:31.000
+707,Accepted-In Progress,119,2011/11/30 05:20:53.000
+707,Queued-Awaiting Assignment,119,2011/11/30 08:38:36.000
+707,Accepted-In Progress,62,2011/11/30 08:54:41.000
+707,Queued-Awaiting Assignment,350,2011/11/30 08:55:27.000
+707,Accepted-In Progress,351,2012/01/05 03:30:36.000
+707,Completed-Closed,351,2012/01/05 03:31:22.000
+820,Accepted-In Progress,62,2011/12/28 04:10:10.000
+820,Accepted-In Progress,62,2012/02/01 12:01:35.000
+820,Completed-Closed,62,2012/02/01 12:02:09.000
+1370,Accepted-In Progress,43,2012/04/17 11:19:39.000
+1370,Completed-Closed,43,2012/04/17 11:25:37.000
+2289,Accepted-In Progress,483,2012/06/14 10:40:06.000
+2289,Accepted-Wait,483,2012/06/14 13:02:17.000
+597,Accepted-In Progress,302,2011/10/24 17:58:48.000
+597,Completed-Closed,302,2012/04/20 13:01:39.000
+19,Accepted-Wait,20,2009/10/26 14:47:10.000
+19,Unmatched-Unmatched,20,2009/10/27 09:57:26.000
+19,Queued-Awaiting Assignment,20,2010/03/02 13:44:22.000
+19,Accepted-In Progress,21,2010/03/02 13:46:10.000
+19,Accepted-Wait,21,2010/03/02 13:46:18.000
+19,Accepted-Assigned,22,2011/04/11 09:10:20.000
+19,Accepted-Assigned,21,2011/04/11 09:11:48.000
+19,Accepted-Wait,21,2011/11/28 08:21:27.000
+19,Accepted-In Progress,21,2012/03/30 10:53:50.000
+19,Completed-Closed,21,2012/03/30 10:53:53.000
+1382,Accepted-In Progress,253,2012/04/19 14:31:06.000
+1382,Completed-Closed,253,2012/05/23 16:56:52.000
+183,Accepted-Assigned,59,2010/11/12 14:05:33.000
+183,Accepted-In Progress,131,2012/02/01 13:16:41.000
+183,Completed-Closed,131,2012/02/01 13:17:55.000
+292,Accepted-In Progress,168,2011/04/08 13:23:18.000
+292,Accepted-In Progress,168,2012/04/24 15:16:44.000
+292,Completed-Closed,168,2012/04/24 15:16:46.000
+1375,Accepted-In Progress,43,2012/04/18 14:18:03.000
+1375,Completed-Closed,43,2012/04/18 14:24:14.000
+699,Accepted-In Progress,200,2011/11/25 13:21:16.000
+699,Queued-Awaiting Assignment,200,2011/12/01 10:22:28.000
+699,Accepted-In Progress,344,2011/12/01 10:23:47.000
+699,Queued-Awaiting Assignment,200,2011/12/01 15:28:14.000
+699,Accepted-In Progress,344,2011/12/01 15:29:02.000
+699,Accepted-Assigned,200,2011/12/01 15:29:41.000
+699,Accepted-In Progress,344,2011/12/01 15:29:46.000
+699,Completed-Closed,344,2012/01/04 12:12:18.000
+883,Accepted-In Progress,88,2012/01/13 09:10:14.000
+883,Accepted-Assigned,88,2012/01/13 09:17:04.000
+883,Accepted-In Progress,88,2012/01/22 23:36:47.000
+883,Completed-Closed,88,2012/01/22 23:37:57.000
+1607,Accepted-In Progress,104,2011/07/05 11:24:39.000
+1607,Completed-Closed,104,2012/05/15 15:57:12.000
+481,Accepted-In Progress,62,2011/09/06 10:29:51.000
+481,Completed-Closed,62,2012/03/26 18:00:49.000
+2166,Accepted-In Progress,580,2012/05/29 16:48:03.000
+2166,Accepted-Assigned,580,2012/05/29 16:49:44.000
+1673,Accepted-In Progress,309,2011/11/02 13:11:01.000
+1673,Queued-Awaiting Assignment,309,2011/11/02 13:11:07.000
+1673,Accepted-In Progress,309,2011/11/09 13:36:53.000
+1673,Completed-Closed,309,2012/01/03 11:03:09.000
+422,Accepted-In Progress,198,2011/07/29 15:47:54.000
+422,Accepted-Wait,198,2011/08/01 16:13:25.000
+422,Completed-Closed,198,2012/02/15 12:52:57.000
+1678,Accepted-In Progress,326,2012/03/14 12:25:28.000
+1663,Accepted-In Progress,273,2011/10/25 15:23:06.000
+1663,Completed-Closed,273,2012/02/28 16:00:13.000
+900,Accepted-In Progress,299,2012/01/16 16:03:47.000
+900,Accepted-In Progress,299,2012/01/16 16:14:34.000
+900,Completed-Closed,299,2012/05/23 13:53:24.000
+735,Accepted-In Progress,368,2011/12/05 15:55:59.000
+735,Accepted-In Progress,368,2012/01/19 10:05:25.000
+735,Completed-Closed,368,2012/01/19 10:12:47.000
+2159,Accepted-In Progress,622,2012/05/29 10:05:58.000
+1368,Accepted-In Progress,123,2012/04/17 09:51:27.000
+1368,Completed-Closed,123,2012/04/17 10:38:11.000
+1950,Accepted-In Progress,52,2012/05/03 10:48:58.000
+184,Accepted-Assigned,59,2010/11/12 14:09:24.000
+184,Accepted-In Progress,131,2012/02/01 13:18:38.000
+184,Completed-Closed,131,2012/02/01 13:19:29.000
+1424,Accepted-In Progress,129,2012/05/03 17:00:53.000
+1424,Queued-Awaiting Assignment,129,2012/05/03 18:35:20.000
+1424,Queued-Awaiting Assignment,77,2012/05/04 11:35:45.000
+1424,Accepted-In Progress,77,2012/05/06 19:27:57.000
+1424,Accepted-In Progress,77,2012/05/08 13:51:42.000
+1424,Queued-Awaiting Assignment,229,2012/05/08 14:24:52.000
+1424,Queued-Awaiting Assignment,44,2012/05/10 14:25:04.000
+1424,Accepted-In Progress,360,2012/05/11 10:41:18.000
+1424,Completed-Closed,360,2012/05/16 15:22:25.000
+1424,Accepted-In Progress,360,2012/05/29 13:10:03.000
+1424,Completed-Closed,360,2012/05/29 13:17:45.000
+944,Accepted-In Progress,20,2012/01/25 08:51:58.000
+944,Completed-Closed,20,2012/01/25 13:24:46.000
+2177,Accepted-In Progress,29,2012/05/30 17:55:15.000
+2177,Accepted-Assigned,29,2012/05/30 18:28:36.000
+310,Accepted-In Progress,57,2011/04/20 17:02:07.000
+310,Queued-Awaiting Assignment,57,2011/04/20 17:28:45.000
+310,Accepted-In Progress,57,2011/04/29 08:37:01.000
+310,Completed-Closed,57,2012/04/04 17:31:01.000
+2113,Accepted-In Progress,244,2012/05/23 16:37:53.000
+122,Accepted-In Progress,2,2010/06/23 14:13:51.000
+122,Accepted-In Progress,2,2011/09/03 07:46:51.000
+122,Accepted-Assigned,4,2011/11/14 16:10:10.000
+122,Accepted-In Progress,44,2012/03/08 10:29:26.000
+122,Completed-Closed,44,2012/03/08 10:30:46.000
+828,Accepted-In Progress,404,2012/01/03 14:53:21.000
+828,Accepted-In Progress,404,2012/01/19 07:35:48.000
+828,Completed-Closed,404,2012/01/19 07:39:52.000
+1354,Accepted-In Progress,43,2012/04/13 12:30:07.000
+1354,Completed-Closed,43,2012/04/13 12:32:34.000
+411,Accepted-In Progress,46,2011/07/15 09:02:25.000
+411,Queued-Awaiting Assignment,46,2011/07/15 09:12:43.000
+411,Accepted-In Progress,78,2011/07/15 09:14:45.000
+411,Accepted-Assigned,46,2011/07/15 09:14:54.000
+411,Accepted-In Progress,43,2012/02/06 21:33:03.000
+411,Completed-Closed,43,2012/02/06 21:34:12.000
+881,Accepted-In Progress,211,2012/01/13 08:04:43.000
+881,Completed-Closed,211,2012/01/26 13:51:59.000
+937,Accepted-In Progress,439,2012/01/24 12:35:30.000
+937,Completed-Closed,439,2012/01/24 12:38:09.000
+448,Accepted-In Progress,216,2011/08/22 17:33:44.000
+448,Accepted-In Progress,216,2011/08/22 17:35:30.000
+448,Queued-Awaiting Assignment,216,2011/08/22 17:40:46.000
+448,Accepted-In Progress,216,2011/11/09 14:56:53.000
+448,Accepted-Wait,216,2011/11/09 14:56:57.000
+448,Completed-Closed,216,2012/02/01 12:53:37.000
+299,Accepted-In Progress,60,2011/04/14 13:59:47.000
+299,Accepted-In Progress,60,2012/02/21 15:31:53.000
+299,Completed-Closed,60,2012/02/21 15:31:54.000
+201,Accepted-In Progress,84,2010/12/08 10:23:06.000
+201,Queued-Awaiting Assignment,84,2010/12/08 10:58:04.000
+201,Accepted-In Progress,84,2011/09/08 11:18:39.000
+201,Accepted-Wait,84,2011/09/08 11:19:27.000
+201,Completed-Closed,84,2012/02/01 14:02:04.000
+2238,Accepted-In Progress,132,2012/06/07 20:39:13.000
+677,Accepted-In Progress,300,2011/11/18 11:59:39.000
+677,Completed-Closed,300,2012/02/01 12:32:12.000
+2255,Accepted-In Progress,29,2012/06/11 17:26:26.000
+2255,Accepted-Assigned,29,2012/06/11 17:31:53.000
+2255,Accepted-In Progress,172,2012/06/13 12:01:55.000
+2255,Accepted-Wait,172,2012/06/14 16:43:04.000
+1626,Accepted-In Progress,241,2011/09/01 14:01:39.000
+1626,Accepted-In Progress,241,2011/12/22 08:41:16.000
+1626,Completed-Closed,241,2012/01/04 12:31:27.000
+1615,Accepted-In Progress,43,2012/02/06 17:02:25.000
+1615,Completed-Closed,43,2012/02/06 17:03:44.000
+332,Accepted-In Progress,132,2011/05/10 07:37:04.000
+332,Accepted-Wait,132,2011/05/10 07:37:21.000
+332,Accepted-Wait,132,2011/10/20 21:20:55.000
+332,Completed-Closed,132,2012/01/09 10:28:28.000
+10,Accepted-In Progress,7,2009/06/25 09:47:52.000
+10,Accepted-In Progress,7,2012/03/28 13:10:36.000
+10,Completed-Closed,7,2012/03/28 13:12:08.000
+1766,Accepted-In Progress,8,2012/01/23 09:18:48.000
+1766,Completed-Closed,8,2012/03/28 11:23:22.000
+1743,Accepted-In Progress,164,2012/01/10 10:27:07.000
+1743,Completed-Closed,164,2012/01/13 12:32:34.000
+287,Accepted-In Progress,170,2011/04/06 16:21:18.000
+287,Accepted-In Progress,170,2011/04/06 16:31:54.000
+287,Accepted-Wait,170,2012/02/08 06:46:59.000
+287,Completed-Closed,170,2012/02/08 06:51:52.000
+973,Accepted-In Progress,63,2012/01/31 13:29:53.000
+973,Queued-Awaiting Assignment,63,2012/01/31 13:34:58.000
+973,Accepted-In Progress,63,2012/02/01 10:48:06.000
+973,Completed-Closed,63,2012/03/19 07:09:57.000
+1986,Accepted-In Progress,568,2012/05/08 20:23:46.000
+1986,Accepted-In Progress,568,2012/05/08 20:34:05.000
+1986,Accepted-Wait,568,2012/05/08 20:36:25.000
+1880,Queued-Awaiting Assignment,69,2012/03/30 12:06:50.000
+1880,Accepted-In Progress,71,2012/03/30 12:10:35.000
+1880,Queued-Awaiting Assignment,69,2012/04/16 17:30:31.000
+1880,Accepted-In Progress,71,2012/04/16 17:46:31.000
+1880,Queued-Awaiting Assignment,69,2012/04/20 09:03:26.000
+1880,Accepted-In Progress,71,2012/04/20 10:00:46.000
+1880,Accepted-Wait,71,2012/04/20 11:05:03.000
+1880,Accepted-In Progress,71,2012/04/25 15:38:30.000
+1880,Completed-Closed,71,2012/04/25 15:54:28.000
+857,Accepted-In Progress,206,2012/01/10 10:07:38.000
+857,Completed-Closed,206,2012/03/19 11:17:49.000
+857,Accepted-In Progress,206,2012/03/26 15:03:30.000
+857,Completed-Closed,206,2012/05/19 14:58:35.000
+368,Accepted-In Progress,39,2011/06/20 12:01:18.000
+368,Accepted-Wait,39,2011/09/08 12:40:35.000
+368,Accepted-In Progress,39,2011/09/13 10:53:29.000
+368,Queued-Awaiting Assignment,201,2011/09/13 11:18:48.000
+368,Accepted-In Progress,202,2011/09/14 09:15:06.000
+368,Queued-Awaiting Assignment,166,2011/09/14 09:16:17.000
+368,Accepted-In Progress,203,2011/09/14 11:34:19.000
+368,Queued-Awaiting Assignment,77,2011/09/14 12:48:48.000
+368,Accepted-In Progress,39,2011/09/14 15:34:38.000
+368,Queued-Awaiting Assignment,166,2011/09/14 15:40:59.000
+368,Accepted-In Progress,39,2011/09/14 15:42:24.000
+368,Accepted-Assigned,204,2011/09/14 16:16:19.000
+368,Accepted-In Progress,39,2012/01/17 13:13:47.000
+368,Completed-Closed,39,2012/01/17 13:15:49.000
+787,Accepted-In Progress,8,2011/12/19 09:09:42.000
+787,Completed-Closed,8,2012/04/20 09:23:30.000
+421,Accepted-In Progress,223,2011/07/28 16:32:02.000
+421,Accepted-Assigned,223,2011/07/28 17:18:52.000
+421,Accepted-Assigned,173,2011/08/04 15:10:22.000
+421,Accepted-In Progress,172,2011/08/18 23:51:05.000
+421,Accepted-In Progress,172,2011/08/29 16:15:31.000
+421,Accepted-Assigned,173,2011/09/05 10:27:39.000
+421,Accepted-In Progress,173,2011/09/05 14:24:28.000
+421,Accepted-Wait,173,2011/09/14 11:42:00.000
+421,Completed-Closed,173,2012/03/14 13:49:49.000
+1369,Accepted-In Progress,478,2012/04/17 10:12:34.000
+1369,Accepted-Wait,478,2012/04/17 13:57:02.000
+1369,Accepted-In Progress,478,2012/04/17 15:41:01.000
+1369,Accepted-Wait,478,2012/04/17 17:23:39.000
+1369,Accepted-In Progress,478,2012/04/19 10:11:58.000
+1369,Accepted-Wait,478,2012/04/19 13:50:15.000
+1369,Completed-Closed,478,2012/05/14 09:55:22.000
+1598,Accepted-In Progress,104,2011/06/07 23:21:06.000
+1598,Accepted-Wait,104,2011/06/08 13:12:31.000
+1598,Queued-Awaiting Assignment,104,2011/06/30 10:19:59.000
+169,Accepted-In Progress,46,2010/10/19 15:04:28.000
+169,Queued-Awaiting Assignment,46,2010/10/19 15:20:45.000
+169,Accepted-In Progress,54,2010/10/19 17:13:27.000
+169,Accepted-Assigned,46,2010/10/19 17:13:34.000
+169,Accepted-In Progress,43,2012/01/30 13:01:53.000
+169,Completed-Closed,43,2012/01/30 13:02:08.000
+1507,Accepted-In Progress,43,2012/01/09 11:25:49.000
+1507,Completed-Closed,43,2012/01/09 11:25:51.000
+1912,Accepted-In Progress,478,2012/04/17 10:12:34.000
+1912,Accepted-Wait,478,2012/04/17 13:57:02.000
+1912,Accepted-In Progress,478,2012/04/17 15:41:01.000
+1912,Accepted-Wait,478,2012/04/17 17:23:39.000
+1912,Accepted-In Progress,478,2012/04/19 10:11:58.000
+1912,Accepted-Wait,478,2012/04/19 13:50:15.000
+1912,Completed-Closed,478,2012/05/14 09:55:22.000
+2297,Accepted-In Progress,211,2012/06/14 15:19:34.000
+1214,Accepted-In Progress,150,2012/03/13 11:04:03.000
+1214,Queued-Awaiting Assignment,150,2012/03/13 11:05:43.000
+1214,Accepted-In Progress,446,2012/03/17 10:24:47.000
+1214,Queued-Awaiting Assignment,150,2012/03/17 10:34:44.000
+1214,Accepted-In Progress,446,2012/03/17 10:34:45.000
+1214,Accepted-In Progress,276,2012/03/19 04:43:04.000
+1214,Accepted-Wait,276,2012/03/19 04:44:40.000
+1214,Completed-Closed,276,2012/04/12 14:43:49.000
+194,Accepted-In Progress,132,2010/11/25 11:34:35.000
+194,Accepted-Wait,132,2011/05/04 08:24:58.000
+194,Completed-Closed,132,2012/02/14 21:05:03.000
+1542,Accepted-In Progress,8,2010/09/23 16:32:09.000
+1542,Accepted-Wait,8,2010/12/05 13:28:02.000
+1542,Completed-Closed,8,2012/01/26 12:06:11.000
+1812,Queued-Awaiting Assignment,150,2012/03/07 08:22:21.000
+1812,Accepted-In Progress,393,2012/03/12 19:20:37.000
+1812,Completed-Closed,393,2012/03/12 19:20:52.000
+1699,Queued-Awaiting Assignment,147,2011/12/02 13:57:32.000
+1041,Accepted-In Progress,353,2012/02/10 10:12:35.000
+1041,Completed-Closed,353,2012/03/12 10:15:30.000
+216,Accepted-In Progress,46,2010/12/30 10:45:20.000
+216,Queued-Awaiting Assignment,46,2010/12/30 10:56:11.000
+216,Accepted-In Progress,78,2010/12/30 11:03:45.000
+216,Accepted-Assigned,46,2010/12/30 11:06:23.000
+216,Accepted-In Progress,43,2012/02/06 16:07:59.000
+216,Completed-Closed,43,2012/02/06 16:12:29.000
+96,Accepted-In Progress,80,2010/05/19 11:58:36.000
+96,Queued-Awaiting Assignment,80,2010/06/15 08:18:34.000
+96,Accepted-In Progress,31,2010/06/15 12:50:39.000
+96,Accepted-Wait,31,2010/06/15 12:50:54.000
+96,Accepted-In Progress,31,2012/04/25 13:32:00.000
+96,Completed-Closed,31,2012/04/25 13:32:25.000
+799,Accepted-In Progress,148,2011/12/20 16:25:10.000
+799,Accepted-Assigned,148,2011/12/20 16:26:35.000
+799,Completed-Closed,148,2012/02/01 12:03:13.000
+436,Accepted-In Progress,77,2011/08/11 09:40:08.000
+436,Completed-Closed,77,2012/01/04 15:39:30.000
+742,Accepted-In Progress,372,2011/12/07 12:07:47.000
+742,Accepted-Assigned,372,2011/12/07 12:17:43.000
+742,Accepted-In Progress,372,2012/01/11 06:56:47.000
+742,Completed-Closed,372,2012/01/11 06:57:10.000
+2226,Queued-Awaiting Assignment,69,2012/06/06 07:34:19.000
+2226,Accepted-In Progress,71,2012/06/06 07:35:41.000
+2226,Accepted-Assigned,634,2012/06/08 12:28:48.000
+2226,Accepted-Wait,634,2012/06/08 14:53:53.000
+2226,Accepted-In Progress,634,2012/06/12 15:07:26.000
+2226,Accepted-Wait,634,2012/06/12 16:21:10.000
+1876,Accepted-In Progress,114,2012/03/19 09:22:37.000
+1876,Completed-Closed,114,2012/05/23 10:55:42.000
+1972,Accepted-In Progress,593,2012/05/07 11:20:17.000
+911,Accepted-In Progress,43,2012/01/18 11:17:02.000
+911,Completed-Closed,43,2012/01/18 11:19:42.000
+2198,Accepted-In Progress,29,2012/06/01 15:36:07.000
+2198,Accepted-Assigned,29,2012/06/01 16:41:29.000
+1258,Accepted-In Progress,62,2012/03/21 16:12:40.000
+1258,Accepted-Assigned,62,2012/03/21 16:13:20.000
+1258,Accepted-In Progress,62,2012/03/29 15:34:18.000
+1258,Completed-Closed,62,2012/03/29 15:34:44.000
+1258,Accepted-In Progress,62,2012/03/30 11:43:09.000
+1258,Completed-Closed,62,2012/04/20 16:56:16.000
+1130,Accepted-In Progress,77,2012/02/27 14:04:57.000
+1130,Accepted-In Progress,77,2012/02/28 09:53:17.000
+1130,Completed-Closed,77,2012/03/05 07:36:37.000
+722,Accepted-In Progress,217,2011/12/02 12:45:33.000
+722,Queued-Awaiting Assignment,217,2011/12/02 12:51:13.000
+722,Accepted-In Progress,359,2011/12/06 11:32:54.000
+722,Queued-Awaiting Assignment,150,2011/12/06 11:35:01.000
+722,Accepted-In Progress,229,2011/12/06 12:50:12.000
+722,Queued-Awaiting Assignment,44,2011/12/06 12:56:00.000
+722,Accepted-In Progress,128,2011/12/06 13:54:20.000
+722,Accepted-Wait,128,2011/12/06 14:54:19.000
+722,Queued-Awaiting Assignment,44,2012/01/30 14:13:13.000
+722,Accepted-In Progress,128,2012/01/30 14:13:14.000
+722,Queued-Awaiting Assignment,44,2012/01/30 14:13:51.000
+722,Accepted-In Progress,128,2012/01/30 14:17:15.000
+722,Queued-Awaiting Assignment,44,2012/01/30 14:17:46.000
+722,Accepted-In Progress,360,2012/01/30 14:31:28.000
+722,Accepted-Assigned,128,2012/01/30 14:32:18.000
+722,Accepted-In Progress,361,2012/02/13 14:36:25.000
+722,Accepted-Wait,361,2012/02/13 14:39:27.000
+722,Completed-Closed,361,2012/03/05 16:16:43.000
+1765,Accepted-In Progress,434,2012/01/19 10:31:05.000
+1765,Completed-Closed,434,2012/01/19 10:36:41.000
+1765,Accepted-In Progress,434,2012/02/03 15:24:29.000
+1765,Queued-Awaiting Assignment,77,2012/02/03 15:27:38.000
+942,Accepted-In Progress,440,2012/01/25 08:22:41.000
+942,Completed-Closed,440,2012/02/29 10:58:38.000
+249,Accepted-In Progress,46,2011/02/21 06:53:37.000
+249,Queued-Awaiting Assignment,46,2011/02/21 07:05:37.000
+249,Accepted-In Progress,74,2011/02/21 12:18:48.000
+249,Accepted-Assigned,46,2011/02/21 12:20:39.000
+249,Accepted-In Progress,43,2012/02/06 20:40:11.000
+249,Completed-Closed,43,2012/02/06 20:48:59.000
+258,Accepted-In Progress,163,2011/03/02 15:17:25.000
+258,Completed-Closed,163,2012/01/12 11:42:55.000
+218,Accepted-In Progress,46,2011/01/05 22:06:32.000
+218,Queued-Awaiting Assignment,46,2011/01/05 22:21:19.000
+218,Accepted-In Progress,78,2011/01/06 10:17:16.000
+218,Accepted-Assigned,46,2011/01/06 10:20:30.000
+218,Accepted-In Progress,43,2012/02/06 16:12:42.000
+218,Completed-Closed,43,2012/02/06 16:17:25.000
+2214,Accepted-In Progress,29,2012/06/04 11:35:58.000
+2214,Accepted-Assigned,29,2012/06/04 13:53:09.000
+1475,Accepted-In Progress,43,2012/05/22 16:47:41.000
+1475,Completed-Closed,43,2012/05/22 17:02:17.000
+1497,Accepted-In Progress,43,2011/12/28 15:05:47.000
+1497,Completed-Closed,43,2012/01/30 12:29:51.000
+974,Accepted-In Progress,8,2012/01/31 18:42:52.000
+974,Completed-Closed,8,2012/02/05 12:36:35.000
+974,Accepted-In Progress,8,2012/02/05 12:37:39.000
+974,Completed-Closed,8,2012/02/05 12:37:58.000
+285,Accepted-In Progress,168,2011/04/05 17:54:14.000
+285,Accepted-In Progress,168,2012/04/24 15:14:09.000
+285,Completed-Closed,168,2012/04/24 15:14:22.000
+587,Accepted-In Progress,69,2011/10/21 05:54:48.000
+587,Queued-Awaiting Assignment,69,2011/10/21 05:56:45.000
+587,Accepted-In Progress,71,2011/10/22 20:51:42.000
+587,Completed-Closed,71,2012/03/13 11:34:52.000
+87,Accepted-In Progress,77,2010/05/06 17:36:41.000
+87,Unmatched-Unmatched,77,2010/05/06 18:05:00.000
+87,Queued-Awaiting Assignment,77,2010/10/01 16:43:52.000
+87,Accepted-In Progress,77,2010/10/04 10:59:18.000
+87,Accepted-Wait,77,2010/10/04 11:00:12.000
+87,Accepted-Assigned,2,2010/10/19 14:43:59.000
+87,Accepted-Wait,2,2011/10/20 14:21:34.000
+87,Completed-Closed,2,2012/01/30 13:18:55.000
+2208,Accepted-In Progress,285,2012/06/02 01:08:11.000
+2208,Queued-Awaiting Assignment,285,2012/06/02 01:37:24.000
+2208,Accepted-In Progress,7,2012/06/04 09:40:27.000
+2208,Queued-Awaiting Assignment,44,2012/06/04 09:42:50.000
+2208,Accepted-In Progress,311,2012/06/04 10:15:01.000
+2208,Accepted-Wait,311,2012/06/04 11:08:07.000
+2208,Queued-Awaiting Assignment,614,2012/06/07 17:50:26.000
+2208,Accepted-In Progress,614,2012/06/08 06:41:35.000
+2208,Accepted-Wait,614,2012/06/08 06:42:07.000
+2208,Queued-Awaiting Assignment,150,2012/06/08 09:04:18.000
+2208,Accepted-In Progress,630,2012/06/13 14:34:31.000
+2003,Accepted-In Progress,93,2012/05/10 12:07:53.000
+1851,Accepted-In Progress,484,2012/03/07 08:35:03.000
+1851,Queued-Awaiting Assignment,484,2012/03/07 08:43:10.000
+1851,Accepted-In Progress,485,2012/04/27 11:11:17.000
+1851,Queued-Awaiting Assignment,229,2012/04/27 11:11:56.000
+1851,Accepted-Assigned,510,2012/05/10 14:47:34.000
+1851,Accepted-In Progress,510,2012/05/10 16:10:34.000
+1851,Completed-Closed,510,2012/05/10 16:11:04.000
+157,Accepted-In Progress,121,2010/09/28 16:22:31.000
+157,Accepted-Assigned,121,2010/09/28 16:26:58.000
+157,Accepted-Assigned,122,2011/12/11 20:57:51.000
+157,Accepted-In Progress,41,2012/03/30 14:42:05.000
+157,Accepted-Wait,41,2012/03/30 14:42:14.000
+157,Completed-Closed,41,2012/05/28 10:33:05.000
+798,Accepted-In Progress,245,2011/12/20 14:43:16.000
+798,Accepted-In Progress,245,2012/01/12 17:33:11.000
+798,Completed-Closed,245,2012/01/12 17:33:48.000
+386,Accepted-In Progress,163,2011/06/30 10:35:50.000
+386,Completed-Closed,163,2012/01/12 11:46:25.000
+1147,Accepted-In Progress,172,2012/02/29 15:00:11.000
+1147,Accepted-Wait,172,2012/03/12 15:43:18.000
+1147,Completed-Closed,172,2012/03/27 13:33:54.000
+800,Accepted-In Progress,394,2011/12/21 07:14:19.000
+800,Accepted-Wait,394,2012/01/18 12:17:47.000
+800,Accepted-In Progress,394,2012/02/01 12:23:43.000
+800,Accepted-In Progress,394,2012/04/12 11:35:52.000
+800,Accepted-In Progress,149,2012/04/19 14:28:17.000
+800,Completed-Closed,149,2012/05/09 10:32:27.000
+890,Accepted-In Progress,68,2012/01/13 13:40:59.000
+890,Completed-Closed,68,2012/01/16 12:40:15.000
+1884,Accepted-In Progress,104,2012/03/29 10:02:18.000
+1884,Queued-Awaiting Assignment,539,2012/03/29 10:02:48.000
+1884,Accepted-In Progress,273,2012/03/29 11:46:21.000
+1356,Accepted-In Progress,43,2012/04/13 16:11:31.000
+1356,Completed-Closed,43,2012/04/13 16:12:14.000
+1045,Accepted-In Progress,77,2012/02/13 08:03:37.000
+1045,Completed-Closed,77,2012/04/01 17:50:09.000
+454,Accepted-In Progress,38,2011/08/24 09:51:26.000
+454,Completed-Closed,38,2012/03/29 11:12:48.000
+848,Accepted-In Progress,29,2012/01/09 12:49:14.000
+848,Accepted-Assigned,29,2012/01/09 12:52:21.000
+848,Accepted-In Progress,29,2012/02/14 15:02:15.000
+848,Accepted-In Progress,28,2012/02/16 13:15:37.000
+848,Completed-Closed,28,2012/02/16 13:16:32.000
+848,Accepted-In Progress,84,2012/04/02 17:15:53.000
+848,Completed-Closed,84,2012/04/02 17:16:13.000
+460,Accepted-In Progress,164,2011/08/27 21:45:21.000
+460,Accepted-In Progress,164,2012/04/04 17:08:26.000
+460,Completed-Closed,164,2012/04/04 17:08:40.000
+954,Queued-Awaiting Assignment,165,2012/01/26 19:30:56.000
+954,Accepted-In Progress,165,2012/02/17 16:17:24.000
+954,Completed-Closed,165,2012/03/23 16:15:21.000
+313,Accepted-In Progress,8,2011/04/25 06:46:33.000
+313,Accepted-Assigned,8,2011/04/25 06:48:34.000
+313,Completed-Closed,8,2012/01/26 11:31:40.000
+1609,Accepted-In Progress,143,2011/07/07 15:45:46.000
+1609,Accepted-Wait,143,2011/11/01 17:28:16.000
+1609,Completed-Closed,143,2012/02/15 12:13:43.000
+2203,Accepted-In Progress,434,2012/06/01 14:34:16.000
+2203,Queued-Awaiting Assignment,434,2012/06/01 15:01:28.000
+2203,Accepted-In Progress,629,2012/06/12 12:31:37.000
+2203,Accepted-In Progress,318,2012/06/13 10:45:10.000
+2203,Queued-Awaiting Assignment,434,2012/06/13 10:48:18.000
+2203,Accepted-In Progress,434,2012/06/13 12:06:59.000
+1533,Accepted-In Progress,43,2012/01/30 15:48:15.000
+1533,Completed-Closed,43,2012/01/30 15:48:48.000
+53,Accepted-In Progress,22,2010/03/09 11:28:51.000
+53,Accepted-Assigned,22,2011/04/11 09:09:41.000
+53,Accepted-Assigned,21,2011/04/11 09:11:23.000
+53,Accepted-Wait,21,2011/11/28 08:21:08.000
+53,Completed-Closed,21,2012/03/30 11:01:23.000
+1055,Accepted-In Progress,43,2012/02/13 14:58:36.000
+1055,Completed-Closed,43,2012/02/14 10:14:30.000
+434,Accepted-In Progress,29,2011/08/10 13:47:08.000
+434,Accepted-Assigned,29,2011/08/10 14:04:12.000
+434,Accepted-Assigned,143,2011/08/23 11:28:02.000
+434,Accepted-Wait,143,2011/08/23 11:29:30.000
+434,Completed-Closed,143,2012/02/15 12:14:44.000
+665,Accepted-In Progress,65,2011/11/14 12:01:10.000
+665,Accepted-In Progress,65,2011/11/14 12:03:18.000
+665,Accepted-In Progress,326,2012/03/14 12:25:28.000
+665,Accepted-Assigned,77,2012/03/14 12:28:01.000
+665,Accepted-In Progress,77,2012/03/14 13:55:06.000
+665,Completed-Closed,77,2012/03/14 13:55:07.000
+1683,Accepted-In Progress,229,2011/11/19 20:35:42.000
+1683,Queued-Awaiting Assignment,229,2011/11/19 20:37:42.000
+1683,Queued-Awaiting Assignment,44,2011/11/21 08:07:43.000
+1316,Accepted-In Progress,70,2012/04/03 12:14:09.000
+1316,Completed-Closed,70,2012/04/09 21:28:59.000
+1374,Accepted-In Progress,311,2012/04/18 12:16:00.000
+1374,Completed-Closed,311,2012/05/23 14:31:30.000
+1983,Accepted-In Progress,76,2012/05/08 17:05:20.000
+230,Accepted-In Progress,41,2011/01/24 10:44:16.000
+230,Accepted-Wait,41,2011/12/16 10:31:22.000
+230,Completed-Closed,41,2012/03/30 13:22:49.000
+622,Accepted-In Progress,94,2011/11/01 01:38:21.000
+622,Queued-Awaiting Assignment,94,2011/11/01 01:42:00.000
+622,Accepted-In Progress,122,2011/11/01 07:57:38.000
+622,Accepted-Assigned,123,2011/11/01 09:18:38.000
+622,Completed-Closed,123,2012/01/04 12:36:05.000
+2140,Accepted-In Progress,81,2012/05/25 10:32:26.000
+2140,Accepted-Assigned,81,2012/05/25 10:42:34.000
+1939,Accepted-In Progress,77,2012/05/02 15:04:59.000
+1939,Queued-Awaiting Assignment,77,2012/05/02 15:06:51.000
+1939,Accepted-Assigned,167,2012/06/05 11:10:55.000
+596,Accepted-In Progress,77,2011/10/24 15:22:19.000
+596,Completed-Closed,77,2012/01/03 16:03:49.000
+2263,Accepted-In Progress,617,2012/06/12 14:42:26.000
+2085,Accepted-In Progress,320,2012/05/19 10:37:29.000
+2085,Accepted-Assigned,320,2012/05/29 08:57:35.000
+2085,Queued-Awaiting Assignment,13,2012/06/14 09:59:11.000
+1746,Accepted-In Progress,77,2012/01/12 09:13:47.000
+1746,Completed-Closed,77,2012/02/06 08:15:37.000
+1800,Accepted-In Progress,8,2012/02/12 21:01:32.000
+1800,Completed-Closed,8,2012/03/27 23:15:40.000
+1816,Accepted-In Progress,289,2012/02/17 09:57:37.000
+1816,Accepted-Assigned,289,2012/02/17 10:01:05.000
+1816,Accepted-In Progress,289,2012/05/02 12:04:26.000
+1816,Completed-Closed,289,2012/05/29 09:45:23.000
+1496,Accepted-In Progress,43,2010/02/03 09:34:32.000
+1496,Queued-Awaiting Assignment,43,2010/02/03 09:45:18.000
+1496,Accepted-In Progress,43,2010/02/03 10:40:51.000
+1496,Accepted-Assigned,43,2010/02/03 10:40:58.000
+1496,Accepted-In Progress,43,2011/12/20 22:25:19.000
+1496,Completed-Closed,43,2012/01/03 13:13:02.000
+504,Accepted-In Progress,7,2011/09/15 09:23:48.000
+504,Queued-Awaiting Assignment,7,2011/09/15 09:25:16.000
+504,Accepted-In Progress,213,2011/09/15 11:26:39.000
+504,Queued-Awaiting Assignment,7,2011/09/15 11:27:25.000
+504,Accepted-In Progress,213,2011/09/15 11:27:53.000
+504,Accepted-Assigned,258,2011/09/15 11:28:03.000
+504,Queued-Awaiting Assignment,12,2011/09/15 12:05:35.000
+504,Accepted-In Progress,12,2011/09/15 12:08:38.000
+504,Accepted-In Progress,237,2012/01/04 11:59:17.000
+504,Completed-Closed,237,2012/01/04 12:02:04.000
+2039,Accepted-In Progress,81,2012/05/15 15:47:11.000
+2039,Completed-Closed,81,2012/05/31 14:34:39.000
+1893,Accepted-In Progress,285,2012/04/02 11:41:55.000
+1893,Completed-Closed,285,2012/04/11 10:26:26.000
+85,Accepted-In Progress,38,2010/05/05 10:21:02.000
+85,Completed-Closed,38,2012/03/20 16:17:35.000
+61,Accepted-In Progress,50,2010/03/26 14:03:21.000
+61,Accepted-In Progress,50,2010/03/26 14:05:35.000
+61,Queued-Awaiting Assignment,2,2010/03/26 14:05:48.000
+61,Accepted-In Progress,2,2011/09/05 09:28:50.000
+61,Accepted-In Progress,3,2012/02/07 02:39:08.000
+61,Completed-Closed,3,2012/02/07 02:39:40.000
+1120,Accepted-In Progress,461,2012/02/24 05:09:17.000
+1120,Completed-Closed,461,2012/04/27 06:09:05.000
+659,Accepted-In Progress,28,2011/11/09 14:27:59.000
+659,Completed-Closed,28,2012/02/15 11:44:42.000
+1343,Accepted-In Progress,44,2012/04/10 13:37:14.000
+1343,Queued-Awaiting Assignment,44,2012/04/10 13:44:34.000
+1343,Accepted-In Progress,360,2012/04/10 14:09:18.000
+1343,Completed-Closed,360,2012/04/10 14:41:51.000
+844,Accepted-In Progress,41,2012/01/09 09:07:32.000
+844,Completed-Closed,41,2012/03/30 13:14:54.000
+22,Accepted-In Progress,24,2009/11/04 08:07:28.000
+22,Accepted-In Progress,24,2010/03/03 15:51:55.000
+22,Accepted-Assigned,25,2010/03/03 15:52:18.000
+22,Accepted-Assigned,25,2010/05/24 17:04:58.000
+22,Accepted-Assigned,20,2010/08/09 12:39:59.000
+22,Accepted-In Progress,21,2012/04/02 10:18:59.000
+22,Completed-Closed,21,2012/04/02 10:19:30.000
+2234,Accepted-In Progress,434,2012/06/07 10:48:12.000
+2234,Accepted-Assigned,434,2012/06/07 10:49:11.000
+2234,Accepted-In Progress,434,2012/06/07 11:03:55.000
+1993,Accepted-In Progress,595,2012/05/09 14:28:23.000
+826,Accepted-In Progress,123,2012/01/02 14:13:30.000
+826,Accepted-Assigned,123,2012/01/24 13:04:38.000
+826,Accepted-In Progress,123,2012/01/24 13:05:35.000
+826,Completed-Closed,123,2012/01/24 13:06:57.000
+2269,Accepted-In Progress,77,2012/06/12 15:09:48.000
+2269,Queued-Awaiting Assignment,77,2012/06/12 15:10:43.000
+426,Accepted-In Progress,46,2011/08/05 11:46:33.000
+426,Queued-Awaiting Assignment,46,2011/08/05 11:49:47.000
+426,Accepted-In Progress,74,2011/08/05 12:48:23.000
+426,Accepted-Assigned,46,2011/08/05 13:00:21.000
+426,Queued-Awaiting Assignment,72,2011/09/23 00:56:57.000
+426,Accepted-Assigned,56,2011/09/23 00:58:15.000
+426,Accepted-In Progress,56,2011/09/23 09:47:05.000
+426,Accepted-Wait,56,2011/09/23 09:48:36.000
+426,Queued-Awaiting Assignment,46,2011/10/26 10:01:42.000
+426,Accepted-In Progress,43,2012/02/06 17:02:25.000
+426,Completed-Closed,43,2012/02/06 17:03:44.000
+1863,Accepted-In Progress,494,2012/03/13 16:35:26.000
+1863,Accepted-Wait,494,2012/03/13 16:37:53.000
+1863,Completed-Closed,494,2012/04/10 04:48:53.000
+500,Accepted-In Progress,46,2011/09/14 13:07:32.000
+500,Queued-Awaiting Assignment,46,2011/09/14 13:15:29.000
+500,Accepted-In Progress,238,2011/09/14 13:19:35.000
+500,Accepted-Assigned,46,2011/09/14 13:19:47.000
+500,Accepted-In Progress,43,2012/01/31 08:52:57.000
+500,Completed-Closed,43,2012/01/31 08:54:31.000
+76,Accepted-In Progress,46,2010/04/16 18:34:49.000
+76,Queued-Awaiting Assignment,46,2010/04/16 18:42:36.000
+76,Accepted-In Progress,47,2010/04/17 01:40:43.000
+76,Accepted-Assigned,46,2010/04/17 01:42:50.000
+76,Accepted-In Progress,43,2012/01/30 12:43:05.000
+76,Completed-Closed,43,2012/01/30 12:44:31.000
+494,Accepted-In Progress,46,2011/09/13 12:41:35.000
+494,Queued-Awaiting Assignment,46,2011/09/13 12:56:49.000
+494,Accepted-In Progress,238,2011/09/13 13:10:06.000
+494,Accepted-Assigned,46,2011/09/13 13:10:19.000
+494,Accepted-In Progress,43,2012/02/06 17:06:58.000
+494,Completed-Closed,43,2012/02/06 17:08:27.000
+433,Accepted-In Progress,77,2011/08/10 10:45:40.000
+433,Completed-Closed,77,2012/01/03 16:04:54.000
+1903,Accepted-In Progress,247,2012/04/09 08:37:33.000
+1903,Queued-Awaiting Assignment,247,2012/04/09 08:39:47.000
+1903,Accepted-In Progress,453,2012/04/09 09:02:57.000
+1903,Completed-Closed,453,2012/04/16 11:59:43.000
+398,Accepted-In Progress,156,2011/07/11 11:07:04.000
+398,Queued-Awaiting Assignment,156,2011/07/11 11:07:58.000
+398,Accepted-In Progress,152,2011/07/11 11:10:03.000
+398,Accepted-Assigned,23,2011/07/11 11:10:18.000
+398,Accepted-In Progress,212,2012/01/25 19:40:05.000
+398,Completed-Closed,212,2012/01/25 19:43:14.000
+275,Accepted-In Progress,28,2011/03/25 13:21:36.000
+275,Completed-Closed,28,2012/02/15 11:41:23.000
+1010,Accepted-In Progress,55,2012/02/07 16:09:05.000
+1010,Accepted-In Progress,55,2012/02/07 16:30:08.000
+1010,Accepted-In Progress,149,2012/02/27 10:32:13.000
+1010,Completed-Closed,149,2012/05/09 10:28:09.000
+315,Accepted-In Progress,2,2011/04/26 17:44:41.000
+315,Accepted-Wait,2,2011/11/15 12:56:41.000
+315,Completed-Closed,2,2012/05/29 10:18:46.000
+730,Queued-Awaiting Assignment,68,2011/12/05 13:53:59.000
+730,Accepted-In Progress,77,2011/12/07 10:30:38.000
+730,Queued-Awaiting Assignment,68,2011/12/09 13:13:16.000
+730,Accepted-In Progress,77,2011/12/09 13:13:34.000
+730,Accepted-Assigned,68,2011/12/09 13:14:07.000
+730,Accepted-In Progress,77,2011/12/09 13:14:44.000
+730,Queued-Awaiting Assignment,44,2012/01/11 22:44:00.000
+730,Accepted-In Progress,77,2012/01/12 08:31:18.000
+730,Queued-Awaiting Assignment,365,2012/01/12 08:31:25.000
+730,Accepted-In Progress,366,2012/01/12 08:33:16.000
+730,Completed-Closed,366,2012/01/12 10:55:32.000
+1059,Queued-Awaiting Assignment,96,2012/02/14 09:48:36.000
+1059,Accepted-In Progress,231,2012/02/14 14:47:11.000
+1059,Completed-Closed,231,2012/02/15 11:00:42.000
+892,Accepted-In Progress,424,2012/01/13 18:01:03.000
+892,Completed-Closed,424,2012/02/03 17:35:12.000
+1339,Accepted-In Progress,247,2012/04/09 08:37:33.000
+1339,Queued-Awaiting Assignment,247,2012/04/09 08:39:47.000
+1339,Accepted-In Progress,453,2012/04/09 09:02:57.000
+1339,Completed-Closed,453,2012/04/16 11:59:43.000
+1559,Accepted-Assigned,134,2012/01/30 13:41:27.000
+1559,Accepted-Wait,134,2012/02/01 08:57:23.000
+1559,Completed-Closed,134,2012/02/01 10:47:23.000
+886,Accepted-In Progress,422,2012/01/13 10:45:27.000
+886,Queued-Awaiting Assignment,422,2012/01/13 11:32:14.000
+886,Accepted-In Progress,422,2012/03/02 10:15:13.000
+886,Completed-Closed,422,2012/03/02 10:30:45.000
+1167,Accepted-In Progress,415,2012/03/05 10:11:17.000
+1167,Accepted-Wait,415,2012/03/14 10:36:57.000
+1167,Completed-Closed,415,2012/05/08 08:28:25.000
+123,Accepted-In Progress,46,2010/06/24 12:41:19.000
+123,Queued-Awaiting Assignment,46,2010/06/24 12:45:02.000
+123,Accepted-In Progress,47,2010/06/24 14:18:38.000
+123,Accepted-Wait,47,2010/06/24 14:19:43.000
+123,Accepted-Assigned,46,2010/06/24 14:21:20.000
+123,Accepted-In Progress,43,2012/02/04 10:27:58.000
+123,Completed-Closed,43,2012/02/04 10:30:03.000
+227,Accepted-In Progress,98,2011/01/20 11:53:13.000
+227,Queued-Awaiting Assignment,98,2011/01/20 15:54:48.000
+227,Accepted-In Progress,123,2011/01/21 14:02:48.000
+227,Accepted-In Progress,129,2011/01/25 10:37:56.000
+227,Queued-Awaiting Assignment,98,2011/01/27 16:38:51.000
+227,Accepted-In Progress,39,2012/04/11 16:42:15.000
+227,Completed-Closed,39,2012/04/11 16:42:43.000
+2148,Accepted-In Progress,244,2012/05/25 15:26:13.000
+2109,Accepted-In Progress,469,2012/05/23 14:41:45.000
+2109,Accepted-Wait,469,2012/05/23 15:31:00.000
+1633,Accepted-In Progress,88,2011/09/14 16:33:52.000
+1633,Accepted-Assigned,88,2012/01/30 13:41:47.000
+1633,Accepted-Assigned,88,2012/01/30 13:41:48.000
+1633,Accepted-Assigned,88,2012/01/30 21:44:11.000
+1633,Accepted-In Progress,88,2012/01/30 21:46:13.000
+1633,Completed-Closed,88,2012/01/30 21:46:22.000
+2151,Accepted-In Progress,55,2012/05/25 19:08:45.000
+803,Accepted-In Progress,290,2011/12/21 11:13:58.000
+803,Accepted-In Progress,290,2012/01/26 14:12:53.000
+803,Completed-Closed,290,2012/03/01 15:37:25.000
+1923,Queued-Awaiting Assignment,345,2012/04/24 00:48:09.000
+1923,Accepted-In Progress,568,2012/04/24 01:08:35.000
+1923,Completed-Closed,568,2012/04/24 01:09:14.000
+1301,Accepted-In Progress,545,2012/03/30 17:07:24.000
+1301,Completed-Closed,545,2012/05/29 14:08:24.000
+138,Accepted-In Progress,114,2010/08/11 10:39:44.000
+138,Accepted-Assigned,114,2012/01/16 14:43:19.000
+138,Accepted-In Progress,114,2012/03/23 13:53:11.000
+138,Completed-Closed,114,2012/03/23 13:54:08.000
+1888,Accepted-In Progress,273,2012/03/28 17:06:47.000
+1888,Completed-Closed,273,2012/05/09 08:56:41.000
+2047,Accepted-In Progress,291,2012/05/16 11:49:57.000
+1066,Accepted-In Progress,76,2012/02/14 15:26:19.000
+1066,Completed-Closed,76,2012/02/29 14:41:13.000
+399,Accepted-In Progress,143,2011/07/11 14:45:54.000
+399,Accepted-Wait,143,2011/10/20 12:18:10.000
+399,Completed-Closed,143,2012/05/04 17:05:09.000
+1653,Accepted-In Progress,297,2011/10/17 16:05:05.000
+1653,Completed-Closed,297,2012/01/25 14:26:37.000
+572,Accepted-In Progress,296,2011/10/14 16:45:00.000
+572,Completed-Closed,296,2012/02/09 10:19:55.000
+1141,Accepted-In Progress,385,2012/02/29 08:15:32.000
+1141,Accepted-Wait,385,2012/02/29 10:18:00.000
+1141,Completed-Closed,385,2012/03/05 16:27:15.000
+1116,Accepted-In Progress,355,2012/02/23 13:22:17.000
+1116,Accepted-Wait,355,2012/02/23 16:26:55.000
+1116,Accepted-Wait,355,2012/03/15 12:42:39.000
+1116,Completed-Closed,355,2012/05/03 10:37:08.000
+1255,Accepted-In Progress,530,2012/03/20 13:02:25.000
+1255,Completed-Closed,530,2012/05/23 14:47:27.000
+906,Accepted-In Progress,7,2012/01/17 15:58:21.000
+906,Accepted-In Progress,7,2012/02/29 12:39:03.000
+906,Accepted-Wait,7,2012/02/29 12:43:54.000
+906,Completed-Closed,7,2012/04/12 14:10:19.000
+2072,Accepted-In Progress,29,2012/05/17 12:24:17.000
+2072,Accepted-Assigned,29,2012/05/17 12:24:51.000
+188,Accepted-In Progress,8,2010/11/24 09:02:16.000
+188,Completed-Closed,8,2012/02/29 11:56:20.000
+1080,Accepted-In Progress,187,2012/02/15 16:48:42.000
+1080,Queued-Awaiting Assignment,187,2012/02/15 16:52:05.000
+1080,Accepted-In Progress,479,2012/02/16 11:27:09.000
+1080,Accepted-Assigned,480,2012/02/16 11:27:46.000
+1080,Queued-Awaiting Assignment,187,2012/02/16 13:46:42.000
+1080,Accepted-In Progress,480,2012/02/16 13:46:47.000
+1080,Accepted-Assigned,187,2012/02/16 13:47:47.000
+1080,Accepted-Assigned,206,2012/02/16 13:48:06.000
+1080,Queued-Awaiting Assignment,307,2012/05/09 14:24:02.000
+1080,Accepted-In Progress,481,2012/05/09 15:24:54.000
+1080,Accepted-Wait,481,2012/05/09 16:30:16.000
+1080,Accepted-Assigned,307,2012/05/09 16:48:23.000
+1080,Accepted-In Progress,482,2012/05/10 16:44:23.000
+1080,Completed-Closed,482,2012/05/10 16:44:54.000
+578,Accepted-In Progress,126,2011/10/18 16:07:28.000
+578,Accepted-In Progress,126,2011/10/18 16:07:50.000
+578,Queued-Awaiting Assignment,126,2011/10/18 16:10:17.000
+578,Accepted-In Progress,126,2011/11/28 13:46:11.000
+578,Accepted-Assigned,31,2011/12/12 10:22:13.000
+578,Accepted-In Progress,13,2012/02/06 15:32:02.000
+578,Completed-Closed,13,2012/02/06 15:34:54.000
+459,Accepted-In Progress,164,2011/08/27 21:30:27.000
+459,Accepted-In Progress,164,2012/04/04 17:07:47.000
+459,Completed-Closed,164,2012/04/04 17:07:50.000
+957,Accepted-In Progress,68,2012/01/27 10:40:02.000
+957,Queued-Awaiting Assignment,68,2012/01/27 10:57:10.000
+957,Accepted-In Progress,128,2012/01/27 10:57:11.000
+957,Queued-Awaiting Assignment,337,2012/01/27 10:57:21.000
+957,Accepted-In Progress,337,2012/02/03 13:38:44.000
+957,Queued-Awaiting Assignment,68,2012/02/03 13:40:56.000
+957,Accepted-In Progress,175,2012/02/03 13:48:12.000
+957,Queued-Awaiting Assignment,445,2012/02/03 14:06:37.000
+957,Accepted-In Progress,445,2012/02/29 15:09:47.000
+957,Accepted-Assigned,128,2012/02/29 15:10:27.000
+957,Completed-Closed,128,2012/02/29 21:10:35.000
+1794,Accepted-In Progress,133,2012/02/08 17:07:29.000
+1794,Completed-Closed,133,2012/03/13 11:35:07.000
+1772,Accepted-In Progress,211,2012/01/26 09:54:38.000
+1772,Completed-Closed,211,2012/04/30 14:21:26.000
+1023,Accepted-In Progress,30,2012/02/08 15:05:26.000
+1023,Completed-Closed,30,2012/04/11 16:01:25.000
+620,Accepted-In Progress,285,2011/10/31 23:40:16.000
+620,Queued-Awaiting Assignment,285,2011/10/31 23:48:47.000
+620,Accepted-In Progress,286,2011/11/18 07:31:45.000
+620,Queued-Awaiting Assignment,44,2011/11/18 07:34:16.000
+620,Accepted-In Progress,122,2011/11/18 10:43:24.000
+620,Completed-Closed,122,2012/04/11 10:03:56.000
+397,Accepted-In Progress,143,2011/07/07 15:45:46.000
+397,Accepted-Wait,143,2011/11/01 17:28:16.000
+397,Completed-Closed,143,2012/02/15 12:13:43.000
+1719,Queued-Awaiting Assignment,86,2012/01/10 13:26:31.000
+2077,Accepted-In Progress,29,2012/05/18 15:02:31.000
+2077,Accepted-Assigned,29,2012/05/18 15:03:20.000
+1898,Accepted-In Progress,211,2012/04/03 12:24:46.000
+1898,Completed-Closed,211,2012/05/04 13:46:53.000
+1508,Accepted-In Progress,61,2010/04/13 14:37:07.000
+1508,Accepted-In Progress,61,2010/04/19 16:59:00.000
+1564,Accepted-In Progress,8,2011/01/14 13:10:28.000
+1564,Accepted-Wait,8,2011/01/14 14:54:33.000
+1564,Completed-Closed,8,2012/02/29 15:27:57.000
+2200,Accepted-In Progress,29,2012/06/01 14:39:59.000
+2200,Accepted-Assigned,29,2012/06/01 14:40:38.000
+1074,Accepted-In Progress,43,2012/02/15 13:55:14.000
+1074,Completed-Closed,43,2012/02/15 13:55:56.000
+2215,Accepted-In Progress,382,2012/06/04 12:14:07.000
+95,Accepted-In Progress,46,2010/05/14 10:04:31.000
+95,Queued-Awaiting Assignment,46,2010/05/14 10:11:11.000
+95,Accepted-In Progress,54,2010/05/14 13:23:06.000
+95,Accepted-Assigned,46,2010/05/14 13:23:10.000
+95,Accepted-In Progress,43,2012/02/03 07:54:21.000
+95,Completed-Closed,43,2012/02/04 08:48:35.000
+405,Accepted-In Progress,46,2011/07/12 10:39:23.000
+405,Queued-Awaiting Assignment,46,2011/07/12 10:43:56.000
+405,Accepted-In Progress,78,2011/07/12 11:47:12.000
+405,Accepted-Assigned,46,2011/07/12 11:47:21.000
+405,Accepted-In Progress,43,2012/01/31 08:29:06.000
+405,Completed-Closed,43,2012/01/31 08:47:20.000
+337,Accepted-In Progress,46,2011/05/13 14:14:59.000
+337,Queued-Awaiting Assignment,46,2011/05/13 14:21:52.000
+337,Accepted-In Progress,78,2011/05/16 07:15:26.000
+337,Accepted-Assigned,46,2011/05/16 07:15:33.000
+337,Accepted-In Progress,43,2012/02/06 21:20:01.000
+337,Completed-Closed,43,2012/02/06 21:20:56.000
+1379,Accepted-In Progress,308,2012/04/18 23:31:13.000
+1379,Accepted-Wait,308,2012/04/19 19:51:03.000
+1379,Completed-Closed,308,2012/04/23 16:52:04.000
+2061,Accepted-In Progress,192,2012/05/16 15:14:24.000
+2061,Queued-Awaiting Assignment,192,2012/05/16 15:25:43.000
+2061,Accepted-In Progress,192,2012/05/16 15:26:28.000
+26,Unmatched-Unmatched,31,2009/12/04 12:10:14.000
+26,Accepted-Assigned,31,2010/11/29 11:52:49.000
+26,Accepted-In Progress,31,2012/04/14 17:22:00.000
+26,Completed-Closed,31,2012/04/14 17:22:21.000
+1243,Accepted-In Progress,526,2012/03/17 21:25:20.000
+1243,Queued-Awaiting Assignment,526,2012/03/17 21:25:56.000
+1243,Accepted-In Progress,493,2012/03/17 22:49:16.000
+1243,Completed-Closed,493,2012/05/16 10:29:03.000
+88,Accepted-In Progress,46,2010/05/10 13:38:28.000
+88,Queued-Awaiting Assignment,46,2010/05/10 13:41:26.000
+88,Accepted-In Progress,47,2010/05/10 20:31:40.000
+88,Accepted-Assigned,46,2010/05/10 20:36:20.000
+88,Accepted-In Progress,43,2012/01/13 11:25:46.000
+88,Accepted-In Progress,78,2012/01/13 13:47:12.000
+88,Queued-Awaiting Assignment,72,2012/01/13 13:47:19.000
+88,Accepted-In Progress,78,2012/01/13 13:47:32.000
+88,Accepted-Assigned,79,2012/01/13 13:48:09.000
+88,Accepted-Wait,79,2012/01/19 10:02:17.000
+88,Completed-Closed,79,2012/02/13 10:11:49.000
+870,Accepted-In Progress,168,2012/01/11 17:21:57.000
+870,Accepted-In Progress,168,2012/04/24 15:31:03.000
+870,Completed-Closed,168,2012/04/24 15:33:37.000
+732,Accepted-In Progress,129,2011/12/05 13:01:36.000
+732,Queued-Awaiting Assignment,129,2011/12/05 13:13:30.000
+732,Accepted-In Progress,291,2011/12/06 08:28:52.000
+732,Completed-Closed,291,2011/12/06 09:41:47.000
+732,Accepted-In Progress,60,2011/12/06 14:35:14.000
+732,Accepted-Assigned,88,2012/01/30 13:40:16.000
+732,Accepted-Assigned,60,2012/02/01 20:49:44.000
+732,Accepted-In Progress,88,2012/02/01 20:50:03.000
+732,Completed-Closed,88,2012/02/01 20:51:19.000
+852,Queued-Awaiting Assignment,150,2012/01/09 17:17:37.000
+852,Accepted-In Progress,24,2012/01/16 16:45:37.000
+852,Completed-Closed,24,2012/02/10 15:39:17.000
+344,Accepted-In Progress,60,2011/05/18 09:46:34.000
+344,Accepted-In Progress,60,2012/02/21 15:20:44.000
+344,Completed-Closed,60,2012/02/21 15:20:52.000
+583,Queued-Awaiting Assignment,150,2011/10/19 21:47:58.000
+583,Accepted-In Progress,299,2011/10/20 11:38:25.000
+583,Completed-Closed,299,2011/11/06 19:42:28.000
+583,Accepted-In Progress,299,2011/11/11 15:47:02.000
+583,Completed-Closed,299,2012/01/04 07:12:48.000
+2169,Accepted-In Progress,624,2012/05/29 20:28:51.000
+2169,Accepted-Wait,624,2012/05/30 14:03:07.000
+1785,Accepted-In Progress,133,2012/02/06 12:40:31.000
+1785,Completed-Closed,133,2012/02/09 13:29:59.000
+128,Accepted-In Progress,109,2010/07/08 13:53:30.000
+128,Completed-Closed,109,2012/02/09 09:42:24.000
+1818,Accepted-In Progress,25,2012/02/20 08:54:27.000
+1818,Accepted-Assigned,25,2012/02/20 09:01:46.000
+1818,Accepted-Wait,25,2012/05/07 09:37:25.000
+1818,Completed-Closed,25,2012/05/07 09:38:25.000
+2062,Accepted-In Progress,602,2012/05/16 15:33:30.000
+2062,Queued-Awaiting Assignment,602,2012/05/16 15:36:08.000
+466,Accepted-In Progress,239,2011/08/31 06:45:43.000
+466,Accepted-Wait,239,2011/08/31 06:46:56.000
+466,Accepted-In Progress,239,2012/01/04 12:02:10.000
+466,Completed-Closed,239,2012/03/04 09:50:51.000
+2213,Accepted-In Progress,29,2012/06/04 11:28:12.000
+2213,Accepted-Assigned,29,2012/06/04 13:08:55.000
+1494,Accepted-In Progress,2,2008/11/13 11:01:04.000
+1494,Accepted-Wait,2,2009/12/02 14:24:35.000
+1494,Accepted-In Progress,2,2011/11/14 15:57:27.000
+656,Accepted-Assigned,17,2011/11/09 11:04:16.000
+656,Accepted-In Progress,322,2011/11/09 11:58:57.000
+656,Completed-Closed,322,2012/02/22 11:21:10.000
+28,Accepted-In Progress,1,2009/12/16 12:59:24.000
+28,Accepted-In Progress,1,2012/03/15 12:21:25.000
+28,Completed-Closed,1,2012/03/15 12:21:47.000
+2009,Accepted-In Progress,597,2012/05/10 16:37:52.000
+1845,Accepted-In Progress,150,2012/03/02 08:32:14.000
+1845,Queued-Awaiting Assignment,150,2012/03/02 08:32:44.000
+1845,Accepted-Assigned,273,2012/03/13 11:38:55.000
+1845,Accepted-Assigned,273,2012/03/13 13:53:26.000
+1845,Completed-Closed,273,2012/03/29 15:18:58.000
+1188,Accepted-In Progress,511,2012/03/07 11:43:04.000
+1188,Queued-Awaiting Assignment,511,2012/03/07 11:56:18.000
+1188,Queued-Awaiting Assignment,240,2012/03/09 11:11:37.000
+1188,Accepted-In Progress,240,2012/03/20 10:16:42.000
+1188,Completed-Closed,240,2012/03/20 11:16:46.000
+1445,Accepted-In Progress,43,2012/05/13 17:29:31.000
+1445,Completed-Closed,43,2012/05/13 17:30:04.000
+591,Accepted-In Progress,301,2011/10/23 05:46:32.000
+591,Completed-Closed,301,2012/01/09 01:29:49.000
+1936,Accepted-In Progress,77,2012/05/02 11:59:57.000
+1936,Accepted-In Progress,77,2012/05/02 12:00:23.000
+1936,Queued-Awaiting Assignment,77,2012/05/02 12:02:06.000
+1936,Accepted-In Progress,77,2012/05/22 08:12:20.000
+1936,Queued-Awaiting Assignment,176,2012/05/22 08:14:25.000
+1936,Accepted-In Progress,176,2012/05/22 15:17:45.000
+1936,Accepted-In Progress,39,2012/06/14 09:53:35.000
+1936,Queued-Awaiting Assignment,84,2012/06/14 09:57:33.000
+1585,Accepted-In Progress,8,2011/04/25 06:46:33.000
+1585,Accepted-Assigned,8,2011/04/25 06:48:34.000
+1585,Completed-Closed,8,2012/01/26 11:31:40.000
+1231,Accepted-In Progress,311,2012/03/15 14:04:08.000
+1231,Accepted-In Progress,311,2012/03/20 12:29:34.000
+1231,Queued-Awaiting Assignment,84,2012/03/20 12:30:03.000
+1231,Accepted-In Progress,311,2012/03/20 12:30:24.000
+1231,Queued-Awaiting Assignment,84,2012/03/20 12:31:16.000
+1231,Accepted-In Progress,311,2012/03/20 12:31:30.000
+1231,Accepted-In Progress,311,2012/03/20 12:32:00.000
+1231,Completed-Closed,311,2012/05/16 15:17:58.000
+1817,Accepted-In Progress,165,2012/03/23 14:46:14.000
+1817,Completed-Closed,165,2012/03/23 14:52:53.000
+2160,Accepted-In Progress,623,2012/05/29 11:58:59.000
+2157,Accepted-In Progress,621,2012/05/28 19:49:10.000
+2157,Accepted-Assigned,621,2012/05/29 11:12:26.000
+1032,Accepted-In Progress,140,2012/02/09 13:51:54.000
+1032,Accepted-Wait,140,2012/02/13 10:53:18.000
+1032,Completed-Closed,140,2012/02/22 10:49:01.000
+949,Accepted-In Progress,164,2012/01/26 08:21:24.000
+949,Completed-Closed,164,2012/04/02 17:10:52.000
+65,Accepted-In Progress,56,2010/04/01 14:48:30.000
+65,Accepted-In Progress,56,2010/04/01 14:49:59.000
+65,Queued-Awaiting Assignment,46,2010/04/01 14:50:40.000
+65,Accepted-In Progress,54,2010/04/01 19:20:02.000
+65,Accepted-Assigned,46,2010/04/01 19:20:07.000
+65,Accepted-In Progress,43,2012/01/19 10:14:11.000
+65,Completed-Closed,43,2012/01/19 10:14:18.000
+1769,Accepted-In Progress,106,2012/01/24 08:43:58.000
+1769,Completed-Closed,106,2012/01/25 07:28:41.000
+1224,Accepted-In Progress,289,2012/03/14 11:56:15.000
+1224,Completed-Closed,289,2012/04/23 15:52:14.000
+452,Accepted-In Progress,104,2011/08/23 09:55:53.000
+452,Queued-Awaiting Assignment,104,2011/08/23 10:03:21.000
+452,Accepted-In Progress,186,2011/10/18 14:42:02.000
+452,Accepted-Wait,186,2011/10/18 14:42:10.000
+452,Accepted-Assigned,214,2011/10/18 14:47:41.000
+452,Accepted-Wait,214,2011/11/23 20:51:48.000
+452,Accepted-In Progress,214,2011/12/13 13:17:37.000
+452,Completed-Closed,214,2012/01/18 11:57:12.000
+1928,Accepted-In Progress,523,2012/04/25 18:18:15.000
+1928,Accepted-Wait,523,2012/04/25 18:59:52.000
+1928,Accepted-In Progress,523,2012/05/14 13:05:13.000
+1928,Completed-Closed,523,2012/05/14 14:27:02.000
+1825,Accepted-In Progress,7,2012/02/24 15:06:27.000
+1825,Completed-Closed,7,2012/03/29 14:20:18.000
+757,Accepted-In Progress,248,2011/12/12 15:33:32.000
+757,Accepted-Wait,248,2012/03/02 11:22:18.000
+757,Completed-Closed,248,2012/03/22 15:45:50.000
+1782,Accepted-In Progress,134,2012/02/02 10:49:59.000
+1782,Accepted-Assigned,134,2012/02/02 11:09:49.000
+1782,Completed-Closed,134,2012/02/15 14:30:50.000
+667,Accepted-In Progress,76,2011/11/15 09:26:37.000
+667,Accepted-Wait,76,2011/12/09 12:12:43.000
+667,Completed-Closed,76,2012/03/19 16:07:06.000
+289,Accepted-In Progress,168,2011/04/07 13:21:34.000
+289,Accepted-In Progress,168,2012/04/24 15:36:13.000
+289,Completed-Closed,168,2012/04/24 15:36:15.000
+1109,Accepted-Wait,471,2012/02/22 12:30:34.000
+1109,Completed-Closed,471,2012/03/06 07:52:37.000
+2044,Accepted-In Progress,297,2012/05/16 10:17:46.000
+1926,Accepted-In Progress,373,2012/04/25 10:50:00.000
+1926,Accepted-In Progress,373,2012/04/25 11:23:14.000
+1926,Completed-Closed,373,2012/04/30 12:29:39.000
+175,Accepted-In Progress,129,2010/11/03 08:04:02.000
+175,Accepted-Wait,129,2010/11/03 09:52:09.000
+175,Queued-Awaiting Assignment,129,2010/11/24 13:41:08.000
+175,Accepted-In Progress,128,2010/11/24 13:50:59.000
+175,Accepted-Wait,128,2010/11/24 13:51:02.000
+175,Queued-Awaiting Assignment,129,2010/11/24 14:08:53.000
+175,Accepted-In Progress,128,2010/11/24 14:11:07.000
+175,Accepted-Wait,128,2010/11/24 14:11:10.000
+175,Queued-Awaiting Assignment,129,2010/11/25 14:37:13.000
+175,Accepted-In Progress,129,2010/11/25 14:38:42.000
+175,Accepted-Wait,129,2010/11/25 14:40:20.000
+175,Accepted-In Progress,60,2012/02/21 15:15:29.000
+175,Completed-Closed,60,2012/02/21 15:15:31.000
+1955,Accepted-In Progress,25,2012/05/03 17:32:07.000
+1955,Queued-Awaiting Assignment,25,2012/05/03 17:43:05.000
+1955,Accepted-In Progress,21,2012/05/03 17:51:26.000
+1955,Queued-Awaiting Assignment,213,2012/05/03 18:02:30.000
+1955,Accepted-In Progress,256,2012/05/23 13:32:48.000
+1955,Accepted-Assigned,590,2012/05/23 13:33:33.000
+540,Accepted-In Progress,132,2011/10/03 14:50:45.000
+540,Completed-Closed,132,2012/01/09 10:30:10.000
+2033,Accepted-In Progress,299,2012/05/14 17:58:00.000
+1753,Accepted-In Progress,88,2012/01/13 09:43:55.000
+1753,Accepted-Assigned,88,2012/01/13 09:47:37.000
+1753,Accepted-In Progress,88,2012/05/17 10:54:33.000
+1753,Completed-Closed,88,2012/05/17 10:54:35.000
+81,Accepted-In Progress,46,2010/04/27 16:40:49.000
+81,Accepted-In Progress,46,2010/04/27 16:43:59.000
+81,Accepted-In Progress,47,2010/04/29 15:15:14.000
+81,Accepted-Assigned,46,2010/04/29 15:18:16.000
+81,Accepted-In Progress,43,2012/02/02 21:53:09.000
+81,Completed-Closed,43,2012/02/02 22:08:20.000
+505,Accepted-In Progress,259,2011/09/15 15:59:18.000
+505,Accepted-Assigned,259,2011/10/12 13:02:06.000
+505,Accepted-In Progress,259,2012/01/19 13:05:18.000
+505,Completed-Closed,259,2012/01/19 13:08:49.000
+746,Accepted-In Progress,29,2011/12/08 11:10:07.000
+746,Accepted-Assigned,29,2011/12/08 11:19:05.000
+746,Accepted-In Progress,29,2011/12/13 12:56:25.000
+746,Accepted-In Progress,143,2012/05/17 12:48:24.000
+746,Completed-Closed,143,2012/05/17 12:51:47.000
+199,Accepted-In Progress,118,2010/12/06 19:10:24.000
+199,Completed-Closed,118,2012/03/19 14:29:13.000
+2292,Accepted-In Progress,483,2012/06/14 12:42:16.000
+2292,Accepted-Wait,483,2012/06/15 07:00:00.000
+1126,Accepted-In Progress,166,2012/02/27 05:12:13.000
+1126,Accepted-In Progress,166,2012/02/28 08:58:14.000
+1126,Queued-Awaiting Assignment,151,2012/02/28 09:00:16.000
+1126,Accepted-In Progress,151,2012/03/05 09:35:59.000
+1126,Accepted-Wait,151,2012/03/05 09:36:52.000
+1126,Accepted-In Progress,151,2012/03/14 13:31:28.000
+1126,Completed-Closed,151,2012/03/14 13:33:47.000
+2229,Accepted-In Progress,478,2012/06/06 14:02:19.000
+2229,Accepted-Wait,478,2012/06/06 14:22:35.000
+1865,Accepted-In Progress,289,2012/03/14 11:56:15.000
+1865,Completed-Closed,289,2012/04/23 15:52:14.000
+1017,Accepted-In Progress,464,2012/02/08 08:40:09.000
+1017,Accepted-Wait,464,2012/02/08 09:14:24.000
+1017,Queued-Awaiting Assignment,464,2012/02/08 09:55:29.000
+1017,Accepted-In Progress,127,2012/02/08 14:39:39.000
+1017,Accepted-In Progress,465,2012/02/29 13:30:59.000
+1017,Queued-Awaiting Assignment,464,2012/02/29 13:33:53.000
+1017,Accepted-In Progress,127,2012/02/29 13:41:09.000
+1017,Accepted-Wait,127,2012/04/04 15:41:44.000
+1017,Completed-Closed,127,2012/04/25 14:05:42.000
+1409,Accepted-In Progress,341,2012/04/27 14:34:05.000
+1409,Completed-Closed,341,2012/05/08 15:02:28.000
+1799,Queued-Awaiting Assignment,150,2012/02/18 18:44:35.000
+1799,Accepted-In Progress,150,2012/02/28 16:36:29.000
+1799,Accepted-Assigned,299,2012/02/28 16:37:04.000
+1799,Accepted-Assigned,276,2012/02/28 17:08:07.000
+1799,Completed-Closed,276,2012/03/05 16:29:45.000
+1089,Accepted-In Progress,88,2012/02/17 09:50:35.000
+1089,Queued-Awaiting Assignment,88,2012/02/17 09:53:16.000
+1089,Accepted-In Progress,88,2012/03/21 08:19:43.000
+1089,Accepted-Assigned,93,2012/04/25 14:15:52.000
+1089,Accepted-In Progress,44,2012/04/25 15:23:48.000
+1089,Completed-Closed,44,2012/04/25 15:25:41.000
+1824,Accepted-In Progress,355,2012/02/23 13:22:17.000
+1824,Accepted-Wait,355,2012/02/23 16:26:55.000
+1824,Accepted-Wait,355,2012/03/15 12:42:39.000
+1824,Completed-Closed,355,2012/05/03 10:37:08.000
+993,Accepted-In Progress,371,2012/02/03 18:03:02.000
+993,Accepted-In Progress,371,2012/04/02 12:31:34.000
+993,Completed-Closed,371,2012/04/02 12:33:40.000
+1329,Accepted-In Progress,549,2012/04/05 10:24:58.000
+1329,Completed-Closed,549,2012/04/05 12:24:21.000
+1906,Queued-Awaiting Assignment,387,2012/04/11 08:38:08.000
+1906,Accepted-In Progress,558,2012/04/11 08:40:27.000
+1906,Completed-Closed,558,2012/04/24 09:07:44.000
+440,Accepted-In Progress,104,2011/08/16 03:45:42.000
+440,Queued-Awaiting Assignment,104,2011/08/16 03:47:40.000
+440,Queued-Awaiting Assignment,104,2011/08/16 03:47:41.000
+440,Accepted-In Progress,186,2011/10/18 14:40:26.000
+440,Accepted-Wait,186,2011/10/18 14:40:35.000
+440,Accepted-Assigned,214,2011/10/18 14:47:28.000
+440,Accepted-In Progress,214,2011/12/13 12:55:59.000
+440,Completed-Closed,214,2012/01/18 12:09:58.000
+1222,Accepted-In Progress,43,2012/03/14 08:56:34.000
+1222,Completed-Closed,43,2012/03/14 09:04:50.000
+1590,Accepted-In Progress,188,2011/05/04 11:53:03.000
+1590,Queued-Awaiting Assignment,188,2011/05/18 15:42:40.000
+211,Accepted-In Progress,140,2010/12/22 13:09:10.000
+211,Accepted-Assigned,140,2010/12/22 13:16:21.000
+211,Accepted-In Progress,140,2011/08/31 11:03:38.000
+211,Completed-Closed,140,2012/04/02 10:35:12.000
+1558,Accepted-In Progress,133,2010/12/07 14:24:36.000
+1558,Accepted-Wait,133,2011/01/18 10:59:26.000
+1558,Accepted-In Progress,133,2011/01/26 07:48:18.000
+1558,Accepted-Wait,133,2011/04/28 08:46:03.000
+1558,Completed-Closed,133,2012/01/26 10:47:59.000
+224,Accepted-In Progress,132,2011/01/14 13:39:54.000
+224,Accepted-Wait,132,2011/05/04 08:27:15.000
+224,Completed-Closed,132,2012/01/09 10:30:57.000
+2135,Accepted-In Progress,239,2012/05/24 19:11:46.000
+2059,Accepted-In Progress,364,2012/05/16 14:00:49.000
+2059,Queued-Awaiting Assignment,364,2012/05/16 14:01:42.000
+2059,Accepted-In Progress,150,2012/05/16 14:11:38.000
+2084,Accepted-In Progress,337,2012/05/19 10:15:02.000
+2084,Queued-Awaiting Assignment,337,2012/05/19 10:24:38.000
+2084,Accepted-In Progress,397,2012/05/19 21:52:57.000
+2084,Queued-Awaiting Assignment,176,2012/05/19 21:55:08.000
+2084,Accepted-In Progress,13,2012/05/21 09:56:03.000
+2084,Queued-Awaiting Assignment,77,2012/05/21 09:58:23.000
+2084,Accepted-In Progress,13,2012/05/21 09:58:56.000
+2084,Accepted-Assigned,176,2012/05/21 10:00:21.000
+2084,Queued-Awaiting Assignment,229,2012/06/13 15:06:57.000
+2102,Accepted-In Progress,139,2012/05/22 23:17:41.000
+2102,Accepted-Assigned,139,2012/06/11 15:27:51.000
+1212,Accepted-In Progress,43,2012/03/12 13:59:51.000
+1212,Completed-Closed,43,2012/03/12 14:01:20.000
+283,Accepted-In Progress,46,2011/04/05 13:38:03.000
+283,Queued-Awaiting Assignment,46,2011/04/05 13:41:43.000
+283,Accepted-In Progress,74,2011/04/05 13:44:05.000
+283,Accepted-Assigned,46,2011/04/05 13:47:27.000
+283,Accepted-In Progress,43,2012/01/30 21:47:07.000
+283,Completed-Closed,43,2012/01/30 21:50:05.000
+2170,Accepted-In Progress,625,2012/05/30 08:28:43.000
+1541,Accepted-In Progress,43,2012/01/31 09:54:38.000
+1541,Completed-Closed,43,2012/01/31 09:59:04.000
+716,Accepted-In Progress,50,2011/12/01 14:57:56.000
+716,Accepted-Assigned,50,2011/12/21 11:32:55.000
+716,Accepted-In Progress,357,2012/02/17 14:22:03.000
+716,Accepted-Wait,357,2012/02/20 11:15:01.000
+716,Accepted-In Progress,50,2012/02/24 15:15:47.000
+716,Accepted-Assigned,357,2012/02/24 15:23:13.000
+716,Accepted-In Progress,50,2012/02/24 15:56:03.000
+716,Completed-Closed,50,2012/02/24 15:56:06.000
+1087,Accepted-In Progress,301,2012/02/16 23:42:04.000
+1087,Completed-Closed,301,2012/03/08 09:48:50.000
+2049,Accepted-In Progress,364,2012/05/16 11:08:08.000
+2049,Queued-Awaiting Assignment,364,2012/05/16 11:10:58.000
+2049,Accepted-In Progress,150,2012/05/16 11:37:15.000
+1537,Accepted-In Progress,43,2012/01/31 09:01:21.000
+1537,Completed-Closed,43,2012/01/31 09:02:46.000
+1698,Queued-Awaiting Assignment,150,2011/12/06 11:35:01.000
+1698,Accepted-In Progress,229,2011/12/06 12:50:12.000
+1698,Queued-Awaiting Assignment,44,2011/12/06 12:56:00.000
+1698,Queued-Awaiting Assignment,44,2012/01/30 14:13:13.000
+1698,Queued-Awaiting Assignment,44,2012/01/30 14:13:51.000
+1698,Queued-Awaiting Assignment,44,2012/01/30 14:17:46.000
+1698,Accepted-In Progress,360,2012/01/30 14:31:28.000
+255,Accepted-In Progress,108,2011/02/23 17:45:04.000
+255,Accepted-In Progress,108,2011/02/23 17:52:29.000
+255,Accepted-Wait,108,2011/05/04 10:05:50.000
+255,Queued-Awaiting Assignment,108,2011/09/05 10:10:57.000
+255,Accepted-Assigned,76,2011/10/20 09:58:13.000
+255,Accepted-Wait,76,2012/01/08 02:14:30.000
+255,Completed-Closed,76,2012/01/25 11:20:10.000
+1566,Accepted-In Progress,139,2011/01/20 17:18:05.000
+1566,Accepted-Wait,139,2011/03/21 17:30:18.000
+1566,Completed-Closed,139,2012/03/19 08:18:42.000
+740,Accepted-In Progress,229,2011/12/07 09:12:52.000
+740,Queued-Awaiting Assignment,229,2011/12/07 09:27:06.000
+740,Accepted-In Progress,370,2011/12/08 08:18:53.000
+740,Queued-Awaiting Assignment,44,2011/12/08 08:57:49.000
+740,Accepted-In Progress,44,2011/12/14 12:58:14.000
+740,Accepted-Assigned,371,2011/12/14 13:04:35.000
+740,Completed-Closed,371,2012/02/06 08:50:18.000
+788,Accepted-In Progress,351,2011/12/19 08:49:47.000
+788,Accepted-Wait,351,2011/12/19 09:13:42.000
+788,Completed-Closed,351,2012/01/18 05:53:58.000
+1405,Accepted-In Progress,308,2012/04/26 18:37:17.000
+1405,Completed-Closed,308,2012/04/26 18:39:25.000
+1839,Accepted-In Progress,114,2012/02/29 16:26:17.000
+1839,Completed-Closed,114,2012/05/29 14:52:12.000
+887,Accepted-In Progress,112,2012/01/13 10:18:36.000
+887,Completed-Closed,112,2012/05/16 11:46:01.000
+1469,Accepted-In Progress,390,2012/05/19 15:21:09.000
+1469,Completed-Closed,390,2012/05/19 15:53:02.000
+2282,Accepted-In Progress,13,2012/06/13 13:51:57.000
+2282,Accepted-Wait,13,2012/06/13 13:54:13.000
+1723,Accepted-In Progress,151,2011/12/19 03:13:32.000
+1723,Queued-Awaiting Assignment,151,2011/12/19 03:14:22.000
+1723,Accepted-In Progress,151,2012/01/05 14:08:46.000
+1723,Accepted-Wait,151,2012/01/05 14:25:39.000
+1723,Completed-Closed,151,2012/01/19 16:33:55.000
+1482,Accepted-In Progress,43,2012/05/29 11:54:33.000
+1482,Completed-Closed,43,2012/05/29 12:08:42.000
+1887,Accepted-In Progress,337,2012/03/27 20:05:42.000
+1887,Queued-Awaiting Assignment,337,2012/03/27 20:14:23.000
+1887,Queued-Awaiting Assignment,69,2012/03/27 20:23:26.000
+1887,Accepted-In Progress,71,2012/03/30 12:09:42.000
+1887,Queued-Awaiting Assignment,337,2012/04/10 10:35:35.000
+1887,Queued-Awaiting Assignment,229,2012/05/09 06:09:41.000
+1887,Accepted-In Progress,542,2012/05/09 06:30:00.000
+1887,Queued-Awaiting Assignment,337,2012/05/09 06:51:24.000
+1887,Accepted-In Progress,337,2012/05/09 13:16:46.000
+1887,Queued-Awaiting Assignment,69,2012/05/09 14:39:11.000
+1887,Accepted-In Progress,71,2012/05/10 03:32:47.000
+1887,Accepted-Wait,71,2012/05/10 03:33:05.000
+1887,Queued-Awaiting Assignment,69,2012/05/10 07:22:45.000
+1887,Accepted-In Progress,71,2012/05/15 23:58:03.000
+1887,Completed-Closed,71,2012/05/25 17:36:31.000
+1477,Accepted-In Progress,272,2012/05/23 11:19:58.000
+1477,Queued-Awaiting Assignment,272,2012/05/23 11:21:06.000
+1477,Accepted-In Progress,9,2012/05/28 15:33:20.000
+1477,Completed-Closed,9,2012/05/28 15:36:00.000
+2306,Accepted-In Progress,29,2012/06/15 12:17:18.000
+2306,Accepted-Assigned,29,2012/06/15 12:19:56.000
+501,Accepted-In Progress,46,2011/09/14 14:43:55.000
+501,Queued-Awaiting Assignment,46,2011/09/14 14:52:25.000
+501,Accepted-In Progress,238,2011/09/14 14:56:17.000
+501,Accepted-Assigned,46,2011/09/14 14:56:27.000
+501,Accepted-In Progress,43,2012/01/31 08:55:09.000
+501,Completed-Closed,43,2012/01/31 08:56:57.000
+2267,Accepted-In Progress,77,2012/06/12 15:05:08.000
+2267,Queued-Awaiting Assignment,77,2012/06/12 15:06:16.000
+2025,Accepted-In Progress,43,2012/05/13 17:29:31.000
+2025,Completed-Closed,43,2012/05/13 17:30:04.000
+24,Accepted-In Progress,27,2009/11/12 13:41:27.000
+24,Accepted-In Progress,27,2010/09/17 10:33:52.000
+24,Queued-Awaiting Assignment,28,2010/11/12 19:22:19.000
+24,Accepted-Assigned,29,2010/11/23 15:10:22.000
+24,Accepted-Assigned,30,2011/01/07 14:55:04.000
+24,Accepted-Wait,30,2011/01/11 17:13:42.000
+24,Accepted-In Progress,31,2011/05/19 15:45:16.000
+24,Queued-Awaiting Assignment,32,2011/05/19 15:49:04.000
+24,Accepted-In Progress,32,2011/08/25 15:24:01.000
+24,Queued-Awaiting Assignment,33,2011/08/25 15:24:43.000
+24,Accepted-Assigned,27,2011/08/25 15:25:33.000
+24,Accepted-In Progress,27,2011/10/26 17:07:30.000
+24,Completed-Closed,27,2012/03/30 11:45:20.000
+516,Accepted-In Progress,207,2011/09/23 11:06:06.000
+516,Queued-Awaiting Assignment,207,2011/09/23 11:06:56.000
+516,Accepted-In Progress,207,2011/11/21 13:06:01.000
+516,Completed-Closed,207,2012/03/15 09:50:51.000
+2053,Accepted-In Progress,29,2012/05/16 16:06:45.000
+2053,Accepted-Assigned,29,2012/05/16 16:27:43.000
+918,Accepted-Wait,143,2012/01/19 17:14:34.000
+918,Accepted-In Progress,143,2012/05/04 17:03:03.000
+918,Completed-Closed,143,2012/05/04 17:05:30.000
+1621,Accepted-In Progress,226,2011/08/16 16:45:30.000
+1621,Completed-Closed,226,2012/05/04 11:56:48.000
+1394,Queued-Awaiting Assignment,345,2012/04/24 00:48:09.000
+1394,Accepted-In Progress,568,2012/04/24 01:08:35.000
+1394,Completed-Closed,568,2012/04/24 01:09:14.000
+2256,Accepted-In Progress,638,2012/06/11 17:04:18.000
+2256,Queued-Awaiting Assignment,638,2012/06/11 17:10:17.000
+2256,Accepted-In Progress,76,2012/06/11 17:15:59.000
+1052,Accepted-In Progress,150,2012/02/13 14:06:44.000
+1052,Accepted-Wait,150,2012/02/13 14:10:57.000
+1052,Queued-Awaiting Assignment,150,2012/03/07 13:20:54.000
+1052,Accepted-In Progress,393,2012/03/12 19:32:08.000
+1052,Queued-Awaiting Assignment,217,2012/03/19 09:50:06.000
+1052,Accepted-In Progress,276,2012/04/10 13:33:37.000
+1052,Completed-Closed,276,2012/04/10 13:36:46.000
+2153,Accepted-In Progress,77,2012/05/28 10:46:21.000
+2153,Accepted-In Progress,77,2012/05/28 10:47:09.000
+2153,Queued-Awaiting Assignment,77,2012/05/28 10:53:42.000
+2153,Accepted-Assigned,595,2012/05/29 14:01:53.000
+2260,Queued-Awaiting Assignment,474,2012/06/12 12:22:50.000
+2016,Accepted-In Progress,147,2012/05/11 15:35:23.000
+2016,Queued-Awaiting Assignment,147,2012/05/11 16:54:34.000
+2016,Accepted-In Progress,598,2012/05/23 14:21:56.000
+1982,Accepted-In Progress,88,2012/05/08 14:51:43.000
+1982,Accepted-Assigned,88,2012/05/08 14:58:54.000
+1982,Accepted-In Progress,88,2012/05/17 10:35:00.000
+1982,Completed-Closed,88,2012/05/17 10:35:01.000
+554,Accepted-In Progress,138,2011/10/10 11:23:44.000
+554,Accepted-Wait,138,2011/10/10 11:24:36.000
+554,Completed-Closed,138,2012/03/26 09:12:51.000
+546,Accepted-In Progress,77,2011/10/05 15:24:45.000
+546,Completed-Closed,77,2012/02/01 21:18:12.000
+1397,Accepted-In Progress,332,2012/04/24 15:09:13.000
+1397,Accepted-Wait,332,2012/04/24 15:09:47.000
+1397,Completed-Closed,332,2012/05/10 17:56:14.000
+343,Accepted-In Progress,46,2011/05/17 16:18:40.000
+343,Queued-Awaiting Assignment,46,2011/05/17 16:19:50.000
+343,Accepted-In Progress,78,2011/05/18 04:34:07.000
+343,Accepted-Assigned,46,2011/05/18 04:34:13.000
+343,Accepted-In Progress,43,2012/01/03 09:49:32.000
+343,Completed-Closed,43,2012/01/03 09:50:52.000
+1298,Accepted-In Progress,229,2012/03/29 16:39:14.000
+1298,Queued-Awaiting Assignment,229,2012/03/29 16:49:03.000
+1298,Queued-Awaiting Assignment,44,2012/03/29 17:05:00.000
+1298,Accepted-In Progress,104,2012/04/25 17:43:27.000
+1298,Queued-Awaiting Assignment,44,2012/04/25 17:57:01.000
+1298,Accepted-In Progress,371,2012/04/27 08:58:36.000
+1298,Completed-Closed,371,2012/04/27 08:59:06.000
+348,Accepted-In Progress,57,2011/05/24 15:00:25.000
+348,Accepted-Assigned,57,2011/10/17 16:45:12.000
+348,Accepted-Assigned,57,2011/11/29 07:22:55.000
+348,Accepted-In Progress,57,2012/02/08 14:49:13.000
+348,Completed-Closed,57,2012/02/08 14:49:31.000
+945,Accepted-In Progress,113,2012/01/25 12:42:10.000
+945,Queued-Awaiting Assignment,113,2012/01/25 12:48:44.000
+945,Queued-Awaiting Assignment,150,2012/01/25 13:13:48.000
+945,Accepted-In Progress,133,2012/01/26 09:24:25.000
+945,Queued-Awaiting Assignment,2,2012/01/26 09:26:06.000
+945,Accepted-In Progress,127,2012/01/26 09:31:23.000
+945,Completed-Closed,127,2012/02/09 09:48:06.000
+1098,Accepted-In Progress,25,2012/02/20 08:54:27.000
+1098,Accepted-Assigned,25,2012/02/20 09:01:46.000
+1098,Accepted-Wait,25,2012/05/07 09:37:25.000
+1098,Completed-Closed,25,2012/05/07 09:38:25.000
+795,Accepted-In Progress,209,2011/12/20 08:59:29.000
+795,Accepted-Wait,209,2012/02/02 10:43:55.000
+795,Completed-Closed,209,2012/04/17 11:02:51.000
+70,Accepted-In Progress,46,2010/04/12 21:37:25.000
+70,Queued-Awaiting Assignment,46,2010/04/12 21:47:56.000
+70,Accepted-In Progress,54,2010/04/13 14:56:39.000
+70,Accepted-Assigned,46,2010/04/13 14:56:44.000
+70,Accepted-In Progress,43,2012/01/30 12:42:19.000
+70,Completed-Closed,43,2012/01/30 12:42:50.000
+817,Accepted-In Progress,400,2011/12/27 08:06:43.000
+817,Accepted-Assigned,400,2011/12/27 08:07:18.000
+817,Accepted-In Progress,401,2012/02/08 11:33:09.000
+817,Completed-Closed,401,2012/02/08 11:40:32.000
+2069,Accepted-In Progress,284,2012/05/17 04:43:33.000
+2069,Accepted-Assigned,284,2012/05/22 05:58:36.000
+2069,Accepted-In Progress,393,2012/05/22 14:14:38.000
+807,Accepted-In Progress,155,2011/12/22 11:00:33.000
+807,Accepted-In Progress,155,2012/05/29 13:37:20.000
+807,Completed-Closed,155,2012/05/29 13:38:04.000
+329,Accepted-In Progress,76,2011/05/06 12:18:49.000
+329,Completed-Closed,76,2012/02/29 14:40:19.000
+2050,Accepted-In Progress,364,2012/05/16 11:12:56.000
+2050,Queued-Awaiting Assignment,364,2012/05/16 11:18:57.000
+2050,Accepted-In Progress,150,2012/05/16 11:37:38.000
+176,Accepted-In Progress,130,2010/11/02 13:25:54.000
+176,Accepted-Assigned,130,2010/11/02 13:26:39.000
+176,Accepted-In Progress,20,2012/02/17 15:42:14.000
+176,Completed-Closed,20,2012/02/17 15:42:16.000
+1630,Accepted-In Progress,43,2012/02/06 21:29:03.000
+1630,Completed-Closed,43,2012/02/06 21:30:22.000
+1083,Accepted-In Progress,438,2012/02/16 09:10:58.000
+1083,Accepted-In Progress,438,2012/02/16 10:34:16.000
+1083,Completed-Closed,438,2012/02/17 10:02:45.000
+1319,Accepted-In Progress,93,2012/04/03 14:59:14.000
+1319,Completed-Closed,93,2012/04/12 13:33:01.000
+832,Accepted-In Progress,297,2012/01/04 11:50:05.000
+832,Completed-Closed,297,2012/01/25 14:31:46.000
+996,Accepted-In Progress,93,2012/02/06 09:49:01.000
+996,Completed-Closed,93,2012/02/27 14:31:19.000
+2073,Accepted-In Progress,43,2012/05/17 16:51:43.000
+2073,Completed-Closed,43,2012/05/18 16:10:30.000
+2209,Accepted-In Progress,494,2012/06/03 03:06:31.000
+2209,Accepted-In Progress,494,2012/06/03 03:13:02.000
+2209,Accepted-Wait,494,2012/06/11 06:54:29.000
+380,Accepted-In Progress,77,2011/06/22 13:00:23.000
+380,Completed-Closed,77,2012/01/03 16:00:05.000
+1392,Accepted-In Progress,43,2012/04/23 16:56:04.000
+1392,Completed-Closed,43,2012/04/23 16:59:57.000
+921,Accepted-In Progress,63,2012/01/20 16:03:03.000
+921,Completed-Closed,63,2012/01/25 15:13:13.000
+1511,Queued-Awaiting Assignment,69,2011/08/24 21:27:17.000
+1511,Accepted-In Progress,70,2011/08/29 04:54:38.000
+1511,Accepted-Assigned,71,2011/08/29 04:55:29.000
+1511,Accepted-In Progress,71,2011/08/29 14:48:47.000
+1511,Accepted-Assigned,70,2011/11/11 15:57:44.000
+1511,Accepted-Wait,70,2011/11/21 08:27:41.000
+1511,Accepted-In Progress,70,2012/02/29 17:54:59.000
+1511,Completed-Closed,70,2012/02/29 17:56:23.000
+429,Accepted-In Progress,57,2011/08/09 09:34:14.000
+429,Accepted-Wait,57,2011/08/09 09:40:29.000
+429,Accepted-Assigned,57,2011/08/16 11:46:16.000
+429,Accepted-Wait,57,2011/08/30 14:43:01.000
+429,Completed-Closed,57,2012/01/10 08:55:39.000
+2048,Accepted-In Progress,387,2012/05/16 12:04:19.000
+2048,Completed-Closed,387,2012/05/21 12:18:48.000
+1407,Accepted-In Progress,86,2012/04/27 06:41:52.000
+1407,Queued-Awaiting Assignment,86,2012/04/27 06:45:17.000
+1407,Accepted-In Progress,465,2012/04/27 08:33:50.000
+1407,Completed-Closed,465,2012/04/27 13:44:06.000
+562,Accepted-In Progress,164,2011/10/12 11:32:41.000
+562,Accepted-Assigned,164,2011/10/12 11:47:12.000
+562,Accepted-Assigned,93,2012/01/19 13:51:59.000
+562,Accepted-Wait,93,2012/05/04 18:17:46.000
+562,Accepted-In Progress,93,2012/05/04 18:18:01.000
+562,Completed-Closed,93,2012/05/10 09:55:09.000
+2108,Accepted-In Progress,610,2012/05/23 14:51:33.000
+2108,Accepted-Assigned,610,2012/05/23 14:56:14.000
+2116,Accepted-In Progress,106,2012/05/23 17:04:39.000
+2116,Accepted-In Progress,106,2012/06/04 12:50:28.000
+1330,Accepted-In Progress,229,2012/04/05 13:13:51.000
+1330,Queued-Awaiting Assignment,229,2012/04/05 13:37:38.000
+1330,Accepted-In Progress,483,2012/04/05 13:41:57.000
+1330,Accepted-Assigned,550,2012/04/05 13:42:18.000
+1330,Queued-Awaiting Assignment,44,2012/04/17 17:23:51.000
+1330,Accepted-In Progress,128,2012/04/17 17:51:02.000
+1330,Completed-Closed,128,2012/04/19 10:53:36.000
+2266,Accepted-In Progress,77,2012/06/12 14:06:49.000
+2266,Queued-Awaiting Assignment,77,2012/06/12 14:08:37.000
+649,Accepted-In Progress,320,2011/11/08 09:01:01.000
+649,Completed-Closed,320,2012/02/01 09:55:22.000
+115,Accepted-In Progress,2,2010/06/15 12:58:18.000
+115,Accepted-Assigned,2,2010/07/20 09:31:54.000
+115,Accepted-In Progress,2,2011/09/03 07:38:14.000
+115,Accepted-Wait,2,2012/05/04 16:43:47.000
+115,Completed-Closed,2,2012/05/04 16:49:36.000
+1757,Queued-Awaiting Assignment,150,2012/01/13 20:03:40.000
+1244,Accepted-In Progress,39,2012/03/18 09:53:42.000
+1244,Queued-Awaiting Assignment,39,2012/03/18 10:12:50.000
+1244,Accepted-In Progress,453,2012/03/18 10:12:51.000
+1244,Accepted-In Progress,453,2012/03/18 10:14:01.000
+1244,Completed-Closed,453,2012/03/18 10:14:24.000
+1244,Accepted-In Progress,453,2012/03/18 10:14:54.000
+1244,Completed-Closed,453,2012/04/18 13:24:24.000
+1847,Accepted-In Progress,104,2012/03/02 09:41:45.000
+1847,Completed-Closed,104,2012/03/28 11:20:47.000
+1842,Accepted-In Progress,226,2012/03/01 16:18:31.000
+1842,Completed-Closed,226,2012/03/01 16:18:58.000
+1431,Accepted-In Progress,345,2012/05/07 19:07:13.000
+1431,Accepted-Wait,345,2012/05/07 19:11:09.000
+1431,Accepted-Wait,345,2012/05/08 14:14:03.000
+1431,Accepted-In Progress,345,2012/05/08 14:17:43.000
+1431,Accepted-Wait,345,2012/05/08 15:04:41.000
+1431,Queued-Awaiting Assignment,345,2012/05/08 16:53:55.000
+1431,Accepted-In Progress,45,2012/05/08 17:27:14.000
+1431,Completed-Closed,45,2012/05/16 12:18:55.000
+84,Accepted-In Progress,46,2010/05/04 18:15:44.000
+84,Queued-Awaiting Assignment,46,2010/05/04 18:23:17.000
+84,Accepted-In Progress,47,2010/05/04 18:24:58.000
+84,Accepted-Assigned,46,2010/05/04 18:27:46.000
+84,Accepted-In Progress,43,2012/01/18 10:30:42.000
+84,Completed-Closed,43,2012/01/18 10:31:12.000
+1862,Queued-Awaiting Assignment,521,2012/03/14 13:07:01.000
+1862,Accepted-In Progress,521,2012/03/14 14:13:40.000
+1862,Completed-Closed,521,2012/03/14 14:35:14.000
+557,Accepted-In Progress,289,2011/10/11 15:38:52.000
+557,Accepted-Wait,289,2011/12/09 10:26:24.000
+557,Completed-Closed,289,2012/02/15 17:20:49.000
+254,Accepted-In Progress,15,2011/02/23 15:35:15.000
+254,Accepted-In Progress,15,2011/02/27 12:11:47.000
+254,Accepted-Wait,15,2011/12/08 15:45:33.000
+254,Completed-Closed,15,2012/02/01 16:46:29.000
+1770,Accepted-In Progress,88,2012/01/25 15:36:13.000
+1770,Completed-Closed,88,2012/03/14 12:26:04.000
+1582,Accepted-In Progress,43,2012/01/30 13:06:42.000
+1582,Completed-Closed,43,2012/01/30 13:07:11.000
+683,Accepted-In Progress,133,2011/11/21 09:34:45.000
+683,Accepted-Wait,133,2011/11/28 16:12:09.000
+683,Accepted-In Progress,133,2011/12/05 20:38:55.000
+683,Completed-Closed,133,2012/02/08 21:42:42.000
+489,Accepted-In Progress,117,2011/09/12 14:26:27.000
+489,Accepted-Assigned,117,2011/09/12 14:27:01.000
+489,Accepted-In Progress,117,2011/11/25 14:40:42.000
+489,Accepted-In Progress,117,2012/01/31 13:08:17.000
+489,Completed-Closed,117,2012/01/31 13:09:55.000
+2118,Accepted-In Progress,469,2012/05/24 09:06:53.000
+1383,Accepted-In Progress,558,2012/04/20 13:01:51.000
+1383,Accepted-Wait,558,2012/05/07 15:41:58.000
+1383,Completed-Closed,558,2012/05/18 21:14:41.000
+518,Accepted-In Progress,46,2011/09/23 19:29:57.000
+518,Queued-Awaiting Assignment,46,2011/09/23 19:33:50.000
+518,Accepted-In Progress,238,2011/09/23 19:43:44.000
+518,Accepted-Assigned,46,2011/09/23 19:44:15.000
+518,Accepted-In Progress,43,2012/02/06 20:50:03.000
+518,Completed-Closed,43,2012/02/06 20:52:13.000
+1509,Accepted-In Progress,61,2010/04/13 14:50:15.000
+1509,Accepted-In Progress,61,2010/04/19 16:59:58.000
+1594,Accepted-In Progress,139,2011/05/13 17:23:13.000
+1594,Completed-Closed,139,2012/02/01 16:40:02.000
+1192,Accepted-In Progress,512,2012/03/07 16:06:16.000
+1192,Completed-Closed,512,2012/03/15 12:51:54.000
+598,Accepted-Wait,303,2011/10/25 04:39:54.000
+598,Accepted-In Progress,303,2012/01/04 13:59:47.000
+598,Accepted-Wait,303,2012/01/04 13:59:54.000
+598,Queued-Awaiting Assignment,150,2012/03/07 13:15:35.000
+598,Queued-Awaiting Assignment,217,2012/03/12 19:09:52.000
+598,Accepted-In Progress,303,2012/03/28 16:55:11.000
+598,Completed-Closed,303,2012/03/28 16:55:58.000
+1254,Accepted-In Progress,148,2012/03/20 11:38:05.000
+1254,Queued-Awaiting Assignment,148,2012/03/20 11:39:46.000
+1254,Accepted-In Progress,148,2012/04/11 15:06:12.000
+1254,Completed-Closed,148,2012/04/11 15:10:45.000
+1586,Accepted-In Progress,2,2011/04/26 17:44:41.000
+1586,Accepted-Wait,2,2011/11/15 12:56:41.000
+1586,Completed-Closed,2,2012/05/29 10:18:46.000
+2124,Accepted-In Progress,469,2012/05/24 10:04:10.000
+2124,Accepted-Wait,469,2012/05/24 10:12:23.000
+234,Accepted-In Progress,46,2011/02/01 12:17:44.000
+234,Queued-Awaiting Assignment,46,2011/02/01 12:21:09.000
+234,Accepted-In Progress,74,2011/02/01 12:31:33.000
+234,Accepted-Assigned,46,2011/02/01 12:33:47.000
+234,Accepted-In Progress,43,2012/02/06 16:26:06.000
+234,Completed-Closed,43,2012/02/06 16:33:44.000
+321,Accepted-In Progress,104,2011/05/03 07:29:33.000
+321,Queued-Awaiting Assignment,104,2011/05/03 07:31:51.000
+321,Accepted-In Progress,186,2011/11/21 11:49:53.000
+321,Accepted-Assigned,187,2011/11/21 11:50:05.000
+321,Accepted-Wait,187,2012/01/11 08:31:45.000
+321,Completed-Closed,187,2012/01/11 08:32:11.000
+962,Accepted-In Progress,180,2012/01/27 23:26:12.000
+962,Queued-Awaiting Assignment,180,2012/01/27 23:29:00.000
+962,Queued-Awaiting Assignment,448,2012/02/04 10:17:21.000
+962,Queued-Awaiting Assignment,282,2012/02/10 13:31:18.000
+962,Accepted-In Progress,184,2012/02/10 16:48:47.000
+962,Completed-Closed,184,2012/03/14 13:41:16.000
+1524,Accepted-In Progress,43,2012/02/04 10:20:08.000
+1524,Completed-Closed,43,2012/02/04 10:31:43.000
+589,Accepted-In Progress,244,2011/10/21 14:01:26.000
+589,Completed-Closed,244,2012/02/01 13:02:51.000
+263,Accepted-In Progress,164,2011/03/07 12:38:53.000
+263,Accepted-Wait,164,2011/03/10 09:18:14.000
+263,Accepted-Assigned,164,2012/01/10 15:16:51.000
+263,Completed-Closed,164,2012/01/23 11:15:22.000
+1716,Accepted-In Progress,2,2011/12/13 13:52:14.000
+1716,Accepted-In Progress,2,2012/01/13 10:07:55.000
+1716,Completed-Closed,2,2012/01/17 11:10:00.000
+671,Queued-Awaiting Assignment,25,2011/11/15 21:22:20.000
+671,Queued-Awaiting Assignment,328,2011/11/18 13:25:55.000
+671,Accepted-In Progress,328,2011/11/21 13:18:05.000
+671,Accepted-Wait,328,2011/11/21 13:20:43.000
+671,Accepted-In Progress,329,2012/01/24 09:56:45.000
+671,Completed-Closed,329,2012/02/13 10:17:51.000
+97,Accepted-In Progress,46,2010/05/20 12:55:23.000
+97,Queued-Awaiting Assignment,46,2010/05/20 13:43:22.000
+97,Accepted-In Progress,47,2010/05/21 00:57:03.000
+97,Accepted-Assigned,46,2010/05/21 00:58:48.000
+97,Accepted-In Progress,43,2012/02/03 07:52:26.000
+97,Completed-Closed,43,2012/02/03 07:54:03.000
+1426,Accepted-In Progress,237,2012/05/04 15:38:12.000
+1426,Completed-Closed,237,2012/05/09 15:49:54.000
+1696,Accepted-In Progress,29,2011/12/01 15:52:56.000
+1696,Accepted-Assigned,29,2011/12/01 15:54:50.000
+1696,Accepted-In Progress,29,2011/12/06 16:05:32.000
+2245,Queued-Awaiting Assignment,77,2012/06/08 16:39:57.000
+2245,Accepted-In Progress,8,2012/06/12 08:06:05.000
+135,Accepted-In Progress,46,2010/07/30 13:19:33.000
+135,Queued-Awaiting Assignment,46,2010/07/30 13:35:28.000
+135,Accepted-In Progress,54,2010/07/30 14:23:52.000
+135,Accepted-Assigned,46,2010/07/30 14:23:59.000
+135,Accepted-In Progress,43,2012/01/30 13:58:22.000
+135,Completed-Closed,43,2012/01/30 14:29:56.000
+1935,Accepted-In Progress,86,2012/05/02 11:04:02.000
+1935,Accepted-Wait,86,2012/05/02 11:09:06.000
+1935,Queued-Awaiting Assignment,86,2012/05/15 09:44:34.000
+1935,Accepted-In Progress,355,2012/05/15 10:02:01.000
+1935,Queued-Awaiting Assignment,86,2012/05/15 10:05:42.000
+1935,Accepted-In Progress,355,2012/05/15 10:06:03.000
+1935,Queued-Awaiting Assignment,253,2012/05/15 10:13:32.000
+1935,Accepted-In Progress,586,2012/05/15 10:28:16.000
+1935,Queued-Awaiting Assignment,86,2012/05/15 10:37:51.000
+1935,Accepted-In Progress,355,2012/05/15 10:43:51.000
+1935,Queued-Awaiting Assignment,307,2012/05/15 11:34:36.000
+1935,Accepted-In Progress,587,2012/05/15 11:51:25.000
+1935,Accepted-Wait,587,2012/05/15 12:58:54.000
+1935,Accepted-In Progress,586,2012/05/22 10:28:28.000
+1935,Queued-Awaiting Assignment,324,2012/05/22 10:37:42.000
+1935,Accepted-In Progress,304,2012/05/22 11:26:41.000
+1935,Queued-Awaiting Assignment,192,2012/05/22 15:29:42.000
+1935,Accepted-Assigned,193,2012/05/23 10:34:38.000
+1935,Accepted-In Progress,192,2012/05/23 10:46:31.000
+1935,Queued-Awaiting Assignment,192,2012/05/23 10:48:56.000
+1935,Accepted-Assigned,31,2012/05/23 10:50:34.000
+1935,Accepted-In Progress,31,2012/05/30 15:07:15.000
+1075,Accepted-In Progress,359,2012/02/15 15:57:25.000
+1075,Accepted-Wait,359,2012/02/15 16:00:08.000
+1075,Completed-Closed,359,2012/02/27 12:44:46.000
+1075,Accepted-In Progress,359,2012/03/07 08:20:08.000
+1075,Queued-Awaiting Assignment,150,2012/03/07 08:22:21.000
+1075,Accepted-In Progress,393,2012/03/12 19:20:37.000
+1075,Completed-Closed,393,2012/03/12 19:20:52.000
+1320,Accepted-In Progress,2,2012/04/03 21:27:16.000
+1320,Queued-Awaiting Assignment,2,2012/04/03 21:29:12.000
+1320,Accepted-In Progress,339,2012/04/30 10:39:47.000
+1320,Completed-Closed,339,2012/04/30 12:20:10.000
+119,Accepted-In Progress,46,2010/06/16 15:15:09.000
+119,Queued-Awaiting Assignment,46,2010/06/16 15:18:36.000
+119,Accepted-In Progress,54,2010/06/16 15:29:26.000
+119,Accepted-Assigned,46,2010/06/16 15:29:31.000
+119,Accepted-In Progress,43,2011/12/30 11:09:26.000
+119,Completed-Closed,43,2012/01/30 12:31:24.000
+1655,Accepted-In Progress,126,2011/10/18 16:07:28.000
+1655,Accepted-In Progress,126,2011/10/18 16:07:50.000
+1655,Queued-Awaiting Assignment,126,2011/10/18 16:10:17.000
+1655,Accepted-In Progress,126,2011/11/28 13:46:11.000
+2242,Accepted-In Progress,29,2012/06/08 16:36:00.000
+2242,Accepted-Assigned,29,2012/06/08 16:45:37.000
+2285,Accepted-In Progress,11,2012/06/13 18:33:11.000
+2285,Queued-Awaiting Assignment,11,2012/06/13 18:34:09.000
+2285,Accepted-In Progress,108,2012/06/13 23:21:57.000
+2285,Queued-Awaiting Assignment,129,2012/06/13 23:22:04.000
+2285,Accepted-In Progress,244,2012/06/14 10:06:14.000
+2285,Queued-Awaiting Assignment,129,2012/06/14 10:06:32.000
+2285,Accepted-In Progress,244,2012/06/14 10:06:45.000
+2194,Accepted-In Progress,57,2012/06/01 11:00:16.000
+35,Accepted-In Progress,39,2010/01/21 16:42:26.000
+35,Accepted-In Progress,39,2012/04/11 16:38:17.000
+35,Completed-Closed,39,2012/04/11 16:39:02.000
+1774,Queued-Awaiting Assignment,165,2012/01/26 19:30:56.000
+1774,Accepted-In Progress,165,2012/02/17 16:17:24.000
+1774,Completed-Closed,165,2012/03/23 16:15:21.000
+339,Accepted-In Progress,139,2011/05/16 15:09:56.000
+339,Completed-Closed,139,2012/02/01 16:50:06.000
+363,Accepted-In Progress,46,2011/06/14 09:56:53.000
+363,Queued-Awaiting Assignment,46,2011/06/14 10:03:42.000
+363,Accepted-In Progress,74,2011/06/16 12:08:13.000
+363,Accepted-Assigned,46,2011/06/16 12:09:31.000
+363,Accepted-In Progress,43,2012/01/30 13:08:15.000
+363,Completed-Closed,43,2012/01/30 13:08:58.000
+1454,Accepted-In Progress,43,2012/05/15 17:35:05.000
+1454,Completed-Closed,43,2012/05/15 17:38:18.000
+2090,Accepted-In Progress,148,2012/05/21 12:37:35.000
+256,Accepted-In Progress,132,2011/02/25 19:01:03.000
+256,Accepted-Wait,132,2011/05/04 08:21:13.000
+256,Accepted-Wait,132,2012/01/09 10:20:17.000
+256,Completed-Closed,132,2012/01/09 10:20:18.000
+444,Accepted-In Progress,227,2011/08/17 15:01:24.000
+444,Completed-Closed,227,2011/09/01 17:21:38.000
+444,Accepted-In Progress,227,2012/02/15 17:28:51.000
+444,Accepted-In Progress,227,2012/03/28 13:51:42.000
+444,Completed-Closed,227,2012/03/28 13:52:08.000
+1,Queued-Awaiting Assignment,1,2006/01/11 15:49:42.000
+1,Accepted-In Progress,1,2012/03/15 11:53:52.000
+1,Accepted-Assigned,1,2012/03/15 11:56:17.000
+1,Accepted-In Progress,1,2012/03/15 12:09:05.000
+1,Completed-Closed,1,2012/03/15 12:11:33.000
+1721,Accepted-In Progress,211,2011/12/16 09:51:26.000
+1721,Completed-Closed,211,2012/02/08 14:15:41.000
+1778,Accepted-In Progress,134,2012/02/01 07:33:06.000
+1778,Accepted-Assigned,134,2012/02/01 07:34:10.000
+1778,Accepted-Wait,134,2012/02/01 08:36:55.000
+1778,Completed-Closed,134,2012/02/22 08:36:51.000
+1113,Queued-Awaiting Assignment,283,2012/02/22 15:27:44.000
+1113,Accepted-In Progress,490,2012/02/22 15:29:28.000
+1113,Accepted-In Progress,490,2012/02/22 15:29:39.000
+1113,Queued-Awaiting Assignment,283,2012/02/22 15:29:47.000
+1113,Queued-Awaiting Assignment,108,2012/02/22 15:30:56.000
+1113,Accepted-In Progress,211,2012/02/22 17:08:14.000
+1113,Completed-Cancelled,491,2012/02/22 17:11:15.000
+1113,Accepted-In Progress,492,2012/04/03 16:52:52.000
+1113,Completed-Closed,492,2012/04/11 10:11:06.000
+2233,Accepted-In Progress,212,2012/06/06 22:40:56.000
+1050,Accepted-In Progress,385,2012/02/13 16:50:57.000
+1050,Accepted-Wait,385,2012/02/23 09:22:58.000
+1050,Completed-Closed,385,2012/04/16 11:55:25.000
+2275,Accepted-In Progress,85,2012/06/12 17:05:11.000
+2275,Accepted-In Progress,85,2012/06/12 17:50:53.000
+2275,Queued-Awaiting Assignment,248,2012/06/12 17:56:46.000
+791,Accepted-In Progress,320,2011/12/19 09:00:43.000
+791,Completed-Closed,320,2012/02/01 09:56:47.000
+1869,Accepted-In Progress,44,2012/03/15 15:13:24.000
+1869,Queued-Awaiting Assignment,44,2012/03/15 15:17:08.000
+1869,Accepted-Assigned,44,2012/03/15 15:51:42.000
+1869,Accepted-In Progress,44,2012/04/10 14:52:27.000
+1869,Completed-Closed,44,2012/04/10 14:53:04.000
+551,Accepted-In Progress,46,2011/10/07 13:29:26.000
+551,Queued-Awaiting Assignment,46,2011/10/07 13:32:03.000
+551,Accepted-In Progress,238,2011/10/07 13:42:45.000
+551,Accepted-Assigned,46,2011/10/07 13:42:53.000
+551,Accepted-In Progress,43,2012/01/10 15:49:05.000
+551,Completed-Closed,43,2012/01/10 15:49:06.000
+41,Accepted-In Progress,3,2010/02/05 10:00:12.000
+41,Accepted-In Progress,3,2012/02/23 14:34:50.000
+41,Completed-Closed,3,2012/02/23 14:37:00.000
+180,Accepted-In Progress,60,2010/11/10 10:48:43.000
+180,Completed-Closed,60,2010/12/29 10:30:03.000
+180,Accepted-In Progress,60,2010/12/29 10:37:12.000
+180,Accepted-In Progress,60,2012/02/21 15:25:02.000
+180,Completed-Closed,60,2012/02/21 15:25:20.000
+1889,Accepted-In Progress,229,2012/03/29 08:29:34.000
+1889,Queued-Awaiting Assignment,229,2012/03/29 08:38:26.000
+1889,Accepted-In Progress,318,2012/03/29 09:36:58.000
+1889,Queued-Awaiting Assignment,44,2012/03/29 09:38:10.000
+1889,Accepted-In Progress,360,2012/03/29 13:36:59.000
+1889,Accepted-Wait,360,2012/04/20 15:46:23.000
+1889,Completed-Closed,360,2012/05/04 14:51:55.000
+1550,Accepted-In Progress,104,2010/11/01 08:37:07.000
+1550,Queued-Awaiting Assignment,84,2010/11/01 11:00:46.000
+1550,Accepted-In Progress,84,2011/09/08 11:19:39.000
+1550,Accepted-Wait,84,2011/09/08 11:19:45.000
+1550,Accepted-In Progress,84,2012/02/01 14:00:34.000
+1550,Completed-Closed,84,2012/02/01 14:00:54.000
+1820,Accepted-In Progress,88,2012/02/22 11:44:10.000
+1820,Accepted-Assigned,88,2012/02/22 11:58:47.000
+1820,Accepted-In Progress,88,2012/05/17 10:40:21.000
+1820,Completed-Closed,88,2012/05/17 10:40:23.000
+2197,Accepted-In Progress,106,2012/06/01 13:32:15.000
+2197,Accepted-Assigned,106,2012/06/01 13:38:03.000
+629,Accepted-In Progress,309,2011/11/02 13:11:01.000
+629,Queued-Awaiting Assignment,309,2011/11/02 13:11:07.000
+629,Accepted-In Progress,309,2011/11/09 13:36:53.000
+629,Completed-Closed,309,2012/01/03 11:03:09.000
+727,Accepted-In Progress,68,2011/12/02 15:37:58.000
+727,Completed-Closed,68,2012/01/10 10:11:14.000
+1981,Accepted-In Progress,311,2012/05/08 14:43:59.000
+1981,Accepted-Assigned,311,2012/05/08 14:53:49.000
+955,Accepted-In Progress,50,2012/01/27 09:03:23.000
+955,Completed-Closed,50,2012/03/01 14:34:44.000
+2026,Accepted-In Progress,127,2012/05/14 09:57:22.000
+1178,Accepted-In Progress,220,2012/03/06 11:13:34.000
+1178,Accepted-In Progress,220,2012/03/26 10:08:19.000
+1178,Completed-Closed,220,2012/03/26 10:09:33.000
+244,Accepted-In Progress,68,2011/02/16 13:36:35.000
+244,Accepted-Wait,68,2011/10/27 16:58:55.000
+244,Completed-Closed,68,2012/04/18 09:46:11.000
+2052,Accepted-In Progress,206,2012/05/16 12:18:54.000
+2052,Accepted-In Progress,206,2012/05/30 09:12:05.000
+2179,Accepted-In Progress,77,2012/05/30 19:45:49.000
+2179,Queued-Awaiting Assignment,77,2012/05/30 19:48:43.000
+2179,Accepted-Assigned,626,2012/06/04 10:25:49.000
+2179,Accepted-Assigned,175,2012/06/04 10:40:13.000
+2179,Accepted-In Progress,175,2012/06/14 18:19:47.000
+1661,Accepted-In Progress,29,2011/10/24 09:11:07.000
+1661,Accepted-Wait,29,2011/10/24 09:14:00.000
+938,Accepted-In Progress,440,2012/01/24 13:33:29.000
+938,Completed-Closed,440,2012/01/25 08:11:10.000
+1441,Accepted-In Progress,228,2012/05/11 09:10:04.000
+1441,Completed-Closed,228,2012/05/30 10:57:00.000
+52,Accepted-In Progress,21,2010/03/08 09:17:56.000
+52,Accepted-Wait,21,2010/03/08 09:19:32.000
+52,Completed-Closed,21,2012/03/30 10:59:03.000
+1488,Accepted-In Progress,2,2006/11/07 10:00:36.000
+1488,Accepted-In Progress,2,2006/11/07 13:05:44.000
+1488,Accepted-Wait,2,2009/12/02 14:24:32.000
+1488,Accepted-In Progress,2,2011/09/03 07:09:09.000
+361,Accepted-In Progress,143,2011/06/09 17:34:52.000
+361,Accepted-In Progress,143,2012/02/15 11:15:58.000
+361,Completed-Closed,143,2012/02/15 11:16:22.000
+774,Accepted-In Progress,386,2011/12/14 16:00:50.000
+774,Queued-Awaiting Assignment,386,2011/12/14 16:40:11.000
+774,Accepted-In Progress,25,2011/12/16 09:57:47.000
+774,Queued-Awaiting Assignment,248,2011/12/28 10:32:53.000
+774,Accepted-In Progress,354,2012/01/02 10:04:41.000
+774,Accepted-Wait,354,2012/01/02 10:12:41.000
+774,Accepted-In Progress,354,2012/01/17 15:20:02.000
+774,Completed-Closed,354,2012/01/17 15:21:03.000
+66,Accepted-In Progress,57,2010/04/06 09:16:15.000
+66,Accepted-Assigned,57,2010/04/06 10:12:22.000
+66,Queued-Awaiting Assignment,58,2010/04/28 10:07:00.000
+66,Accepted-In Progress,59,2010/04/28 10:35:20.000
+66,Unmatched-Unmatched,59,2010/04/28 10:40:07.000
+66,Completed-Closed,59,2012/02/01 12:25:53.000
+1376,Accepted-In Progress,43,2012/04/18 14:25:44.000
+1376,Completed-Closed,43,2012/04/18 14:26:55.000
+1587,Accepted-In Progress,106,2011/05/02 09:45:31.000
+1587,Completed-Closed,106,2012/02/27 14:31:45.000
+1870,Accepted-In Progress,43,2012/03/15 17:34:01.000
+1870,Completed-Closed,43,2012/03/15 17:37:07.000
+300,Accepted-In Progress,46,2011/04/14 15:36:04.000
+300,Queued-Awaiting Assignment,46,2011/04/14 15:38:58.000
+300,Accepted-In Progress,78,2011/04/14 17:10:44.000
+300,Accepted-Assigned,46,2011/04/14 17:10:49.000
+300,Accepted-In Progress,43,2012/01/30 13:06:42.000
+300,Completed-Closed,43,2012/01/30 13:07:11.000
+1602,Accepted-In Progress,158,2011/06/21 12:01:27.000
+1602,Accepted-Wait,158,2011/07/28 14:22:47.000
+1602,Accepted-Wait,158,2011/07/28 14:24:26.000
+1602,Accepted-In Progress,158,2012/01/19 15:23:31.000
+1602,Completed-Closed,158,2012/01/19 15:25:35.000
+1380,Accepted-In Progress,77,2012/04/19 09:15:21.000
+1380,Accepted-In Progress,77,2012/04/19 09:15:49.000
+1380,Queued-Awaiting Assignment,77,2012/04/19 09:16:09.000
+1380,Accepted-In Progress,77,2012/04/19 09:16:24.000
+1380,Queued-Awaiting Assignment,77,2012/04/19 09:18:34.000
+1380,Accepted-Assigned,119,2012/04/20 14:10:12.000
+1380,Accepted-Assigned,449,2012/05/08 10:41:56.000
+1380,Accepted-In Progress,119,2012/05/09 11:50:00.000
+1380,Completed-Closed,119,2012/05/09 11:50:05.000
+1371,Accepted-In Progress,39,2012/04/17 17:06:27.000
+1371,Completed-Closed,39,2012/05/23 15:39:52.000
+696,Accepted-In Progress,104,2011/11/24 17:30:30.000
+696,Completed-Closed,104,2012/02/15 12:26:06.000
+696,Accepted-In Progress,104,2012/02/15 15:54:41.000
+696,Completed-Closed,104,2012/02/15 16:12:50.000
+1072,Accepted-In Progress,478,2012/02/15 11:57:26.000
+1072,Accepted-Assigned,478,2012/02/15 12:04:34.000
+1072,Accepted-In Progress,478,2012/02/16 12:15:34.000
+1072,Accepted-Wait,478,2012/03/28 12:23:58.000
+1072,Accepted-In Progress,478,2012/04/11 13:49:27.000
+1072,Accepted-Wait,478,2012/04/11 16:10:11.000
+1072,Completed-Closed,478,2012/04/27 10:37:00.000
+1994,Accepted-In Progress,125,2012/05/09 15:07:58.000
+1994,Accepted-Assigned,125,2012/05/09 15:15:44.000
+1994,Accepted-Wait,125,2012/05/09 15:55:09.000
+338,Accepted-In Progress,139,2011/05/13 17:23:13.000
+338,Completed-Closed,139,2012/02/01 16:40:02.000
+743,Accepted-In Progress,298,2011/12/07 14:57:08.000
+743,Completed-Closed,298,2012/01/09 13:50:31.000
+130,Accepted-In Progress,38,2010/07/15 10:35:37.000
+130,Accepted-Wait,38,2010/07/15 10:39:54.000
+130,Completed-Closed,38,2012/03/20 16:18:28.000
+2089,Accepted-In Progress,25,2012/05/21 13:00:48.000
+2089,Accepted-Assigned,25,2012/05/21 13:58:05.000
+2089,Accepted-Wait,25,2012/05/21 14:00:16.000
+1534,Accepted-In Progress,111,2010/08/09 17:21:55.000
+1534,Accepted-Wait,111,2010/08/12 15:09:54.000
+1534,Accepted-Assigned,111,2010/08/18 11:28:48.000
+1534,Accepted-In Progress,111,2010/08/18 15:42:02.000
+1718,Accepted-In Progress,211,2011/12/15 10:55:26.000
+1718,Completed-Closed,211,2012/03/27 11:36:54.000
+2132,Accepted-In Progress,229,2012/05/24 16:24:36.000
+2132,Queued-Awaiting Assignment,229,2012/05/24 16:27:03.000
+2132,Accepted-In Progress,554,2012/05/24 16:51:21.000
+2132,Queued-Awaiting Assignment,44,2012/05/24 16:52:40.000
+2132,Queued-Awaiting Assignment,231,2012/05/25 09:41:22.000
+2132,Accepted-In Progress,122,2012/05/25 09:44:38.000
+2132,Accepted-Wait,122,2012/05/28 11:40:54.000
+1991,Accepted-In Progress,123,2012/05/09 14:28:47.000
+2205,Accepted-In Progress,77,2012/06/01 16:27:00.000
+2205,Queued-Awaiting Assignment,77,2012/06/01 16:45:38.000
+2205,Accepted-Assigned,241,2012/06/04 10:27:25.000
+1779,Accepted-In Progress,77,2012/02/01 11:40:32.000
+1779,Queued-Awaiting Assignment,77,2012/02/08 06:39:43.000
+1779,Accepted-Assigned,267,2012/02/17 08:59:31.000
+1779,Queued-Awaiting Assignment,77,2012/02/27 10:08:24.000
+1779,Accepted-In Progress,433,2012/02/27 13:49:10.000
+2100,Accepted-In Progress,558,2012/05/22 18:13:25.000
+1631,Accepted-In Progress,253,2012/05/23 16:48:45.000
+1631,Completed-Closed,253,2012/05/23 16:51:16.000
+51,Accepted-In Progress,39,2010/03/03 19:25:03.000
+51,Unmatched-Unmatched,39,2010/03/11 15:44:02.000
+51,Accepted-In Progress,39,2010/08/16 11:54:31.000
+51,Accepted-Wait,39,2010/08/16 12:13:10.000
+51,Accepted-In Progress,48,2012/01/17 07:59:31.000
+51,Completed-Closed,48,2012/01/17 07:59:59.000
+1291,Accepted-In Progress,273,2012/03/28 17:06:47.000
+1291,Completed-Closed,273,2012/05/09 08:56:41.000
+2158,Accepted-In Progress,404,2012/05/29 08:44:03.000
+847,Accepted-In Progress,43,2012/01/09 11:55:12.000
+847,Completed-Closed,43,2012/01/09 11:55:57.000
+1978,Accepted-In Progress,366,2012/05/08 12:56:29.000
+2136,Accepted-In Progress,613,2012/05/24 18:10:33.000
+2136,Accepted-Wait,613,2012/05/24 18:14:10.000
+1406,Queued-Awaiting Assignment,69,2012/04/27 10:01:45.000
+1406,Accepted-In Progress,71,2012/04/27 11:08:12.000
+1406,Queued-Awaiting Assignment,2,2012/04/30 15:24:09.000
+1406,Accepted-In Progress,127,2012/04/30 16:09:45.000
+1406,Accepted-Wait,127,2012/05/09 15:03:01.000
+1406,Accepted-In Progress,2,2012/05/23 14:55:27.000
+1406,Completed-Closed,2,2012/05/23 14:56:10.000
+1249,Accepted-In Progress,528,2012/03/19 13:26:39.000
+1249,Completed-Closed,528,2012/03/19 13:33:56.000
+150,Accepted-In Progress,48,2010/09/16 10:24:07.000
+150,Accepted-Wait,48,2010/12/29 11:21:28.000
+150,Completed-Closed,48,2012/01/16 14:49:15.000
+1922,Accepted-In Progress,43,2012/04/23 16:56:04.000
+1922,Completed-Closed,43,2012/04/23 16:59:57.000
+1086,Accepted-In Progress,43,2012/02/16 12:01:43.000
+1086,Completed-Closed,43,2012/02/16 12:05:54.000
+1953,Accepted-In Progress,589,2012/05/03 12:04:47.000
+1953,Accepted-In Progress,589,2012/05/03 12:05:56.000
+1953,Accepted-Wait,589,2012/05/03 12:07:34.000
+1953,Accepted-In Progress,589,2012/05/08 12:56:54.000
+1953,Accepted-Wait,589,2012/05/09 09:57:50.000
+1763,Accepted-In Progress,433,2012/01/18 15:02:14.000
+1763,Accepted-In Progress,433,2012/01/18 15:04:14.000
+1763,Accepted-Wait,433,2012/01/23 10:21:55.000
+1763,Completed-Closed,433,2012/04/20 14:15:47.000
+1195,Accepted-In Progress,285,2012/03/08 10:58:51.000
+1195,Completed-Closed,285,2012/03/22 15:54:52.000
+86,Accepted-In Progress,46,2010/05/05 13:44:03.000
+86,Queued-Awaiting Assignment,46,2010/05/05 14:24:34.000
+86,Accepted-In Progress,54,2010/05/05 16:09:25.000
+86,Accepted-Assigned,46,2010/05/05 16:09:30.000
+86,Accepted-In Progress,43,2012/02/04 08:57:22.000
+86,Completed-Closed,43,2012/02/04 09:10:51.000
+517,Accepted-In Progress,46,2011/09/23 13:22:47.000
+517,Queued-Awaiting Assignment,46,2011/09/23 13:30:07.000
+517,Accepted-In Progress,238,2011/09/23 13:34:00.000
+517,Accepted-Assigned,46,2011/09/23 13:34:10.000
+517,Accepted-In Progress,43,2012/01/31 08:47:43.000
+517,Completed-Closed,43,2012/01/31 08:52:41.000
+582,Queued-Awaiting Assignment,300,2011/10/19 14:46:56.000
+582,Accepted-In Progress,300,2011/10/19 15:23:01.000
+582,Queued-Awaiting Assignment,300,2011/10/19 15:34:22.000
+582,Accepted-In Progress,300,2011/10/19 15:36:21.000
+582,Accepted-In Progress,300,2011/10/19 15:38:22.000
+582,Completed-Closed,300,2012/04/12 14:15:00.000
+379,Accepted-In Progress,77,2011/06/22 12:08:40.000
+379,Completed-Closed,77,2012/01/03 15:59:36.000
+179,Accepted-In Progress,46,2010/11/09 07:48:53.000
+179,Queued-Awaiting Assignment,46,2010/11/09 07:51:35.000
+179,Accepted-In Progress,54,2010/11/09 09:48:16.000
+179,Accepted-Assigned,46,2010/11/09 09:48:31.000
+179,Accepted-In Progress,43,2012/02/04 12:31:11.000
+179,Completed-Closed,43,2012/02/04 12:32:21.000
+417,Accepted-In Progress,62,2011/07/22 11:23:23.000
+417,Accepted-In Progress,62,2011/10/05 22:40:23.000
+417,Queued-Awaiting Assignment,62,2011/10/05 22:40:40.000
+417,Accepted-Assigned,161,2011/10/05 22:46:38.000
+417,Accepted-Assigned,222,2011/10/12 17:45:03.000
+417,Accepted-In Progress,62,2012/02/21 14:43:18.000
+417,Queued-Awaiting Assignment,62,2012/02/21 14:44:28.000
+417,Accepted-Assigned,222,2012/02/21 14:47:32.000
+417,Accepted-In Progress,62,2012/02/22 16:01:36.000
+417,Completed-Closed,62,2012/02/22 16:08:59.000
+1836,Accepted-In Progress,133,2012/02/28 16:30:43.000
+1836,Accepted-Wait,133,2012/02/28 18:05:04.000
+1836,Completed-Closed,133,2012/03/30 10:00:24.000
+1292,Queued-Awaiting Assignment,391,2012/03/28 17:16:05.000
+1292,Accepted-In Progress,391,2012/03/29 14:33:58.000
+1292,Completed-Closed,391,2012/03/29 14:34:45.000
+27,Accepted-In Progress,35,2009/12/14 14:29:17.000
+27,Accepted-In Progress,35,2012/01/10 09:32:43.000
+27,Completed-Closed,35,2012/01/10 09:33:57.000
+286,Accepted-In Progress,39,2011/04/06 14:15:49.000
+286,Accepted-Assigned,39,2012/03/28 13:13:09.000
+286,Completed-Closed,39,2012/04/04 09:28:32.000
+1546,Accepted-In Progress,58,2010/10/08 17:16:15.000
+1546,Queued-Awaiting Assignment,58,2010/10/08 17:19:28.000
+358,Accepted-In Progress,104,2011/06/07 23:21:06.000
+358,Accepted-Wait,104,2011/06/08 13:12:31.000
+358,Queued-Awaiting Assignment,104,2011/06/30 10:19:59.000
+358,Accepted-In Progress,186,2011/11/21 11:58:02.000
+358,Accepted-In Progress,199,2011/11/21 11:58:40.000
+358,Accepted-Assigned,186,2011/11/21 15:00:09.000
+358,Accepted-Assigned,186,2012/01/04 12:27:59.000
+358,Accepted-In Progress,186,2012/01/04 12:28:00.000
+358,Completed-Closed,186,2012/01/06 15:35:57.000
+1786,Accepted-In Progress,291,2012/02/06 14:22:56.000
+1786,Completed-Closed,291,2012/03/27 14:15:36.000
+6,Accepted-In Progress,2,2008/05/07 18:58:51.000
+6,Accepted-In Progress,2,2008/10/06 16:44:37.000
+6,Accepted-Wait,2,2009/12/02 14:24:34.000
+6,Accepted-In Progress,2,2011/09/02 00:27:50.000
+6,Accepted-In Progress,2,2011/09/02 00:27:55.000
+6,Accepted-In Progress,3,2012/01/20 07:53:32.000
+6,Completed-Closed,3,2012/01/20 07:53:35.000
+670,Accepted-In Progress,254,2011/11/15 17:44:09.000
+670,Queued-Awaiting Assignment,254,2011/11/15 17:44:52.000
+670,Accepted-In Progress,327,2011/11/21 11:30:07.000
+670,Completed-Closed,327,2012/05/23 18:28:37.000
+1004,Accepted-In Progress,94,2012/02/06 18:01:49.000
+1004,Accepted-In Progress,94,2012/02/06 18:26:03.000
+1004,Accepted-In Progress,94,2012/02/08 16:27:59.000
+1004,Accepted-In Progress,460,2012/05/07 18:11:25.000
+1004,Completed-Closed,460,2012/05/07 18:16:40.000
+1367,Accepted-In Progress,562,2012/04/17 09:01:12.000
+1367,Queued-Awaiting Assignment,562,2012/04/17 09:03:17.000
+1367,Accepted-In Progress,562,2012/04/25 15:44:11.000
+1367,Completed-Closed,562,2012/04/25 15:49:11.000
+1381,Accepted-In Progress,31,2012/04/19 13:36:37.000
+1381,Accepted-Wait,31,2012/04/19 13:37:20.000
+1381,Completed-Closed,31,2012/05/24 11:41:39.000
+553,Accepted-In Progress,271,2011/10/10 08:15:02.000
+553,Accepted-In Progress,271,2011/11/15 10:28:29.000
+553,Completed-Closed,271,2012/01/04 12:22:22.000
+653,Accepted-In Progress,300,2011/11/08 13:37:04.000
+653,Queued-Awaiting Assignment,300,2011/11/08 13:37:05.000
+653,Accepted-In Progress,300,2011/11/08 13:38:40.000
+653,Queued-Awaiting Assignment,300,2011/11/08 13:38:53.000
+653,Accepted-In Progress,300,2011/11/08 13:39:34.000
+653,Accepted-In Progress,300,2011/11/08 13:47:11.000
+653,Completed-Closed,300,2012/02/01 12:27:13.000
+212,Accepted-In Progress,46,2010/12/23 13:22:24.000
+212,Queued-Awaiting Assignment,46,2010/12/23 13:26:08.000
+212,Accepted-In Progress,78,2010/12/23 13:55:48.000
+212,Accepted-Assigned,46,2010/12/23 13:57:02.000
+212,Accepted-In Progress,43,2012/01/30 15:58:34.000
+212,Completed-Closed,43,2012/01/30 15:58:36.000
+1395,Accepted-In Progress,345,2012/04/24 01:05:25.000
+1395,Queued-Awaiting Assignment,345,2012/04/24 01:06:50.000
+1395,Accepted-In Progress,45,2012/04/24 10:15:22.000
+1395,Completed-Closed,45,2012/05/02 17:23:13.000
+1360,Accepted-In Progress,410,2012/04/16 12:15:04.000
+1360,Completed-Closed,410,2012/04/16 12:17:25.000
+2196,Accepted-In Progress,29,2012/06/01 11:48:05.000
+2196,Accepted-Assigned,29,2012/06/01 11:52:18.000
+1552,Accepted-In Progress,43,2012/01/30 13:05:37.000
+1552,Completed-Closed,43,2012/01/30 13:06:01.000
+156,Accepted-In Progress,66,2010/09/27 14:55:41.000
+156,Queued-Awaiting Assignment,66,2010/09/27 18:32:05.000
+156,Accepted-In Progress,118,2010/09/29 09:53:12.000
+156,Queued-Awaiting Assignment,81,2010/09/29 09:55:31.000
+156,Accepted-In Progress,42,2010/10/22 16:31:35.000
+156,Queued-Awaiting Assignment,119,2010/10/28 13:47:41.000
+156,Accepted-In Progress,120,2010/11/12 12:33:36.000
+156,Queued-Awaiting Assignment,66,2010/11/12 12:52:43.000
+156,Accepted-In Progress,71,2010/11/16 11:09:29.000
+156,Accepted-In Progress,71,2010/11/16 11:22:09.000
+156,Accepted-Wait,71,2010/11/19 17:26:11.000
+156,Accepted-In Progress,71,2011/06/30 10:22:26.000
+156,Accepted-Wait,71,2011/07/01 17:08:45.000
+156,Accepted-In Progress,71,2012/02/29 18:04:06.000
+156,Completed-Closed,71,2012/02/29 18:07:28.000
+441,Accepted-In Progress,120,2011/08/16 09:26:29.000
+441,Accepted-Wait,120,2011/08/16 09:27:10.000
+441,Accepted-Assigned,120,2011/08/16 09:27:44.000
+441,Accepted-In Progress,195,2012/01/18 12:48:50.000
+441,Completed-Closed,195,2012/01/18 12:48:52.000
+1091,Accepted-In Progress,337,2012/02/17 15:31:21.000
+1091,Queued-Awaiting Assignment,337,2012/02/17 15:38:45.000
+1091,Accepted-In Progress,334,2012/02/21 09:09:13.000
+1091,Queued-Awaiting Assignment,229,2012/02/21 09:18:34.000
+1091,Accepted-In Progress,483,2012/02/21 15:15:19.000
+1091,Queued-Awaiting Assignment,484,2012/02/21 15:16:13.000
+1091,Accepted-In Progress,484,2012/02/23 09:16:06.000
+1091,Queued-Awaiting Assignment,485,2012/02/23 09:16:52.000
+1091,Accepted-In Progress,485,2012/02/23 09:39:10.000
+1091,Queued-Awaiting Assignment,337,2012/02/27 13:44:01.000
+1091,Accepted-In Progress,412,2012/02/29 13:28:57.000
+1091,Queued-Awaiting Assignment,484,2012/03/05 13:02:59.000
+1091,Accepted-In Progress,485,2012/03/06 11:37:49.000
+1091,Queued-Awaiting Assignment,154,2012/03/09 10:06:52.000
+1091,Accepted-In Progress,485,2012/03/09 10:06:58.000
+1091,Queued-Awaiting Assignment,154,2012/03/09 10:20:35.000
+1091,Accepted-In Progress,152,2012/03/09 10:53:07.000
+1091,Accepted-In Progress,152,2012/03/09 10:58:13.000
+1091,Queued-Awaiting Assignment,484,2012/03/09 11:00:15.000
+1091,Queued-Awaiting Assignment,39,2012/03/30 15:37:05.000
+1091,Accepted-In Progress,485,2012/03/30 15:37:06.000
+1091,Accepted-In Progress,485,2012/03/30 15:37:52.000
+1091,Accepted-In Progress,485,2012/03/30 15:41:47.000
+1091,Accepted-In Progress,485,2012/03/30 15:45:00.000
+1091,Queued-Awaiting Assignment,150,2012/03/30 15:48:04.000
+1091,Queued-Awaiting Assignment,337,2012/04/16 12:08:22.000
+1091,Accepted-In Progress,337,2012/04/18 09:44:36.000
+1091,Completed-Closed,337,2012/05/07 11:00:32.000
+1668,Accepted-In Progress,2,2011/10/27 15:32:18.000
+1668,Accepted-In Progress,2,2011/10/27 15:33:37.000
+1668,Completed-Closed,2,2012/01/30 13:42:26.000
+357,Accepted-In Progress,198,2011/06/06 18:12:34.000
+357,Accepted-Wait,198,2011/06/06 18:26:36.000
+357,Completed-Closed,198,2012/02/15 12:50:50.000
+1096,Accepted-In Progress,332,2012/02/18 18:50:31.000
+1096,Accepted-Wait,332,2012/02/18 18:50:52.000
+1096,Completed-Closed,332,2012/04/16 10:50:57.000
+214,Queued-Awaiting Assignment,58,2010/12/28 02:59:29.000
+214,Queued-Awaiting Assignment,141,2011/02/03 10:30:57.000
+214,Accepted-Assigned,142,2011/03/11 00:58:59.000
+214,Queued-Awaiting Assignment,58,2011/06/24 03:20:44.000
+214,Accepted-In Progress,59,2011/06/24 05:49:18.000
+214,Completed-Closed,59,2012/02/01 12:28:56.000
