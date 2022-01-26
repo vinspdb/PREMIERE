@@ -106,13 +106,12 @@ if __name__ == "__main__":
 
         outfile.write("Starting time: %s\n" % current_time)
 
-        n_iter = 10
+        n_iter = 20
 
         f1, f2, f3 = 64, 128, 32
         decay = 0.0
         f = 0
 
-        namedataset = "BPI12_W"
         df = pd.read_csv('kometa_fold/'+namedataset+'feature.csv', header=None)
         num_col = df.iloc[:, :-1] # remove target column
         num_col = len(df. columns)
@@ -147,7 +146,7 @@ if __name__ == "__main__":
                  'dropout1': hp.uniform("dropout1", 0, 1),
                  'dropout2': hp.uniform("dropout2", 0, 1),
                  'batch_size': hp.choice('batch_size', [4, 5, 6, 7]),
-                 'learning_rate': hp.loguniform("learning_rate", np.log(0.00001), np.log(0.01)),
+                 'learning_rate': hp.uniform("learning_rate", np.log(0.00001), np.log(0.01)),
                  'n_classes': n_classes}
 
         for f in range(3):
