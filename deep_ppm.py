@@ -48,8 +48,8 @@ def inception_module(layer_in, f1, f2, f3):
 
 def get_model(dense1, dense2, dropout1, dropout2, n_classes, learning_rate):
     inputs = Input(shape=(img_size, img_size, 3))
-    filters = (inception_module(inputs, 64, 128, 32))
-    filters = (inception_module(filters, 64, 128, 32))
+    filters = (inception_module(inputs, f1, f2, f3))
+    filters = (inception_module(filters, f1, f2, f3))
 
     layer_out = Dense(dense1, activation='relu', kernel_initializer=tf.keras.initializers.glorot_uniform(seed=seed))(filters)
     layer_out = Dropout(dropout1)(layer_out)
@@ -108,8 +108,7 @@ if __name__ == "__main__":
 
         n_iter = 60
 
-        f1, f2, f3 = 64, 128, 32
-        decay = 0.0
+        f1, f2, f3 = 32, 64, 128
         f = 0
 
         df = pd.read_csv('feature_fold/'+namedataset+'feature.csv', header=None)
