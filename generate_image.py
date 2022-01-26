@@ -59,7 +59,7 @@ if __name__ == "__main__":
         args = parser.parse_args()
         namedataset = args.event_log
         namedataset = namedataset
-        df = pd.read_csv('kometa_fold/'+namedataset+'feature.csv', header=None)
+        df = pd.read_csv('feature_fold/'+namedataset+'feature.csv', header=None)
         fold1, fold2, fold3 = ut.get_size_fold(namedataset)
         df = df.iloc[:, :-1]
         num_col = len(df. columns)
