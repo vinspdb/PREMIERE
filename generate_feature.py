@@ -3,16 +3,14 @@ import numpy as np
 import itertools
 import utility as ut
 import csv
+import argparse
 
-from itertools import tee
-def pairwise(iterable):
-    "s -> (s0,s1), (s1,s2), (s2, s3), ..."
-    a, b = tee(iterable)
-    next(b, None)
-    return zip(a, b)
 
 if __name__ == "__main__":
-        namedataset = "BPI12_W"
+        parser = argparse.ArgumentParser(description='Inception for next activity prediction.')
+        parser.add_argument('-event_log', type=str, help="Event log name")
+        args = parser.parse_args()
+        namedataset = args.event_log
 
         df_fold = pd.read_csv('fold/'+namedataset+'.txt', header=None) #,encoding='windows-1252')
         df_fold.columns = ["CaseID", "Activity", "Resource", "Timestamp"]
@@ -26,14 +24,12 @@ if __name__ == "__main__":
         listOfevents = df_fold['Activity'].unique()
         listOfeventsInt = list(range(1, unique_events + 1))
         mapping = dict(zip(listOfevents, listOfeventsInt))
-        print(mapping)
 
         df_fold.Activity = [mapping[item] for item in df_fold.Activity]
 
         listOfres = df_fold['Resource'].unique()
         listOfresInt = list(range(1, unique_resources + 1))
         mapping_res = dict(zip(listOfres, listOfresInt))
-        print(mapping_res)
 
         df_fold.Resource = [mapping_res[item] for item in df_fold.Resource]
 
@@ -49,7 +45,6 @@ if __name__ == "__main__":
             time_val = [x for x in time_prefix[i] if x != 0.0]
             time_prefix_new.append(time_val)
             i = i + 1
-        print(time_prefix_new[0])
 
         sequence_prefix = ut.get_sequence(act,max_trace)
         resource_prefix = ut.get_sequence(res, max_trace)
@@ -76,7 +71,7 @@ if __name__ == "__main__":
                 time_feature.append(0)
                 time_feature.append(0)
             else:
-                diff_cons = [y-x for x,y in pairwise(time_prefix_new[i])]
+                diff_cons = [y-x for x,y in ut.pairwise(time_prefix_new[i])]
                 diff_cons_sec = [(item.days/86400) for item in diff_cons]
                 time_feature.append(np.mean(diff_cons_sec))
                 time_feature.append(np.median(diff_cons_sec))
@@ -89,11 +84,11 @@ if __name__ == "__main__":
 
         flow_act = [p for p in itertools.product(listOfeventsInt, repeat=2)]
         target = ut.get_label(act, max_trace)
-        kometa_feature = ut.premiere_feature(list_sequence_prefix, list_resource_prefix, flow_act, agg_time_feature, unique_events, unique_resources, target)
+        premiere_feature = ut.premiere_feature(list_sequence_prefix, list_resource_prefix, flow_act, agg_time_feature, unique_events, unique_resources, target)
 
         with open("kometa_fold/"+namedataset+"feature"+".csv", "w", newline='') as f:
             writer = csv.writer(f, delimiter=',')
-            for feature in kometa_feature:
+            for feature in premiere_feature:
                 writer.writerow(ut.output_list(feature))
 
         print("feature generation complete")
