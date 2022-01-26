@@ -112,7 +112,7 @@ if __name__ == "__main__":
         decay = 0.0
         f = 0
 
-        df = pd.read_csv('kometa_fold/'+namedataset+'feature.csv', header=None)
+        df = pd.read_csv('feature_fold/'+namedataset+'feature.csv', header=None)
         num_col = df.iloc[:, :-1] # remove target column
         num_col = len(df. columns)
         fold1, fold2, fold3 = ut.get_size_fold(namedataset)
