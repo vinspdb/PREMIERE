@@ -12,7 +12,7 @@ def pairwise(iterable):
     return zip(a, b)
 
 if __name__ == "__main__":
-        namedataset = "receipt"
+        namedataset = "BPI12_W"
 
         df_fold = pd.read_csv('fold/'+namedataset+'.txt', header=None) #,encoding='windows-1252')
         df_fold.columns = ["CaseID", "Activity", "Resource", "Timestamp"]
@@ -68,7 +68,7 @@ if __name__ == "__main__":
         while i < len(time_prefix_new):
             time_feature = []
             duration = time_prefix_new[i][-1] - time_prefix_new[i][0]
-            time_feature.append((86400 * duration.days + duration.seconds)/86400)
+            time_feature.append(duration.days/86400)
             time_feature.append(len(list_sequence_prefix[i]))
             if len(list_sequence_prefix[i]) == 1:
                 time_feature.append(0)
@@ -77,7 +77,7 @@ if __name__ == "__main__":
                 time_feature.append(0)
             else:
                 diff_cons = [y-x for x,y in pairwise(time_prefix_new[i])]
-                diff_cons_sec = [((86400 * item.days + item.seconds)/86400) for item in diff_cons]
+                diff_cons_sec = [(item.days/86400) for item in diff_cons]
                 time_feature.append(np.mean(diff_cons_sec))
                 time_feature.append(np.median(diff_cons_sec))
                 time_feature.append(np.min(diff_cons_sec))
@@ -97,8 +97,3 @@ if __name__ == "__main__":
                 writer.writerow(ut.output_list(feature))
 
         print("feature generation complete")
-
-
-
-
-
