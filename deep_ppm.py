@@ -145,7 +145,7 @@ if __name__ == "__main__":
                  'dense2': hp.choice('dense2', [32, 64, 128]),
                  'dropout1': hp.uniform("dropout1", 0, 1),
                  'dropout2': hp.uniform("dropout2", 0, 1),
-                 'batch_size': hp.choice('batch_size', [4, 5, 6, 7]),
+                 'batch_size': hp.choice('batch_size', [5, 6, 7]),
                  'learning_rate': hp.uniform("learning_rate", (0.00001), (0.01)),
                  'n_classes': n_classes}
 
