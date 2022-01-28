@@ -28,21 +28,21 @@ isbn="978-3-030-58638-6"
 }
 ```
 # How to use
-Generate Feature set
+Generate Feature set:
 - event_log: event log name
 
 ```
 python generate_feature.py -event_log receipt
 ```
 
-Generate Image set
+Generate Image set:
 - event_log: event log name
 
 ```
 python generate_image.py -event_log receipt
 ```
 
-Train neural network
+Train neural network:
 - event_log: event log name
 
 ```
