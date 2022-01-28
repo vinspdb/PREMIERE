@@ -106,7 +106,7 @@ if __name__ == "__main__":
 
         outfile.write("Starting time: %s\n" % current_time)
 
-        n_iter = 60
+        n_iter = 20
 
         f1, f2, f3 = 32, 64, 128
         f = 0
