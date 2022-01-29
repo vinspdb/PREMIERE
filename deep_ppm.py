@@ -145,7 +145,7 @@ if __name__ == "__main__":
                  'dropout1': hp.uniform("dropout1", 0, 1),
                  'dropout2': hp.uniform("dropout2", 0, 1),
                  'batch_size': hp.choice('batch_size', [5, 6, 7]),
-                 'learning_rate': hp.uniform("learning_rate", (0.00001), (0.01)),
+                 'learning_rate': hp.loguniform("learning_rate", np.log(0.00001), np.log(0.01)),
                  'n_classes': n_classes}
 
         for f in range(3):
