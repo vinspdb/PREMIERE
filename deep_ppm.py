@@ -108,7 +108,7 @@ if __name__ == "__main__":
 
         n_iter = 20
 
-        f1, f2, f3 = 32, 64, 128
+        f1, f2, f3 = 64, 128, 32
         f = 0
 
         df = pd.read_csv('feature_fold/'+namedataset+'feature.csv', header=None)
