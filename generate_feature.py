@@ -1,94 +1,58 @@
-import pandas as pd
-import numpy as np
 import itertools
-import utility as ut
-import csv
 import argparse
-
+import pickle
+from PREMIERE import PREMIERE
 
 if __name__ == "__main__":
         parser = argparse.ArgumentParser(description='Inception for next activity prediction.')
         parser.add_argument('-event_log', type=str, help="Event log name")
         args = parser.parse_args()
-        namedataset = args.event_log
+        dataset = 'receipt'#args.event_log
 
-        df_fold = pd.read_csv('fold/'+namedataset+'.txt', header=None) #,encoding='windows-1252')
-        df_fold.columns = ["CaseID", "Activity", "Resource", "Timestamp"]
-        cont_trace = df_fold['CaseID'].value_counts(dropna=False)
-        max_trace = max(cont_trace)
-        df_fold['Resource'] = df_fold['Resource'].fillna('-1')
+        pm = PREMIERE(dataset)
+        log = pm.import_log()
 
-        unique_events = df_fold['Activity'].nunique()
-        unique_resources = df_fold['Resource'].nunique()
+        max_trace, n_caseid, n_activity = pm.dataset_summary(log=log)
+        dict_card = {}
+        n_col = 0
+        for col in list(log.columns):
+            if col != 'case' and col != 'timestamp':
+                dict_card[col] = log[col].nunique()
+                n_col = n_col + log[col].nunique()
 
-        listOfevents = df_fold['Activity'].unique()
-        listOfeventsInt = list(range(1, unique_events + 1))
-        mapping = dict(zip(listOfevents, listOfeventsInt))
+        listOfevents = log['activity'].unique()
+        listOfeventsInt = list(range(1, dict_card['activity'] + 1))
+        train, test = pm.generate_prefix_trace(log=log)
 
-        df_fold.Activity = [mapping[item] for item in df_fold.Activity]
+        dict_view_train = {}
+        dict_view_test = {}
 
-        listOfres = df_fold['Resource'].unique()
-        listOfresInt = list(range(1, unique_resources + 1))
-        mapping_res = dict(zip(listOfres, listOfresInt))
+        for col in list(log.columns):
+            if col != 'case':
+                if col == 'timestamp':
+                    dict_view_train[col] = pm.get_time(train.groupby('case', sort=False).agg({col: lambda x: list(x)}))
+                    dict_view_test[col] = pm.get_time(test.groupby('case', sort=False).agg({col: lambda x: list(x)}))
 
-        df_fold.Resource = [mapping_res[item] for item in df_fold.Resource]
+                else:
+                    dict_view_train[col] = pm.get_sequence(train.groupby('case', sort=False).agg({col: lambda x: list(x)}))
+                    dict_view_test[col] = pm.get_sequence(test.groupby('case', sort=False).agg({col: lambda x: list(x)}))
 
-        # group by activity, resource and timestamp by caseid
-        act = df_fold.groupby('CaseID', sort=False).agg({'Activity': lambda x: list(x)})
-        res = df_fold.groupby('CaseID', sort=False).agg({'Resource': lambda x: list(x)})
-        temp = df_fold.groupby('CaseID', sort=False).agg({'Timestamp': lambda x: list(x)})
-
-        time_prefix = ut.get_time(temp, max_trace)
-        i = 0
-        time_prefix_new = []
-        while i < len(time_prefix):
-            time_val = [x for x in time_prefix[i] if x != 0.0]
-            time_prefix_new.append(time_val)
-            i = i + 1
-
-        sequence_prefix = ut.get_sequence(act,max_trace)
-        resource_prefix = ut.get_sequence(res, max_trace)
-
-        i = 0
-        list_sequence_prefix = []
-        list_resource_prefix = []
-
-        while i < len(sequence_prefix):
-            list_sequence_prefix.append(list(np.trim_zeros(sequence_prefix[i])))
-            list_resource_prefix.append(list(np.trim_zeros(resource_prefix[i])))
-            i = i + 1
-
-        i = 0
-        agg_time_feature = []
-        while i < len(time_prefix_new):
-            time_feature = []
-            duration = time_prefix_new[i][-1] - time_prefix_new[i][0]
-            time_feature.append((86400 * duration.days + duration.seconds + duration.microseconds/1000000)/86400)
-            time_feature.append(len(list_sequence_prefix[i]))
-            if len(list_sequence_prefix[i]) == 1:
-                time_feature.append(0)
-                time_feature.append(0)
-                time_feature.append(0)
-                time_feature.append(0)
-            else:
-                diff_cons = [y-x for x,y in ut.pairwise(time_prefix_new[i])]
-                diff_cons_sec = [((86400 * item.days + item.seconds + item.microseconds/1000000)/86400) for item in diff_cons]
-                time_feature.append(np.mean(diff_cons_sec))
-                time_feature.append(np.median(diff_cons_sec))
-                time_feature.append(np.min(diff_cons_sec))
-                time_feature.append(np.max(diff_cons_sec))
-
-            agg_time_feature.append(time_feature)
-
-            i = i + 1
+        agg_time_train = pm.agg_time_feature(dict_view_train['timestamp'])
+        agg_time_test = pm.agg_time_feature(dict_view_test['timestamp'])
 
         flow_act = [p for p in itertools.product(listOfeventsInt, repeat=2)]
-        target = ut.get_label(act, max_trace)
-        premiere_feature = ut.premiere_feature(list_sequence_prefix, list_resource_prefix, flow_act, agg_time_feature, unique_events, unique_resources, target)
 
-        with open("feature_fold/"+namedataset+"feature"+".csv", "w", newline='') as f:
-            writer = csv.writer(f, delimiter=',')
-            for feature in premiere_feature:
-                writer.writerow(ut.output_list(feature))
+        target_train = pm.get_label(train.groupby('case', sort=False).agg({'activity': lambda x: list(x)}))
+        target_test = pm.get_label(test.groupby('case', sort=False).agg({'activity': lambda x: list(x)}))
 
+        premiere_feature_train = pm.premiere_feature(dict_view_train, flow_act, agg_time_train, target_train, dict_card)
+        premiere_feature_test = pm.premiere_feature(dict_view_test, flow_act, agg_time_test, target_test, dict_card)
+
+        pm.generate_feature(dataset,premiere_feature_train, 'train')
+        pm.generate_feature(dataset,premiere_feature_test, 'test')
+
+        with open("image/" +dataset+"/"+ dataset + "_train_y.pkl", 'wb') as handle:
+            pickle.dump(target_train, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        with open("image/" +dataset+"/"+ dataset + "_test_y.pkl", 'wb') as handle:
+            pickle.dump(target_test, handle, protocol=pickle.HIGHEST_PROTOCOL)
         print("feature generation complete")
