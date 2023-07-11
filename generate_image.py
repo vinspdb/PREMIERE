@@ -1,5 +1,4 @@
 import numpy as np
-import utility as ut
 import pandas as pd
 from sklearn import preprocessing
 import argparse
@@ -7,7 +6,7 @@ import argparse
 def dec_to_bin(x):
     return format(int(x), "b")
 
-def rgb_image_generation(df):
+def rgb_image_generation(df, num_col):
     list_image_flat = []
     size, padding = get_image_size(num_col)
     vec = [[0, 0, 0]] * padding
@@ -54,49 +53,30 @@ def get_image_size(num_col):
     return matx, padding
 
 if __name__ == "__main__":
-        parser = argparse.ArgumentParser(description='Inception for next activity prediction.')
-        parser.add_argument('-event_log', type=str, help="Event log name")
-        args = parser.parse_args()
-        namedataset = args.event_log
-        namedataset = namedataset
-        df = pd.read_csv('feature_fold/'+namedataset+'feature.csv', header=None)
-        fold1, fold2, fold3 = ut.get_size_fold(namedataset)
-        df = df.iloc[:, :-1]
-        num_col = len(df. columns)
-        X_1 = df[:fold1]
-        X_2 = df[fold1:(fold1+fold2)]
-        X_3 = df[(fold1+fold2):]
+            parser = argparse.ArgumentParser(description='Inception for next activity prediction.')
+            parser.add_argument('-event_log', type=str, help="Event log name")
+            args = parser.parse_args()
+            namedataset = 'receipt'#args.event_log
+            namedataset = namedataset
+            df_train = pd.read_csv('feature_fold/'+namedataset+'_train.csv', header=None)
+            df_test = pd.read_csv('feature_fold/'+namedataset+'_test.csv', header=None)
 
-        f = 0
-
-        for f in range(3):
-            print("Fold n.", f)
-            if f == 0:
-                X_train = X_1.append(X_2)
-                X_test = X_3
-            elif f == 1:
-                X_train = X_2.append(X_3)
-                X_test = X_1
-            elif f == 2:
-                X_train = X_1.append(X_3)
-                X_test = X_2
-
-            dataframe_train = X_train
-            dataframe_test = X_test
+            df_train = df_train.iloc[:, :-1]
+            df_test = df_test.iloc[:, :-1]
 
             scaler = preprocessing.MinMaxScaler(feature_range=(0, 1))
-            scaler.fit(dataframe_train.values.astype(float))
+            scaler.fit(df_train.values.astype(float))
 
-            train_norm = scaler.transform(dataframe_train.values.astype(float))
-            test_norm = scaler.transform(dataframe_test.values.astype(float))
+            train_norm = scaler.transform(df_train.values.astype(float))
+            test_norm = scaler.transform(df_test.values.astype(float))
+
+            col = train_norm.shape[1]
 
             train_norm = pd.DataFrame(train_norm)
             test_norm = pd.DataFrame(test_norm)
 
-            print("prepare fold n.", f)
-            X_train = rgb_image_generation(train_norm)
-            X_test = rgb_image_generation(test_norm)
+            X_train = rgb_image_generation(train_norm, col)
+            X_test = rgb_image_generation(test_norm, col)
 
-            np.save("image/"+namedataset+"/"+namedataset+"_train_fold_"+str(f) + ".npy", X_train)
-            np.save("image/"+namedataset+"/"+namedataset+"_test_fold_" + str(f) + ".npy", X_test)
-
+            np.save("image/"+namedataset+"/"+namedataset+"_train" + ".npy", X_train)
+            np.save("image/"+namedataset+"/"+namedataset+"_test" + ".npy", X_test)
