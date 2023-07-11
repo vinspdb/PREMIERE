@@ -1,10 +1,3 @@
-import numpy as np
-seed = 123
-np.random.seed(seed)
-import tensorflow as tf
-tf.random.set_seed(seed)
-
-from sklearn.metrics import accuracy_score
 from tensorflow.keras.layers import Dense, Dropout, Flatten
 from tensorflow.keras.layers import Conv2D, MaxPooling2D
 from tensorflow.keras.optimizers import Adam
@@ -17,9 +10,22 @@ import hyperopt
 from time import perf_counter
 import time
 import os
-import utility as ut
 from sklearn import preprocessing
 import argparse
+import pickle
+import random
+import tensorflow as tf
+import numpy as np
+os.environ['PYTHONHASHSEED'] = '0'
+seed = 42
+tf.random.set_seed(seed)
+# Set the random seed for NumPy
+np.random.seed(seed)
+# Set the random seed for Python's built-in random module
+random.seed(seed)
+
+tf.keras.utils.set_random_seed(seed)
+
 
 def get_image_size(num_col):
     import math
@@ -75,7 +81,7 @@ def fit_and_score(params):
                       dropout1=params['dropout1'], dropout2=params['dropout2'], n_classes=params['n_classes'])
     early_stopping = EarlyStopping(monitor='val_loss', patience=20)
 
-    h = model.fit(X_a_train, y_a_train, epochs=200, verbose=0, validation_split=0.2, callbacks=[early_stopping], batch_size=2 ** params['batch_size'])
+    h = model.fit(X_a_train, train_onehot_encoded, epochs=200, verbose=0, validation_split=0.2, callbacks=[early_stopping], batch_size=2 ** params['batch_size'])
 
     scores = [h.history['val_loss'][epoch] for epoch in range(len(h.history['loss']))]
     score = min(scores)
@@ -95,73 +101,61 @@ def fit_and_score(params):
 
 
 if __name__ == "__main__":
-        parser = argparse.ArgumentParser(description='Inception for next activity prediction.')
-        parser.add_argument('-event_log', type=str, help="Event log name")
-        args = parser.parse_args()
-        namedataset = args.event_log
-        output_file = namedataset
+            parser = argparse.ArgumentParser(description='Inception for next activity prediction.')
+            parser.add_argument('-event_log', type=str, help="Event log name")
+            args = parser.parse_args()
+            namedataset = 'receipt'#args.event_log
+            output_file = namedataset
 
-        current_time = time.strftime("%d.%m.%y-%H.%M", time.localtime())
-        outfile = open(output_file+'.log', 'w')
+            current_time = time.strftime("%d.%m.%y-%H.%M", time.localtime())
+            outfile = open(output_file+'.log', 'w')
 
-        outfile.write("Starting time: %s\n" % current_time)
+            outfile.write("Starting time: %s\n" % current_time)
 
-        n_iter = 20
+            n_iter = 20
+            f1, f2, f3 = 64, 128, 32
 
-        f1, f2, f3 = 64, 128, 32
-        f = 0
+            df_train = pd.read_csv('feature_fold/'+namedataset+'_train.csv', header=None)
+            df_test = pd.read_csv('feature_fold/'+namedataset+'_test.csv', header=None)
 
-        df = pd.read_csv('feature_fold/'+namedataset+'feature.csv', header=None)
-        num_col = df.iloc[:, :-1] # remove target column
-        num_col = len(df. columns)
-        fold1, fold2, fold3 = ut.get_size_fold(namedataset)
-        target = df[df.columns[-1]]
-        df_labels = np.unique(list(target))
+            with open("image/"+namedataset+"/"+namedataset+"_train_y.pkl", 'rb') as handle:
+                l_train = pickle.load(handle)
 
-        img_size, pad = get_image_size(num_col)
+            with open("image/"+namedataset+"/"+namedataset+"_test_y.pkl", 'rb') as handle:
+                l_test = pickle.load(handle)
 
-        label_encoder = preprocessing.LabelEncoder()
-        integer_encoded = label_encoder.fit_transform(df_labels)
-        integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
 
-        onehot_encoder = preprocessing.OneHotEncoder(sparse=False)
-        onehot_encoder.fit(integer_encoded)
-        onehot_encoded = onehot_encoder.transform(integer_encoded)
+            df_labels = np.unique(list(l_train) + list(l_test))
+            n_classes = len(df_labels)
 
-        train_integer_encoded = label_encoder.transform(target).reshape(-1, 1)
-        train_onehot_encoded = onehot_encoder.transform(train_integer_encoded)
-        y_one_hot = np.asarray(train_onehot_encoded)
+            label_encoder = preprocessing.LabelEncoder()
+            integer_encoded = label_encoder.fit_transform(df_labels)
+            integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
 
-        n_classes = len(df_labels)
+            onehot_encoder = preprocessing.OneHotEncoder(sparse=False)
+            onehot_encoder.fit(integer_encoded)
+            onehot_encoded = onehot_encoder.transform(integer_encoded)
 
-        Y_1 = y_one_hot[:fold1]
-        Y_2 = y_one_hot[fold1:(fold1+fold2)]
-        Y_3 = y_one_hot[(fold1+fold2):]
+            train_integer_encoded = label_encoder.transform(l_train).reshape(-1, 1)
+            train_onehot_encoded = onehot_encoder.transform(train_integer_encoded)
+            Y_train = np.asarray(train_onehot_encoded)
 
-        print(n_classes)
+            test_integer_encoded = label_encoder.transform(l_test).reshape(-1, 1)
+            test_onehot_encoded = onehot_encoder.transform(test_integer_encoded)
+            Y_test = np.asarray(test_onehot_encoded)
+            Y_test_int = np.asarray(test_integer_encoded)
 
-        space = {'dense1': hp.choice('dense1', [32, 64, 128]),
-                 'dense2': hp.choice('dense2', [32, 64, 128]),
-                 'dropout1': hp.uniform("dropout1", 0, 1),
-                 'dropout2': hp.uniform("dropout2", 0, 1),
-                 'batch_size': hp.choice('batch_size', [5, 6, 7]),
-                 'learning_rate': hp.loguniform("learning_rate", np.log(0.00001), np.log(0.01)),
-                 'n_classes': n_classes}
+            space = {'dense1': hp.choice('dense1', [32, 64, 128]),
+                     'dense2': hp.choice('dense2', [32, 64, 128]),
+                     'dropout1': hp.uniform("dropout1", 0, 1),
+                     'dropout2': hp.uniform("dropout2", 0, 1),
+                     'batch_size': hp.choice('batch_size', [5, 6, 7]),
+                     'learning_rate': hp.loguniform("learning_rate", np.log(0.00001), np.log(0.01)),
+                     'n_classes': n_classes}
 
-        for f in range(3):
-            print("Fold n.", f)
-            if f == 0:
-                y_a_train = np.concatenate((Y_1, Y_2))
-                y_a_test = Y_3
-            elif f == 1:
-                y_a_train = np.concatenate((Y_2, Y_3))
-                y_a_test = Y_1
-            elif f == 2:
-                y_a_train = np.concatenate((Y_1, Y_3))
-                y_a_test = Y_2
-
-            X_a_train = np.load("image/"+namedataset+"/"+namedataset+"_train_fold_"+str(f)+".npy")
-            X_a_test = np.load("image/"+namedataset+"/"+namedataset+"_test_fold_"+str(f)+".npy")
+            X_a_train = np.load("image/"+namedataset+"/"+namedataset+"_train.npy")
+            X_a_test = np.load("image/"+namedataset+"/"+namedataset+"_test.npy")
+            img_size = X_a_train.shape[1]
 
             X_a_train = np.asarray(X_a_train)
             X_a_test = np.asarray(X_a_test)
@@ -180,7 +174,7 @@ if __name__ == "__main__":
 
             trials = Trials()
             best = fmin(fit_and_score, space, algo=tpe.suggest, max_evals=n_iter, trials=trials,
-                        rstate=np.random.RandomState(seed + f))
+                        rstate=np.random.RandomState(seed))
             best_params = hyperopt.space_eval(space, best)
 
             outfile.write("\nHyperopt trials")
@@ -203,17 +197,8 @@ if __name__ == "__main__":
             print(best_params, file=outfile)
             outfile.write("\nModel parameters: %d" % best_numparameters)
             outfile.write('\nBest Time taken: %f' % best_time)
-
-            # evaluate
-            print('Evaluating final model...')
-            preds_a = best_model.predict(X_a_test)
-
-            y_a_test = np.argmax(y_a_test, axis=1)
-            preds_a = np.argmax(preds_a, axis=1)
-            accuracy = accuracy_score(y_a_test, preds_a)
-
-            outfile.write("\n"+str(accuracy))
+            best_model.save('model/'+namedataset+'.h5')
 
             outfile.flush()
 
-        outfile.close()
+            outfile.close()
