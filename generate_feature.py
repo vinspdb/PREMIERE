@@ -7,7 +7,7 @@ if __name__ == "__main__":
         parser = argparse.ArgumentParser(description='Inception for next activity prediction.')
         parser.add_argument('-event_log', type=str, help="Event log name")
         args = parser.parse_args()
-        dataset = 'receipt'#args.event_log
+        dataset = args.event_log
 
         pm = PREMIERE(dataset)
         log = pm.import_log()
