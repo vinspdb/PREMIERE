@@ -56,7 +56,7 @@ if __name__ == "__main__":
             parser = argparse.ArgumentParser(description='Inception for next activity prediction.')
             parser.add_argument('-event_log', type=str, help="Event log name")
             args = parser.parse_args()
-            namedataset = 'receipt'#args.event_log
+            namedataset = args.event_log
             namedataset = namedataset
             df_train = pd.read_csv('feature_fold/'+namedataset+'_train.csv', header=None)
             df_test = pd.read_csv('feature_fold/'+namedataset+'_test.csv', header=None)
