@@ -104,7 +104,7 @@ if __name__ == "__main__":
             parser = argparse.ArgumentParser(description='Inception for next activity prediction.')
             parser.add_argument('-event_log', type=str, help="Event log name")
             args = parser.parse_args()
-            namedataset = 'receipt'#args.event_log
+            namedataset = args.event_log
             output_file = namedataset
 
             current_time = time.strftime("%d.%m.%y-%H.%M", time.localtime())
